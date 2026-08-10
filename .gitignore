@@ -1,0 +1,9 @@
+# Fetched READMEs and trees. Rebuilt on demand, and the daily run passes --refresh anyway.
+.cache/
+
+# The intermediate candidate list. Three thousand lines that change every day and mean
+# nothing to a reader — the outcome is in subs/status.json.
+subs/candidates.txt
+
+# Python bytecode.
+__pycache__/

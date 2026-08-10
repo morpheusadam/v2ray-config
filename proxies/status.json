@@ -1,0 +1,4768 @@
+{
+ "generatedAt": "2026-08-10T21:10:22Z",
+ "proxies": {
+  "103.171.255.242:8086": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5630,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "204.76.203.9:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 736,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.285,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 49.99
+  },
+  "144.178.199.118:8443": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 765,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.274,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 49.88
+  },
+  "95.211.174.135:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 805,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.26,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 49.74
+  },
+  "95.211.64.139:8889": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 728,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.288,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 50.02
+  },
+  "151.115.99.193:10006": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1958,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.006,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.2
+  },
+  "82.102.11.164:3460": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1165,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.154,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.68
+  },
+  "45.153.4.154:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1413,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.099,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.13
+  },
+  "66.163.119.55:10006": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 5893,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "66.163.118.99:10006": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1008,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.195,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 49.1
+  },
+  "51.159.97.242:10006": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 7432,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "176.111.37.216:39811": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 914,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.223,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 49.38
+  },
+  "45.144.54.40:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1401,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.102,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.16
+  },
+  "185.200.188.234:10001": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1604,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.063,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.77
+  },
+  "176.111.37.5:39811": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 930,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.218,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 49.33
+  },
+  "45.155.226.177:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1398,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.102,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.16
+  },
+  "130.110.103.245:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1318,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.119,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.33
+  },
+  "95.3.69.222:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2211,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "172.110.220.36:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1316,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.119,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.34
+  },
+  "103.237.102.191:11111": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1857,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.021,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.35
+  },
+  "37.59.125.131:8888": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1196,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.147,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.61
+  },
+  "64.112.184.210:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2948,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "169.58.85.194:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2480,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "86.53.163.185:10002": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4363,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "5.230.201.154:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 6416,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "34.43.46.91:80": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1333,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.116,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.3
+  },
+  "216.106.182.177:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2416,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "167.86.126.27:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2565,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "5.200.72.62:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2356,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "34.43.46.91:443": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1948,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.008,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.22
+  },
+  "176.120.28.106:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3212,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "69.55.49.177:38182": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2589,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "117.236.124.166:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4827,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "178.252.180.59:10909": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3538,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "147.45.166.120:3333": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1615,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.061,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.75
+  },
+  "144.91.111.48:1088": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1480,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.086,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.0
+  },
+  "144.24.111.128:1088": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 5226,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "114.236.137.41:21000": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3026,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "38.76.9.0:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3019,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "165.154.162.73:8888": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3669,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "122.246.3.210:17981": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4810,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "5.78.44.212:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 4609,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "181.39.25.196:8118": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2380,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.77.173.125:9486": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1769,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.035,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.49
+  },
+  "165.154.20.187:10808": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 6720,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "119.188.131.55:17981": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4536,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "202.28.194.139:31280": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4568,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "213.136.92.91:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2723,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "152.42.167.241:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2843,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "47.250.211.53:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2798,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "116.196.150.180:17981": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2015,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "45.43.63.37:10808": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2621,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "95.211.64.139:8888": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1294,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.124,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.38
+  },
+  "45.61.129.165:9050": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks4",
+   "latencyMs": 3139,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "1.231.81.166:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1801,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.03,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.44
+  },
+  "47.81.56.193:8888": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1713,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.044,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.58
+  },
+  "193.233.218.213:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1568,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.069,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.84
+  },
+  "43.99.100.108:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1929,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.01,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.25
+  },
+  "219.142.66.244:9090": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1863,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.02,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.35
+  },
+  "47.75.116.41:10800": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2341,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "123.58.219.171:10808": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 6088,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "43.164.136.189:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 5778,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "101.36.104.46:10808": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 4406,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "101.36.104.239:10808": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2801,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "121.169.46.116:1090": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 4530,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "212.58.132.5:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1970,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.004,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.19
+  },
+  "14.139.235.82:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2387,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "59.38.113.185:20000": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1697,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.047,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.61
+  },
+  "43.162.94.99:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 4019,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "101.206.186.99:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 7179,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "95.181.213.41:10808": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 6536,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "47.84.84.1:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4896,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "113.160.132.26:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2457,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "152.69.167.87:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 7417,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "158.178.247.206:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 7612,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "112.28.149.152:8443": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3225,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "175.136.239.174:8181": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3103,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "149.62.186.244:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1825,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.026,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.4
+  },
+  "27.185.218.213:17981": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2007,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "95.85.233.144:18443": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks4",
+   "latencyMs": 1094,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.172,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.86
+  },
+  "88.210.11.216:8989": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3865,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "92.51.21.96:8081": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5351,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "79.137.192.65:30081": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2571,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "92.118.234.124:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 6014,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "66.163.127.204:10006": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks4",
+   "latencyMs": 2248,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "43.156.84.41:10808": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1662,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.053,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.67
+  },
+  "159.195.49.27:8888": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1881,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.017,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.32
+  },
+  "143.198.87.117:8888": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3718,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "38.76.215.92:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3854,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "175.139.255.25:8181": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2306,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "2.78.60.10:3129": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2679,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "175.143.76.177:8181": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2203,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.161.69.252:2698": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4834,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "144.22.165.206:1088": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3799,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "47.76.220.47:33128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1546,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.073,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.88
+  },
+  "185.209.29.226:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3007,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "194.163.174.78:1088": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1804,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.029,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.44
+  },
+  "144.91.121.61:1088": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3192,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "178.128.82.131:10808": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2366,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "147.45.60.250:1082": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 4143,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "150.241.70.103:6666": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 6483,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "43.163.122.46:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 7102,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.6.235.13:5555": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1830,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.025,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.4
+  },
+  "8.215.25.3:2080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1444,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.093,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.07
+  },
+  "161.35.90.93:1081": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 5075,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "216.106.179.216:49430": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks4",
+   "latencyMs": 2027,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "51.222.104.72:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 6494,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "47.85.195.135:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3800,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "185.171.83.65:49153": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks4",
+   "latencyMs": 3840,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "107.191.44.214:1081": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3858,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "129.151.9.55:10808": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2807,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "147.45.60.124:1082": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3205,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "193.25.215.182:22222": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1824,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.026,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.41
+  },
+  "147.45.221.115:1082": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1575,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.068,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.82
+  },
+  "45.95.232.35:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks4",
+   "latencyMs": 2020,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "58.186.168.155:1081": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2690,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "43.134.58.45:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 4260,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "194.163.174.78:1085": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2231,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.45.245.39:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1136,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.161,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.76
+  },
+  "150.136.58.221:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3875,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "195.135.255.98:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 668,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.313,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 50.27
+  },
+  "185.196.61.251:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 5527,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "116.48.170.221:11000": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 5228,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "216.106.179.216:49153": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks4",
+   "latencyMs": 5499,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "109.172.55.177:1082": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2286,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "77.72.18.253:9080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks4",
+   "latencyMs": 958,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.21,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 49.24
+  },
+  "45.74.178.43:9091": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2563,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "91.228.133.191:8888": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1971,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.004,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.18
+  },
+  "45.137.43.0:1081": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 589,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.349,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 50.63
+  },
+  "47.236.177.236:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 6950,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "157.245.196.151:9090": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3497,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "140.245.36.86:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3562,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.151.74.29:2025": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3446,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "85.122.120.119:30016": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1186,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.149,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.63
+  },
+  "131.222.253.78:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2796,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "8.211.170.91:14680": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2848,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "109.94.1.23:4050": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2486,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "202.62.62.113:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2345,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "153.80.240.37:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1770,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.035,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.49
+  },
+  "194.62.52.29:9050": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks4",
+   "latencyMs": 7162,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.156.75.246:8181": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4704,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "175.136.239.173:8181": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3552,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "194.163.174.78:1084": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1822,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.027,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.41
+  },
+  "138.117.85.133:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4435,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "115.127.181.114:6969": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4524,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "130.17.2.209:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 913,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.224,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 49.38
+  },
+  "47.251.127.154:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks4",
+   "latencyMs": 5481,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.155.196.46:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4037,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "43.163.219.10:20000": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2612,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "37.187.109.70:10111": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3122,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "186.10.150.112:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3841,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "186.5.94.216:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 7352,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "37.18.73.60:5566": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2050,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "152.53.20.190:20000": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3659,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "43.133.128.153:16012": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 7155,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "180.211.93.91:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5228,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "131.222.251.73:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3891,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "154.18.255.25:1111": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3865,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.132.52.20:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3801,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "98.154.21.253:4228": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3306,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "62.113.113.114:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3032,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "89.251.21.4:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 6652,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "101.255.164.214:8090": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 7320,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.19.78.243:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4078,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "160.22.134.47:1111": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3835,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "102.209.18.248:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5668,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "154.126.213.152:8070": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4781,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.189.249.145:1111": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 7012,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "181.225.107.53:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3113,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "181.78.94.23:9991": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5489,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "195.133.14.222:49152": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1078,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.176,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.91
+  },
+  "18.141.223.48:3129": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1383,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.105,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.19
+  },
+  "124.217.42.13:8082": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3550,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "38.51.216.56:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 7571,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "110.76.147.26:1111": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4544,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "45.174.108.143:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4647,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "2.60.120.138:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 10324,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "122.54.132.131:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4575,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "124.106.83.244:8083": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5021,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "186.33.3.209:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5509,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.172.71.140:8989": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5178,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "43.153.82.179:8888": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5314,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "36.92.104.123:8000": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4414,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.173.138.236:1111": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5993,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "38.75.82.221:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5133,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.135.48.30:8089": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4018,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "202.58.77.214:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2621,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "45.65.138.48:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3873,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.247.15.103:9090": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 6800,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "78.109.34.192:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4624,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "67.220.95.36:8202": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1157,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.156,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.7
+  },
+  "163.181.207.230:9999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1385,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.105,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.19
+  },
+  "138.186.187.208:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4146,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "58.186.168.155:2103": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 6964,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.174.123.5:8089": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4614,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "216.106.179.216:49252": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks4",
+   "latencyMs": 6957,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "13.41.196.179:9002": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3544,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "200.59.191.100:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 6665,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "200.35.34.134:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5468,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "202.52.48.42:4444": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2494,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "188.217.172.202:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5049,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "177.139.174.81:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5006,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "163.227.146.38:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2720,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "45.174.168.3:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4209,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "77.50.235.130:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 7693,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.174.122.197:8199": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2303,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "27.254.99.183:8118": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2530,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "74.208.117.247:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1409,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.1,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.14
+  },
+  "38.49.210.79:40000": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1726,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.042,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.56
+  },
+  "103.172.42.143:1111": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5959,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "216.106.179.216:49497": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 6688,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "163.181.207.214:9999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1868,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.019,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.34
+  },
+  "103.82.126.243:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3093,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "58.186.168.155:2033": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3649,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.178.176.14:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 7955,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "210.201.86.72:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 6625,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "146.196.40.165:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4355,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "160.179.53.231:3129": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1960,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.006,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.2
+  },
+  "38.194.250.174:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4298,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "216.106.179.216:49479": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks4",
+   "latencyMs": 5923,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.106.79.253:2233": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3688,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "89.169.168.25:6101": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks4",
+   "latencyMs": 1935,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.009,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.24
+  },
+  "202.43.165.140:10802": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3222,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.242.105.199:8199": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2155,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "109.123.251.109:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1513,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.08,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.94
+  },
+  "104.238.100.115:45314": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 4181,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "195.19.50.130:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 5186,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "87.251.77.29:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 475,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.41,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 51.24
+  },
+  "45.144.53.63:5001": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1421,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.097,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.12
+  },
+  "190.0.246.211:4040": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1953,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.007,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.21
+  },
+  "103.133.24.123:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4764,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "210.131.214.36:80": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3417,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "85.208.200.185:8081": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 6949,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "8.138.217.152:21001": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2524,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "111.230.27.213:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 7617,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "185.191.106.0:8081": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4919,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "164.163.73.5:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4616,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.156.248.60:8080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 8435,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "49.144.19.84:8181": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 7153,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.179.252.153:8181": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4571,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "181.78.195.137:999": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 6985,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "119.28.64.217:50161": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2352,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "138.128.247.206:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1217,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.142,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.56
+  },
+  "195.19.50.120:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2962,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "123.249.14.223:21677": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 1410,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.1,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.14
+  },
+  "152.89.104.11:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3042,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "103.130.61.61:8081": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1842,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.023,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.38
+  },
+  "161.35.90.93:1082": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2158,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "185.221.153.22:8443": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3317,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "211.162.68.57:1088": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2318,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "192.9.231.220:30001": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 3335,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "34.215.116.246:3128": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 1285,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.126,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 48.4
+  },
+  "45.40.136.39:45741": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 2234,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "203.189.150.44:1080": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "socks5",
+   "latencyMs": 4527,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "40.177.99.164:31822": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 6820,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "56.68.116.64:47651": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2755,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "18.170.25.193:53656": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 7240,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "51.16.42.227:38531": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3830,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "51.16.42.227:33527": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4854,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "13.60.163.108:39409": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 2857,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "13.38.27.183:26602": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 8015,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "13.48.13.125:11726": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 4485,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "3.127.27.51:11726": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3645,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "3.121.130.230:48716": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3319,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "51.44.97.6:2025": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 3147,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  },
+  "63.179.134.206:56179": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "checks": 1,
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "protocol": "http",
+   "latencyMs": 5410,
+   "successes": 1,
+   "streak": 1,
+   "fails": 0,
+   "lastAlive": "2026-08-10T21:10:22Z",
+   "scoreParts": {
+    "speed": 0.0,
+    "uptime": 1.0,
+    "streak": 0.143
+   },
+   "score": 47.14
+  }
+ },
+ "sources": {
+  "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 2632,
+   "usable": 2630,
+   "new": 2033,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 2412,
+   "usable": 2411,
+   "new": 601,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 1904,
+   "usable": 1903,
+   "new": 176,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 435,
+   "usable": 435,
+   "new": 258,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 133,
+   "usable": 133,
+   "new": 61,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 119,
+   "usable": 119,
+   "new": 33,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/http.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 554,
+   "usable": 554,
+   "new": 536,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/socks4.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 630,
+   "usable": 630,
+   "new": 449,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/socks5.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 247,
+   "usable": 247,
+   "new": 103,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 117,
+   "usable": 117,
+   "new": 91,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 150,
+   "usable": 150,
+   "new": 85,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS5_RAW.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 5,
+   "usable": 5,
+   "new": 3,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 212,
+   "usable": 212,
+   "new": 43,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/prxchk/proxy-list/main/all.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 100,
+   "usable": 100,
+   "new": 84,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 59,
+   "usable": 59,
+   "new": 31,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks4.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 211,
+   "usable": 211,
+   "new": 63,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 180,
+   "usable": 180,
+   "new": 22,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/all/data.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 2452,
+   "usable": 2452,
+   "new": 1899,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 1801,
+   "usable": 1801,
+   "new": 1628,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 1603,
+   "usable": 1603,
+   "new": 1131,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 405,
+   "usable": 405,
+   "new": 162,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/http.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 528,
+   "usable": 528,
+   "new": 0,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/socks4.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 168,
+   "usable": 168,
+   "new": 0,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/socks5.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 21,
+   "usable": 21,
+   "new": 0,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 400,
+   "usable": 400,
+   "new": 0,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  },
+  "https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/generated/http_proxies.txt": {
+   "firstSeen": "2026-08-10T21:10:22Z",
+   "lastChecked": "2026-08-10T21:10:22Z",
+   "httpStatus": 206,
+   "lines": 1837,
+   "usable": 1835,
+   "new": 1,
+   "lastYielded": "2026-08-10T21:10:22Z"
+  }
+ },
+ "density": {
+  "hits": 115,
+  "sampled": 266,
+  "measuredAt": "2026-08-10T21:10:22Z"
+ }
+}

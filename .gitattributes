@@ -1,0 +1,11 @@
+# Everything published here is fetched over HTTP and parsed line by line on a phone.
+# Committing from Windows must not turn that into CRLF, so line endings are pinned rather
+# than left to whoever runs the job.
+* text=auto eol=lf
+
+# The status files are large, machine-written, and rewritten whole every day. Marking them
+# as generated keeps them out of diffs on GitHub, where they are noise.
+subs/status.json linguist-generated=true
+proxies/status.json linguist-generated=true
+subs/STATUS.md linguist-generated=true
+proxies/STATUS.md linguist-generated=true
