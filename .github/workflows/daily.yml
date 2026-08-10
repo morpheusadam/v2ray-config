@@ -3,13 +3,23 @@ name: Daily update
 # Everything this repository publishes is rebuilt here, once a day, and committed back.
 # Nothing is maintained by hand: subs/all.txt and proxies/all.txt are outputs.
 #
-# 03:20 UTC is chosen for being nowhere near the top of an hour — GitHub runs every cron
-# scheduled at :00 at the same moment and the queue for that minute can be tens of minutes
-# long. It is also off-peak, so a run that needs an hour of network gets it.
+# The time is chosen so the *commit* lands when GitHub is busiest, while the *run* starts
+# before it. Those are not the same instant, and conflating them is how a daily job ends up
+# either invisible or unreliable.
+#
+#   · Human activity on GitHub peaks roughly 14:00–17:00 UTC, where the European afternoon
+#     overlaps the US East Coast morning. A push landing then is seen by the most people.
+#   · GitHub's own Actions queue peaks at the same hour, which is exactly when scheduled
+#     workflows get delayed 5–30 minutes — and, under enough load, dropped altogether.
+#   · Cron at :00 or :30 is worst of all: every schedule on the platform fires together.
+#
+# So: start at 12:37, an odd minute ahead of the wave, and let the run — around an hour of
+# network — finish and commit inside the 14:00 window. Late is fine here; the job is
+# idempotent and nothing downstream cares about the minute.
 
 on:
   schedule:
-    - cron: "20 3 * * *"
+    - cron: "37 12 * * *"
   workflow_dispatch:
     inputs:
       skip_proxies:
