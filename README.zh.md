@@ -1,11 +1,19 @@
 <div align="center">
 
+<img src="docs/banner.svg" alt="v2ray-config — free V2Ray subscription links, rebuilt from measurement every day" width="100%">
+
 # 免费 V2Ray 订阅链接 — VLESS、VMess、Trojan、Shadowsocks、Hysteria2
 
 **每天用实测结果重新生成的订阅列表，而不是抓一次就扔在那里。**
 
 这里每一条链接都被下载、解码，并证明确实带着可用的配置。每一个代理都先打通了到 GitHub 的
 真实 TLS 隧道才被放进来。没有任何一条是靠信任进来的。
+
+<p>
+<a href="https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/all.txt"><img alt="Subscription catalog" src="https://img.shields.io/badge/%E8%AE%A2%E9%98%85%E7%9B%AE%E5%BD%95-00A868?style=for-the-badge"></a>
+<a href="https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/proxies/all.txt"><img alt="Proxy list" src="https://img.shields.io/badge/%E4%BB%A3%E7%90%86%E5%88%97%E8%A1%A8-6C4EF5?style=for-the-badge"></a>
+<a href="subs/STATUS.md"><img alt="Standings" src="https://img.shields.io/badge/%E5%AE%9E%E6%97%B6%E6%A6%9C%E5%8D%95-1f1f22?style=for-the-badge"></a>
+</p>
 
 [![Subscriptions](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmorpheusadam%2Fv2ray-config%2Fmain%2Fsubs%2Fbadge.json&style=for-the-badge&color=00c853)](subs/all.txt)
 [![Proxies](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmorpheusadam%2Fv2ray-config%2Fmain%2Fproxies%2Fbadge.json&style=for-the-badge&color=6c4ef5)](proxies/all.txt)
@@ -82,6 +90,7 @@ https://raw.githack.com/morpheusadam/v2ray-config/main/subs/all.txt
 | 客户端 | 平台 | 怎么用 |
 |---|---|---|
 | [v2rayV](https://github.com/morpheusadam/v2rayV) | Android | 专为这份列表做的。按一次电源键，自己导入、测速、连上 |
+| [v2rayN-Pro-Max](https://github.com/morpheusadam/v2rayN-Pro-Max) | Windows、Linux | 桌面版兄弟项目，Auto Mode 最早就在这里。同样是为这份列表做的。 |
 | [v2rayNG](https://github.com/2dust/v2rayNG) | Android | 订阅设置 → **+** → 粘贴链接 |
 | [v2rayN](https://github.com/2dust/v2rayN) | Windows、macOS、Linux | Subscriptions → Add → 粘贴 |
 | [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) | Android | Groups → **+** → Subscription |

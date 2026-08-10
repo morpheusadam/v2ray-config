@@ -1,11 +1,19 @@
 <div align="center">
 
+<img src="docs/banner.svg" alt="v2ray-config — free V2Ray subscription links, rebuilt from measurement every day" width="100%">
+
 # کانفیگ و ساب رایگان V2Ray — VLESS، VMess، Trojan، Shadowsocks، Hysteria2
 
 **لیستی که هر روز از روی اندازه‌گیری دوباره ساخته می‌شود، نه یک‌بار جمع شده و رها شده.**
 
 هر لینک اینجا دانلود، decode و ثابت شده که کانفیگ سالم دارد. هر پروکسی اینجا قبل از ورود،
 یک تونل TLS واقعی به GitHub باز کرده. هیچ‌چیز روی حرف قبول نشده.
+
+<p>
+<a href="https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/all.txt"><img alt="Subscription catalog" src="https://img.shields.io/badge/%D9%84%DB%8C%D9%86%DA%A9%20%D8%B3%D8%A7%D8%A8-00A868?style=for-the-badge"></a>
+<a href="https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/proxies/all.txt"><img alt="Proxy list" src="https://img.shields.io/badge/%D9%84%DB%8C%D8%B3%D8%AA%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C-6C4EF5?style=for-the-badge"></a>
+<a href="subs/STATUS.md"><img alt="Standings" src="https://img.shields.io/badge/%D8%AC%D8%AF%D9%88%D9%84%20%D8%B2%D9%86%D8%AF%D9%87-1f1f22?style=for-the-badge"></a>
+</p>
 
 [![Subscriptions](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmorpheusadam%2Fv2ray-config%2Fmain%2Fsubs%2Fbadge.json&style=for-the-badge&color=00c853)](subs/all.txt)
 [![Proxies](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmorpheusadam%2Fv2ray-config%2Fmain%2Fproxies%2Fbadge.json&style=for-the-badge&color=6c4ef5)](proxies/all.txt)
@@ -101,6 +109,7 @@ https://raw.githack.com/morpheusadam/v2ray-config/main/subs/all.txt
 | کلاینت | پلتفرم | روش |
 |---|---|---|
 | [v2rayV](https://github.com/morpheusadam/v2rayV) | Android | برای همین لیست ساخته شده. یک‌بار دکمهٔ پاور را بزن — خودش import، تست و وصل می‌کند. |
+| [v2rayN-Pro-Max](https://github.com/morpheusadam/v2rayN-Pro-Max) | Windows، Linux | نسخهٔ دسکتاپ، جایی که Auto Mode از آن شروع شد. آن هم برای همین لیست ساخته شده. |
 | [v2rayNG](https://github.com/2dust/v2rayNG) | Android | تنظیمات ساب ← **+** ← paste |
 | [v2rayN](https://github.com/2dust/v2rayN) | Windows، macOS، Linux | Subscriptions ← Add ← paste |
 | [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) | Android | Groups ← **+** ← Subscription |

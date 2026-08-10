@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img"
+     aria-label="v2ray-config — free V2Ray subscription links, rebuilt from measurement every day">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07120e"/>
+      <stop offset="0.55" stop-color="#0b1a16"/>
+      <stop offset="1" stop-color="#05100d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e08a"/>
+      <stop offset="1" stop-color="#6c4ef5"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+
+  <!-- signal bars: the ranking, drawn as what it is -->
+  <g opacity="0.85">
+    <rect x="72"  y="196" width="14" height="34"  rx="4" fill="#00e08a" opacity="0.30"/>
+    <rect x="94"  y="180" width="14" height="50"  rx="4" fill="#00e08a" opacity="0.40"/>
+    <rect x="116" y="158" width="14" height="72"  rx="4" fill="#00e08a" opacity="0.52"/>
+    <rect x="138" y="132" width="14" height="98"  rx="4" fill="#00e08a" opacity="0.66"/>
+    <rect x="160" y="104" width="14" height="126" rx="4" fill="#00e08a" opacity="0.82"/>
+    <rect x="182" y="74"  width="14" height="156" rx="4" fill="#00e08a" filter="url(#glow)"/>
+  </g>
+
+  <text x="248" y="126" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="60" font-weight="700" fill="#f2fbf7" letter-spacing="-1">v2ray-config</text>
+
+  <text x="250" y="172" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="25" fill="#8fb8ab">Free subscription links — VLESS · VMess · Trojan · Shadowsocks · Hysteria2</text>
+
+  <text x="250" y="212" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="21" fill="#5f8478">Rebuilt from measurement every day. Nothing here is in the list on trust.</text>
+
+  <rect x="250" y="240" width="470" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <g font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="17" fill="#00e08a" opacity="0.9">
+    <text x="250" y="284">fetched → decoded → dialled → ranked → published</text>
+  </g>
+
+  <g opacity="0.10" stroke="#00e08a" stroke-width="1.5" fill="none">
+    <circle cx="1120" cy="160" r="52"/>
+    <circle cx="1120" cy="160" r="86"/>
+    <circle cx="1120" cy="160" r="120"/>
+  </g>
+  <circle cx="1120" cy="160" r="13" fill="#00e08a" filter="url(#glow)"/>
+  <g fill="#6c4ef5" opacity="0.85">
+    <circle cx="1206" cy="160" r="6"/>
+    <circle cx="1075" cy="86"  r="6"/>
+    <circle cx="1058" cy="230" r="6"/>
+  </g>
+</svg>

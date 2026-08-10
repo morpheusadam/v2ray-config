@@ -1,21 +1,37 @@
-<div align="center">
-
 # Free V2Ray Subscription Links — VLESS, VMess, Trojan, Shadowsocks, Hysteria2
 
-**A subscription list that is rebuilt from measurement every single day, not scraped once and abandoned.**
+A subscription catalog for V2Ray, Xray and sing-box clients, rebuilt from measurement every
+day. Every link was fetched, decoded and proved to carry working configs; every proxy opened
+a real TLS tunnel to GitHub before it was allowed in. Nothing is in these files on trust.
 
-Every link here was fetched, decoded, and proved to carry working configs. Every proxy here
-opened a real TLS tunnel to GitHub before it was allowed in. Nothing is here on trust.
+<div align="center">
 
-[![Subscriptions](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmorpheusadam%2Fv2ray-config%2Fmain%2Fsubs%2Fbadge.json&style=for-the-badge&color=00c853)](subs/all.txt)
-[![Proxies](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmorpheusadam%2Fv2ray-config%2Fmain%2Fproxies%2Fbadge.json&style=for-the-badge&color=6c4ef5)](proxies/all.txt)
-[![Density](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmorpheusadam%2Fv2ray-config%2Fmain%2Fproxies%2Fdensity-badge.json&style=for-the-badge&color=0aa36b)](proxies/STATUS.md)
+<img src="docs/banner.svg" alt="v2ray-config — free V2Ray subscription links, rebuilt from measurement every day" width="100%">
 
-[![Daily update](https://img.shields.io/github/actions/workflow/status/morpheusadam/v2ray-config/daily.yml?style=flat-square&label=daily%20rebuild&logo=githubactions&logoColor=white)](../../actions)
-[![Last commit](https://img.shields.io/github/last-commit/morpheusadam/v2ray-config?style=flat-square&label=last%20update&color=blue)](../../commits/main)
-[![Stars](https://img.shields.io/github/stars/morpheusadam/v2ray-config?style=flat-square&color=yellow)](../../stargazers)
+<p><b>Copy one link into your client. That is the whole setup.</b></p>
 
-**English** · [فارسی](README.fa.md) · [Русский](README.ru.md) · [中文](README.zh.md)
+<p>
+<img alt="Protocols" src="https://img.shields.io/badge/VLESS%20%C2%B7%20VMess%20%C2%B7%20Trojan%20%C2%B7%20SS%20%C2%B7%20Hysteria2-1f1f22?style=for-the-badge&labelColor=00A868&label=protocols">
+<img alt="Rebuilt daily" src="https://img.shields.io/badge/every%2024%20hours-1f1f22?style=for-the-badge&labelColor=6C4EF5&label=rebuilt">
+<img alt="No account" src="https://img.shields.io/badge/no%20signup%20%C2%B7%20no%20tracking-1f1f22?style=for-the-badge&labelColor=2E9E6B&label=free">
+</p>
+
+<p>
+<a href="https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/all.txt"><img alt="Open the subscription catalog" src="https://img.shields.io/badge/Subscription%20catalog-00A868?style=for-the-badge&logo=v&logoColor=white"></a>
+<a href="https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/proxies/all.txt"><img alt="Open the proxy list" src="https://img.shields.io/badge/Proxy%20list-6C4EF5?style=for-the-badge&logo=socket.io&logoColor=white"></a>
+<a href="subs/STATUS.md"><img alt="See the standings" src="https://img.shields.io/badge/Live%20standings-1f1f22?style=for-the-badge"></a>
+</p>
+
+<p>
+<a href="subs/all.txt"><img alt="Live subscriptions" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmorpheusadam%2Fv2ray-config%2Fmain%2Fsubs%2Fbadge.json&style=flat-square&color=00c853"></a>
+<a href="proxies/all.txt"><img alt="Proxies" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmorpheusadam%2Fv2ray-config%2Fmain%2Fproxies%2Fbadge.json&style=flat-square&color=6c4ef5"></a>
+<a href="proxies/STATUS.md"><img alt="Density" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmorpheusadam%2Fv2ray-config%2Fmain%2Fproxies%2Fdensity-badge.json&style=flat-square&color=0aa36b"></a>
+<a href="../../actions"><img alt="Daily rebuild" src="https://img.shields.io/github/actions/workflow/status/morpheusadam/v2ray-config/daily.yml?style=flat-square&label=daily%20rebuild&logo=githubactions&logoColor=white"></a>
+<a href="../../commits/main"><img alt="Last update" src="https://img.shields.io/github/last-commit/morpheusadam/v2ray-config?style=flat-square&label=last%20update&color=blue"></a>
+<a href="../../stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/morpheusadam/v2ray-config?style=flat-square&color=yellow"></a>
+</p>
+
+<sub><b>English</b> · <a href="README.fa.md">فارسی</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文</a></sub>
 
 </div>
 
@@ -86,6 +102,7 @@ Full standings, with per-link history and dates: [subs/STATUS.md](subs/STATUS.md
 | Client | Platform | How |
 |---|---|---|
 | [v2rayV](https://github.com/morpheusadam/v2rayV) | Android | Built for this list. Press power once — it imports, tests and connects on its own. |
+| [v2rayN-Pro-Max](https://github.com/morpheusadam/v2rayN-Pro-Max) | Windows, Linux | The desktop sibling, where Auto Mode started. Also built for this list. |
 | [v2rayNG](https://github.com/2dust/v2rayNG) | Android | Subscription settings → **+** → paste a link |
 | [v2rayN](https://github.com/2dust/v2rayN) | Windows, macOS, Linux | Subscriptions → Add → paste |
 | [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) | Android | Groups → **+** → Subscription |

@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/banner.svg" alt="v2ray-config — free V2Ray subscription links, rebuilt from measurement every day" width="100%">
+
 # Бесплатные подписки V2Ray — VLESS, VMess, Trojan, Shadowsocks, Hysteria2
 
 **Список, который пересобирается из измерений каждый день, а не собран один раз и брошен.**
@@ -7,6 +9,12 @@
 Каждая ссылка здесь скачана, декодирована и доказала, что несёт рабочие конфиги. Каждый
 прокси открыл настоящий TLS-туннель к GitHub, прежде чем попасть в файл. Ничего не принято
 на веру.
+
+<p>
+<a href="https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/all.txt"><img alt="Subscription catalog" src="https://img.shields.io/badge/%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-00A868?style=for-the-badge"></a>
+<a href="https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/proxies/all.txt"><img alt="Proxy list" src="https://img.shields.io/badge/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8-6C4EF5?style=for-the-badge"></a>
+<a href="subs/STATUS.md"><img alt="Standings" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3-1f1f22?style=for-the-badge"></a>
+</p>
 
 [![Subscriptions](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmorpheusadam%2Fv2ray-config%2Fmain%2Fsubs%2Fbadge.json&style=for-the-badge&color=00c853)](subs/all.txt)
 [![Proxies](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmorpheusadam%2Fv2ray-config%2Fmain%2Fproxies%2Fbadge.json&style=for-the-badge&color=6c4ef5)](proxies/all.txt)
@@ -85,6 +93,7 @@ https://raw.githack.com/morpheusadam/v2ray-config/main/subs/all.txt
 | Клиент | Платформа | Как |
 |---|---|---|
 | [v2rayV](https://github.com/morpheusadam/v2rayV) | Android | Сделан под этот список. Одно нажатие — сам импортирует, тестирует и подключается. |
+| [v2rayN-Pro-Max](https://github.com/morpheusadam/v2rayN-Pro-Max) | Windows, Linux | Настольный собрат, где Auto Mode и появился. Тоже сделан под этот список. |
 | [v2rayNG](https://github.com/2dust/v2rayNG) | Android | Подписки → **+** → вставить ссылку |
 | [v2rayN](https://github.com/2dust/v2rayN) | Windows, macOS, Linux | Subscriptions → Add → вставить |
 | [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) | Android | Groups → **+** → Subscription |
