@@ -4,7 +4,7 @@ Generated 2026-08-10T21:10:22Z by `harvest.py`.
 
 - re-emitted from stored measurements; nothing was probed this run
 - **263** entries in `all.txt` (a proxy is kept until it fails 3 runs running)
-- **7000** endpoints on record
+- **266** endpoints on record
 - retirement age: **12 days** with no successful request
 - **density: 115/266 (43%)** — of a random sample of the shipped file, how many worked on a second pass
 

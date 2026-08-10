@@ -12,7 +12,7 @@
 # Anything that stops answering, or stops changing, for 12 days leaves this file
 # and is recorded in retired.txt.
 #
-# 1552 links, generated 2026-08-10T21:03:18Z. None of them are operated by this project.
+# 1552 links, generated 2026-08-10T22:07:29Z. None of them are operated by this project.
 
 https://raw.githubusercontent.com/Delta-Kronecker/V2ray-Config/refs/heads/main/config/tcp-pass/batch_013.txt
 https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Splitted-By-Protocol/trojan.txt

@@ -858,6 +858,37 @@ def probe_common_paths(repo: str) -> list[str]:
     return found
 
 
+def write_badge(path: Path, label: str, message: str, color: str) -> None:
+    """
+    A shields.io endpoint file.
+
+    Badges that hard-code a number are wrong the day after they are written. These are
+    read live by shields.io from the raw host, so the README's numbers are whatever the
+    last run actually measured.
+    """
+    save_json(path, {"schemaVersion": 1, "label": label, "message": message,
+                     "color": color, "cacheSeconds": 3600})
+
+
+README_BLOCK_RE = "<!-- {name}:START -->(.*?)<!-- {name}:END -->"
+
+
+def update_readme_block(name: str, body: str) -> None:
+    """
+    Replaces a marked region in every README variant, English and translations alike.
+
+    The alternative is a table of numbers in prose that quietly becomes a lie on day two.
+    A README that claims a daily rebuild has to prove it in the one place a reader looks.
+    """
+    pattern = re.compile(README_BLOCK_RE.format(name=name), re.S)
+    replacement = f"<!-- {name}:START -->\n{body}\n<!-- {name}:END -->"
+    for readme in sorted(HERE.glob("README*.md")):
+        text = readme.read_text(encoding="utf-8")
+        if not pattern.search(text):
+            continue
+        readme.write_text(pattern.sub(lambda _: replacement, text), encoding="utf-8")
+
+
 def read_catalog_links() -> list[str]:
     if not SUBS_FILE.exists():
         return []
@@ -1124,6 +1155,22 @@ def stage_write_subs(args, status: dict | None = None) -> int:
     status["generatedAt"] = now_iso()
     save_json(SUBS_STATUS, status)
     write_subs_report(status)
+
+    write_badge(HERE / "subs" / "badge.json", "subscriptions", str(len(alive)), "brightgreen")
+    update_readme_block("SUBS-STATS", "\n".join([
+        "| | |",
+        "|---|---|",
+        f"| **Live subscription links** | {len(alive)} |",
+        f"| **Links on record** | {len(links)} |",
+        f"| **Configs behind them** | {sum(r.get('configs', 0) for _, r in alive):,}+ |",
+        f"| **Last rebuild** | {status['generatedAt']} |",
+    ]))
+    update_readme_block("SUBS-TOP", "\n".join(
+        ["| # | Score | Subscription link | Configs | Reachable |", "|---|---|---|---|---|"]
+        + [f"| {i} | **{r.get('score', 0):.0f}** | `{u}` | {r.get('configs', 0)} | "
+           f"{r.get('reachRatio', 0):.0%} |"
+           for i, (u, r) in enumerate(alive[:15], 1)]))
+
     log(f"subs/all.txt: {len(alive)} links, best score "
         f"{alive[0][1].get('score', 0) if alive else 0}")
     return len(alive)
@@ -1726,6 +1773,23 @@ def write_proxies(args, status: dict | None = None, proved: int = 0) -> int:
         status["density"] = {"hits": hits, "sampled": sampled, "measuredAt": measured_at}
     save_proxy_status(status)
     write_proxy_report(status, emitted, proved, (hits, sampled))
+
+    write_badge(HERE / "proxies" / "badge.json", "proxies", str(len(emitted)),
+                "brightgreen" if len(emitted) > 100 else "orange")
+    density_text = f"{hits / sampled:.0%}" if sampled else "unmeasured"
+    write_badge(HERE / "proxies" / "density-badge.json", "density", density_text,
+                "brightgreen" if sampled and hits / sampled > 0.25 else "orange")
+    update_readme_block("PROXY-STATS", "\n".join([
+        "| | |",
+        "|---|---|",
+        f"| **Proxies in the list** | {len(emitted)} |",
+        f"| **Reached GitHub on re-check** | {density_text}"
+        + (f" ({hits} of {sampled} drawn at random)" if sampled else "") + " |",
+        f"| **Protocols** | "
+        + ", ".join(f"{p} {c}" for p, c in
+                    Counter(r.get("protocol", "?") for _, r in emitted).most_common()) + " |",
+        f"| **Last rebuild** | {status.get('generatedAt', '—')} |",
+    ]))
     size_kb = PROXY_FILE.stat().st_size / 1024
     log(f"proxies/all.txt: {len(emitted)} entries, {size_kb:.0f} KB")
     if size_kb > 1024:
