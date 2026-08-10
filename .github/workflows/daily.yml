@@ -17,9 +17,17 @@ name: Daily update
 # network — finish and commit inside the 14:00 window. Late is fine here; the job is
 # idempotent and nothing downstream cares about the minute.
 
+#
+# The second schedule exists for the proxies alone. A single pass published 43% density —
+# nearly six in ten entries were dead by the time anyone read the file, because a public
+# proxy that answers once often does not answer an hour later. Probing again seven hours
+# later, and publishing only what answered both times, trades length for the one number
+# that matters.
+
 on:
   schedule:
     - cron: "37 12 * * *"
+    - cron: "43 19 * * *"
   workflow_dispatch:
     inputs:
       skip_proxies:
@@ -69,6 +77,7 @@ jobs:
             --max-stale-days 12 \
             --density 600 \
             --geo \
+            ${{ github.event.schedule == '43 19 * * *' && '--skip-subs --skip-search' || '' }} \
             ${{ inputs.skip_proxies && '--skip-proxies' || '' }} \
             ${{ inputs.skip_search && '--skip-search' || '' }}
 

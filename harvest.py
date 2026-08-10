@@ -1105,7 +1105,7 @@ def stage_prove(args, origin: dict[str, str] | None = None) -> dict:
     log(f"{alive} links carry configs. status written to {SUBS_STATUS.name}")
 
     if not args.no_bundles:
-        write_bundles(results, status)
+        write_bundles(results, status, geo=getattr(args, "geo", False))
     return status
 
 
@@ -1127,14 +1127,30 @@ BUNDLE_PROTOCOLS = {
 BUNDLE_SIZES = {"mini": 100, "lite": 300, "medium": 1000}
 
 
+# Bumped only when a consumer would have to change to keep reading these files correctly.
+# A version line is worth having because the alternative — an English sentence in a header
+# that nothing checks — turns an incompatible change into a silent failure on a phone.
+FORMAT_VERSION = "v1"
+
+# DPI-resistant by construction. 2026 reporting on Iranian DPI puts REALITY and XTLS-Vision
+# first, then the UDP-based protocols; plain VMess over TCP is what gets detected.
+IRAN_MARKERS = ("reality", "xtls", "vision", "hysteria2://", "hy2://", "tuic://")
+
+# Networks Iranian routes generally reach. Turkey has the lowest latency of the four and the
+# least capacity, so it is last — the same order AutoModeRanker uses on the phone.
+IRAN_COUNTRIES = ("DE", "NL", "FR", "TR", "AT", "CH", "PL", "SE", "FI", "AE")
+
+
 def bundle_header(name: str, count: int, note: str) -> str:
-    return (f"# {name} — {count} configs, generated {now_iso()} by harvest.py\n"
+    return (f"# format: {FORMAT_VERSION}\n"
+            f"# {name} — {count} configs, generated {now_iso()} by harvest.py\n"
             f"# {note}\n"
             f"# Built from sources this project fetched, decoded and scored itself.\n"
             f"# https://github.com/morpheusadam/v2ray-config\n")
 
 
-def write_bundles(results: list, status: dict) -> int:
+def write_bundles(results: list, status: dict, geo: bool = False,
+                  args_geo_cap: int = 2000) -> int:
     """
     Publishes this project's own subscription files, built out of the configs pulled from
     everyone else's.
@@ -1198,9 +1214,44 @@ def write_bundles(results: list, status: dict) -> int:
             "Configs declaring TLS.")
 
     # From sources that scored 85 or better, which in practice means every sampled server
-    # answered and the file changed recently.
+    # answered and the file changed recently. This is the one the app defaults to.
     publish("best", [uri for score, _, uri in ranked if score >= 85][:2000],
-            "Only from sources scoring 85+. Fewer, and better.")
+            "Only from sources scoring 85+. Fewer, and better. The app's default source.")
+
+    # ---- the Iran bundle ----------------------------------------------------------
+    # Protocol and geography together, which is what actually decides whether a config
+    # survives there — splitting by protocol alone leaves the phone to do the rest.
+    candidates = [(score, uri) for score, _, uri in ranked
+                  if any(m in uri.lower() for m in IRAN_MARKERS)]
+
+    located = 0
+    if geo and candidates:
+        # Only the endpoints that could plausibly make the cut are looked up: a country for
+        # all forty thousand would be four hundred API calls to answer a question about two.
+        hosts, seen_host = [], set()
+        for _, uri in candidates[:args_geo_cap]:
+            endpoint = parse_endpoint(uri)
+            if endpoint and endpoint[0] not in seen_host:
+                seen_host.add(endpoint[0])
+                hosts.append(endpoint[0])
+        log(f"iran bundle: locating {len(hosts)} hosts")
+        countries = lookup_countries(hosts)
+        located = len(countries)
+        if countries:
+            kept = []
+            for score, uri in candidates:
+                endpoint = parse_endpoint(uri)
+                code = countries.get(endpoint[0]) if endpoint else None
+                # Unknown location is kept rather than dropped: a missing lookup is not
+                # evidence against a config, and the free geo endpoint rate-limits.
+                if code is None or code in IRAN_COUNTRIES:
+                    kept.append(uri)
+            candidates = [(0.0, u) for u in kept]
+
+    publish("iran", [uri for _, uri in candidates][:3000],
+            "REALITY, XTLS-Vision, Hysteria2 and TUIC"
+            + (f", filtered to {'/'.join(IRAN_COUNTRIES[:4])} and friends ({located} hosts located)"
+               if located else " — protocol only, no country data this run"))
 
     index = ["# The subscription bundles this project publishes.",
              "#",
@@ -1256,7 +1307,11 @@ def stage_write_subs(args, status: dict | None = None) -> int:
     alive.sort(key=lambda item: -item[1].get("score", 0.0))
 
     header = [
+        f"# format: {FORMAT_VERSION}",
         "# Subscription sources for Auto Mode",
+        "#",
+        "# Most clients want one link that returns servers, not a list of links. For that,",
+        "# use subs/bundles/best.txt — built from the sources below that scored 85 or better.",
         "#",
         "# One link per line. Lines starting with # are ignored, so notes like this are fine.",
         "# Paste this whole file into the Auto Mode settings window, or point \"Import file\" at it.",
@@ -1818,8 +1873,16 @@ def write_proxies(args, status: dict | None = None, proved: int = 0) -> int:
 
     # Emitted, not just today's winners: a proxy that flapped once today but worked
     # yesterday and the day before is still a better bet than an untested stranger.
+    # Two successes, not one. A single pass published 43% density — nearly six in ten
+    # entries were already dead by the time anyone read the file, because a public proxy
+    # that answers once often does not answer an hour later. Requiring a second success
+    # from a separate run, hours apart, is the cheapest filter that removes them; the list
+    # gets smaller and the share of it that works goes up, which is the only number the
+    # consumer cares about. An endpoint checked only once is given the benefit of the doubt
+    # so a fresh find is not held back a whole day.
     emitted = [(name, record) for name, record in status["proxies"].items()
-               if record.get("successes", 0) > 0
+               if record.get("successes", 0) >= (1 if record.get("checks", 0) < 2
+                                                 else args.min_successes)
                and record.get("fails", 0) < args.drop_after_failures
                and record.get("latencyMs", 0) <= args.proxy_timeout * 1000]
 
@@ -1865,6 +1928,7 @@ def write_proxies(args, status: dict | None = None, proved: int = 0) -> int:
         measured_at = previous.get("measuredAt", stamp)
 
     header = [
+        f"# format: {FORMAT_VERSION}",
         "# Proxies that opened a TLS tunnel to raw.githubusercontent.com:443 and returned",
         f"# sixteen bytes of subs/all.txt, within {args.proxy_timeout:.0f} seconds. Nothing else qualifies.",
         "#",
@@ -2060,6 +2124,8 @@ def add_proxy_flags(parser: argparse.ArgumentParser) -> None:
                         help="probe budget: endpoints with history first, then a random sample")
     parser.add_argument("--geo", action="store_true",
                         help="annotate entries with a country code via ip-api.com")
+    parser.add_argument("--min-successes", type=int, default=2,
+                        help="successful checks, on separate runs, before an entry is published")
 
 
 def main(argv: list[str] | None = None) -> int:
