@@ -444,6 +444,7 @@ class Verdict:
     digest: str = ""
     body: str = ""       # decoded text; released once the scoring pass has read it
     markers: int = 0     # occurrences of the protocol markers worth having
+    uris: list = field(default_factory=list)   # the configs themselves, for the bundles
 
 
 def classify(response: Response | None) -> Verdict:
@@ -998,6 +999,10 @@ def stage_prove(args, origin: dict[str, str] | None = None) -> dict:
         # 64 KB per link across three thousand links is a quarter of a gigabyte for nothing.
         lowered = verdict.body.lower()
         verdict.markers = sum(lowered.count(m) for m in MODERN_MARKERS)
+        # The configs themselves, kept so the bundles can be built without a second fetch.
+        # Capped per source: a list with fifty thousand entries would otherwise decide the
+        # contents of every bundle on its own.
+        verdict.uris = CONFIG_URI_RE.findall(verdict.body)[:args.per_source]
         verdict.body = ""
         return url, verdict, endpoints, sample
 
@@ -1098,7 +1103,127 @@ def stage_prove(args, origin: dict[str, str] | None = None) -> dict:
     status["generatedAt"] = stamp
     save_json(SUBS_STATUS, status)
     log(f"{alive} links carry configs. status written to {SUBS_STATUS.name}")
+
+    if not args.no_bundles:
+        write_bundles(results, status)
     return status
+
+
+BUNDLE_DIR = HERE / "subs" / "bundles"
+
+# What each published bundle contains. The point is that a client wanting one link that
+# returns servers should never have to pick a stranger's list — every one of these is built
+# from configs this project fetched and scored itself.
+BUNDLE_PROTOCOLS = {
+    "vless": ("vless",),
+    "vmess": ("vmess",),
+    "trojan": ("trojan",),
+    "shadowsocks": ("ss", "ssr"),
+    "hysteria2": ("hysteria2", "hy2", "hysteria"),
+    "tuic": ("tuic",),
+    "wireguard": ("wireguard", "warp"),
+}
+
+BUNDLE_SIZES = {"mini": 100, "lite": 300, "medium": 1000}
+
+
+def bundle_header(name: str, count: int, note: str) -> str:
+    return (f"# {name} — {count} configs, generated {now_iso()} by harvest.py\n"
+            f"# {note}\n"
+            f"# Built from sources this project fetched, decoded and scored itself.\n"
+            f"# https://github.com/morpheusadam/v2ray-config\n")
+
+
+def write_bundles(results: list, status: dict) -> int:
+    """
+    Publishes this project's own subscription files, built out of the configs pulled from
+    everyone else's.
+
+    A catalog of links is the honest thing to maintain but the awkward thing to consume:
+    most clients want one URL that returns servers. These bundles are that URL — ordered by
+    the score of the source each config came from, deduplicated by endpoint across every
+    source, and split by protocol and size so a phone is not handed forty thousand lines.
+    """
+    links = status.get("links", {})
+    ranked: list[tuple[float, str, str]] = []      # score, scheme, uri
+    seen: set[tuple[str, int]] = set()
+
+    # Best sources first, so deduplication keeps the copy that came from the better list.
+    for url, verdict, _, _ in sorted(
+            results, key=lambda r: -links.get(r[0], {}).get("score", 0.0)):
+        if verdict.kind != "configs":
+            continue
+        score = links.get(url, {}).get("score", 0.0)
+        for uri in verdict.uris:
+            endpoint = parse_endpoint(uri)
+            if endpoint is None or endpoint in seen:
+                continue
+            seen.add(endpoint)
+            ranked.append((score, uri.split("://", 1)[0].lower(), uri.strip()))
+
+    if not ranked:
+        log("no configs collected — no bundles written")
+        return 0
+
+    BUNDLE_DIR.mkdir(parents=True, exist_ok=True)
+    written: list[tuple[str, int]] = []
+
+    def publish(name: str, uris: list[str], note: str) -> None:
+        if not uris:
+            return
+        text = "\n".join(uris)
+        (BUNDLE_DIR / f"{name}.txt").write_text(
+            bundle_header(name, len(uris), note) + "\n" + text + "\n", encoding="utf-8")
+        # Base64 for the many clients that only accept an encoded subscription. No header:
+        # anything that is not a config corrupts the decode for some of them.
+        (BUNDLE_DIR / f"{name}-base64.txt").write_text(
+            base64.b64encode(text.encode()).decode(), encoding="utf-8")
+        written.append((name, len(uris)))
+
+    everything = [uri for _, _, uri in ranked]
+    publish("all", everything, "Everything, best source first.")
+
+    for name, size in BUNDLE_SIZES.items():
+        publish(name, everything[:size],
+                f"The {size} configs from the highest-scoring sources.")
+
+    for name, schemes in BUNDLE_PROTOCOLS.items():
+        publish(name, [uri for _, scheme, uri in ranked if scheme in schemes],
+                f"{name} only, best source first.")
+
+    publish("reality", [uri for _, _, uri in ranked if "reality" in uri.lower()],
+            "VLESS+REALITY only — the protocol that survives active probing best.")
+    publish("tls", [uri for _, _, uri in ranked
+                    if "security=tls" in uri.lower() or "tls" in uri.lower()],
+            "Configs declaring TLS.")
+
+    # From sources that scored 85 or better, which in practice means every sampled server
+    # answered and the file changed recently.
+    publish("best", [uri for score, _, uri in ranked if score >= 85][:2000],
+            "Only from sources scoring 85+. Fewer, and better.")
+
+    index = ["# The subscription bundles this project publishes.",
+             "#",
+             "# Each is a single link that returns servers, unlike subs/all.txt which is a",
+             "# list of other people's links. Every .txt also exists as -base64.txt.",
+             "#",
+             f"# Generated {now_iso()}.",
+             ""]
+    base = "https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles"
+    for name, count in written:
+        index.append(f"{base}/{name}.txt          # {count} configs")
+    (BUNDLE_DIR / "index.txt").write_text("\n".join(index) + "\n", encoding="utf-8")
+
+    total_files = len(written) * 2 + 1
+    log(f"bundles: {total_files} files from {len(ranked)} unique configs "
+        f"({', '.join(f'{n} {c}' for n, c in written[:6])}…)")
+
+    update_readme_block("BUNDLES", "\n".join(
+        ["| Bundle | Configs | Link |", "|---|---|---|"]
+        + [f"| **{n}** | {c} | `{base}/{n}.txt` |" for n, c in written]))
+    write_badge(HERE / "subs" / "bundles-badge.json", "own bundles",
+                f"{total_files} files", "00c853")
+    return total_files
 
 
 def stage_write_subs(args, status: dict | None = None) -> int:
@@ -1905,6 +2030,10 @@ def add_prove_flags(parser: argparse.ArgumentParser) -> None:
                         help="servers dialled per subscription (default 12)")
     parser.add_argument("--probe-workers", type=int, default=64, help="concurrent TCP probes")
     parser.add_argument("--tcp-timeout", type=float, default=3.0, help="seconds per TCP probe")
+    parser.add_argument("--per-source", type=int, default=600,
+                        help="configs taken from any one source into the bundles")
+    parser.add_argument("--no-bundles", action="store_true",
+                        help="skip publishing subs/bundles/")
 
 
 def add_write_flags(parser: argparse.ArgumentParser) -> None:
