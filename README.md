@@ -33,46 +33,77 @@ a real TLS tunnel to GitHub before it was allowed in. Nothing is in these files 
 
 <sub><b>English</b> · <a href="README.fa.md">فارسی</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文</a></sub>
 
+<br><br>
+
+<img src="docs/stats.svg" alt="Live statistics: live sources, configs behind them, ready-made bundles, proven proxies" width="100%">
+
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<h3>🎯 Just want a link</h3>
+<p align="left">Paste <code>best.txt</code> into any client. 2,000 configs, only from sources that scored 85 or better.</p>
+<a href="https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/best.txt"><img alt="best.txt" src="https://img.shields.io/badge/take%20best.txt-00A868?style=for-the-badge"></a>
+</td>
+<td width="33%" valign="top" align="center">
+<h3>🇮🇷 On a censored network</h3>
+<p align="left">REALITY, XTLS-Vision, Hysteria2 and TUIC only — the protocols that survive active probing.</p>
+<a href="https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/iran.txt"><img alt="iran.txt" src="https://img.shields.io/badge/take%20iran.txt-6C4EF5?style=for-the-badge"></a>
+</td>
+<td width="33%" valign="top" align="center">
+<h3>🔧 Want everything</h3>
+<p align="left">The full catalog of 1,500 proved sources, plus 31 bundles split by protocol and size.</p>
+<a href="subs/bundles/index.txt"><img alt="All bundles" src="https://img.shields.io/badge/all%20bundles-1f1f22?style=for-the-badge"></a>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
 ## Get the subscription
 
-Copy one of these into your client. That is the whole setup.
-
-**Subscription catalog** — the list of sources, ranked best first:
-
-```
-https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/all.txt
-```
-
-**Proxy list** — HTTP, SOCKS4a and SOCKS5 that can reach GitHub from a blocked network:
-
-```
-https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/proxies/all.txt
-```
+<table>
+<tr><th align="left" width="30%">What you want</th><th align="left">Paste this</th></tr>
+<tr>
+<td><b>One link that just works</b><br><sub>recommended</sub></td>
+<td><code>https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/best.txt</code></td>
+</tr>
+<tr>
+<td><b>A censored network</b></td>
+<td><code>https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/iran.txt</code></td>
+</tr>
+<tr>
+<td><b>Everything, 39k configs</b></td>
+<td><code>https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/all.txt</code></td>
+</tr>
+<tr>
+<td><b>Small, for a slow line</b></td>
+<td><code>https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/lite.txt</code></td>
+</tr>
+<tr>
+<td><b>The source catalog</b><br><sub>links, not servers</sub></td>
+<td><code>https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/all.txt</code></td>
+</tr>
+<tr>
+<td><b>Proxies to reach GitHub</b></td>
+<td><code>https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/proxies/all.txt</code></td>
+</tr>
+</table>
 
 > [!IMPORTANT]
-> `subs/all.txt` is a list of **subscription links**, not a list of servers. Most clients
-> want a single link that returns configs — for those, pick any row from the
-> [top-ranked table](#the-best-sources-right-now) below and paste that instead. If your
-> client can import a file of links (v2rayV, v2rayN, Nekobox's bulk import), give it the
-> catalog and let it pull all of them.
+> `subs/all.txt` is a list of **subscription links**, not a list of servers. If your client
+> expects one URL that returns configs — which is most of them — use a bundle instead. If it
+> can import a file of links (v2rayV, v2rayN, NekoBox's bulk import), give it the catalog and
+> let it pull all of them.
 
-### Or take one of ours
-
-The catalog above is a list of *other people's* links, which is the honest thing to maintain
-and the awkward thing to consume — most clients want one URL that returns servers. So the
-job also builds its own, out of the configs pulled from every source it proved:
-
-```
-https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/all.txt
-```
+### Every bundle
 
 Deduplicated by endpoint across every source, ordered so configs from the best-scoring
-sources come first, and split by protocol and size so a phone is not handed forty thousand
-lines. Every one also exists as `-base64.txt` for clients that insist on it.
+sources come first, split by protocol and size so a phone is not handed forty thousand
+lines. Each also exists as `-base64.txt` for clients that insist on it.
 
 <!-- BUNDLES:START -->
 | Bundle | Configs | Link |
@@ -119,7 +150,7 @@ these.
 | **Live subscription links** | 1548 |
 | **Links on record** | 3123 |
 | **Configs behind them** | 384,437+ |
-| **Last rebuild** | 2026-08-10T23:00:09Z |
+| **Last rebuild** | 2026-08-10T23:14:00Z |
 <!-- SUBS-STATS:END -->
 
 <!-- PROXY-STATS:START -->
@@ -228,6 +259,164 @@ deleted — it goes to [`subs/retired.txt`](subs/retired.txt) with the date and 
 a source that comes back is recognised instead of rediscovered as a stranger. A newly found
 link is immune until it has been watched that long, because "unchanged for twelve days" is a
 claim about observation, and on day one there is none.
+
+---
+
+## The algorithms, in detail
+
+Five decisions do almost all the work. Each is written out here because each one is the
+answer to a specific way this could have gone wrong.
+
+### 1. Scoring — why the weights are where they are
+
+Each component is normalised to 0–1, then combined. The curves matter as much as the
+weights, so here they are:
+
+```mermaid
+flowchart TB
+    subgraph inputs["measured per source"]
+        R["reach<br/><i>reachable / sampled</i>"]
+        S["latency<br/><i>median TCP handshake</i>"]
+        F["days since<br/>content changed"]
+        V["configs<br/>in window"]
+        C["duplicate<br/>ratios"]
+        M["protocol<br/>markers"]
+    end
+    R -->|"linear, ×0.34"| SUM(("score<br/>0–100"))
+    S -->|"log decay, ×0.12"| SUM
+    F -->|"linear to 12d, ×0.20"| SUM
+    V -->|"log₁₀ to 300, ×0.12"| SUM
+    C -->|"harmonic, ×0.14"| SUM
+    M -->|"capped, ×0.08"| SUM
+    SUM --> ORD["subs/all.txt<br/>sorted descending"]
+```
+
+**Speed decays logarithmically, not linearly.**
+`speed = 1 − ln(ms / 60) / ln(2000 / 60)`, clamped to 0–1. The difference between 60 ms and
+200 ms is something a person feels; the difference between 1.2 s and 1.5 s is not. A linear
+scale would treat those two gaps as comparable, which is wrong in both directions.
+
+**Volume saturates.** `volume = log₁₀(1 + n) / log₁₀(301)`. Three hundred live configs in a
+64 KB window is more than anyone can use, so a list with thirty thousand is not scored a
+hundred times higher than one with three hundred — it is scored roughly the same, and then
+has to win on reachability like everything else.
+
+**Cleanliness is two things at once.** Half of it is how little the list repeats itself
+(`unique endpoints / total configs`); half is how little it repeats everyone else. The
+second half is the interesting one:
+
+```
+cross_unique = mean over endpoints of  1 / (number of sources publishing that endpoint)
+```
+
+A server that twenty lists carry contributes 0.05; one that only this source has
+contributes 1.0. Aggregators that scrape each other therefore sink, and the source that
+actually found something rises — which is the behaviour you want, because when the popular
+server dies it dies for all twenty at once.
+
+### 2. Why latency is almost ignored
+
+This is the counter-intuitive one, and it is not a guess.
+
+| Ranking strategy | Configs that then passed a real tunnel test |
+|---|---|
+| Lowest TCP handshake time first | **2.1 %** |
+| Random order | **7.5 %** |
+
+Ranking by ping performed **three and a half times worse than not ranking at all**. The
+reason is that the fastest responders are CDN edges and load balancers sitting in front of
+dead backends: they complete a TCP handshake in 20 ms and carry nothing. Reachability is
+evidence; latency is mostly a measure of how close a front door is.
+
+So TCP probing is used to *drop* hosts, never to *rank* them, and `speed` keeps a 0.12
+weight purely because a 2-second handshake really is a bad sign.
+
+### 3. Retirement — a state machine, not a rule
+
+```mermaid
+stateDiagram-v2
+    [*] --> Watched: first seen
+    Watched --> Watched: under 12 days<br/>immune either way
+    Watched --> Live: carries configs
+    Live --> Live: content changed
+    Live --> Stale: unchanged 12 days
+    Live --> Silent: no configs 12 days
+    Stale --> retired.txt
+    Silent --> retired.txt
+    retired.txt --> Live: reappears, history intact
+```
+
+The immunity window is the part that is easy to get wrong. *"Unchanged for twelve days"* is
+a claim about **observation**, not about the file — on the day a link is discovered there is
+no observation at all, so a brand-new source cannot be judged stale. Retirement writes to
+[`subs/retired.txt`](subs/retired.txt) with the date and reason rather than deleting, so a
+source that returns is recognised instead of rediscovered as a stranger with no record.
+
+### 4. Deduplication is ordered, not arbitrary
+
+When the same server appears in forty lists, which copy gets published matters — the copies
+differ in transport parameters, SNI and remarks, and some of those are wrong.
+
+```mermaid
+flowchart LR
+    A["all configs<br/>from all sources"] --> B["sort by the score of<br/>the source it came from"]
+    B --> C{"endpoint<br/>seen before?"}
+    C -->|yes| D["discard this copy"]
+    C -->|no| E["keep — and this is the<br/>copy that gets published"]
+    E --> F["bundles/*.txt"]
+```
+
+Sorting first means the surviving copy is always the one from the best-scoring source. It
+costs one sort and removes a whole category of silent corruption.
+
+### 5. Proxy validation — the full handshake, or nothing
+
+A proxy is only useful here if it can do one specific thing: reach GitHub. So that is
+exactly what is tested, end to end, with an eight-second wall clock.
+
+```mermaid
+sequenceDiagram
+    participant H as harvest.py
+    participant P as candidate proxy
+    participant G as raw.githubusercontent.com
+
+    H->>P: TCP connect (≤6 s)
+    Note over H,P: protocol chosen by port,<br/>or as declared
+    alt HTTP
+        H->>P: CONNECT host:443
+        P-->>H: 200 required
+    else SOCKS5
+        H->>P: greet, then ATYP 0x03 + hostname
+        Note right of H: by name, never by IP —<br/>the network may lie in DNS
+        P-->>H: reply[1] == 0 required
+    else SOCKS4a
+        H->>P: dest IP 0.0.0.1 + hostname
+        P-->>H: 0x5A required
+    end
+    H->>G: TLS handshake, SNI set
+    H->>G: GET ... Range: bytes=0-15
+    G-->>H: 206 or 200, non-empty body
+    Note over H: over 8 s total = failure,<br/>not a slow success
+```
+
+Every shortcut here has a name and a victim. Accept a TCP connect and half the list hangs
+forever. Accept a plain `GET` and you ship the enormous population of proxies that allow
+`GET` and refuse `CONNECT`. Hand the proxy an IP instead of a hostname and it works in
+testing and fails on exactly the networks this exists for.
+
+**Then it must do it twice.** One pass measured 43 % density — nearly six in ten entries
+were already dead when someone read the file. A second probe seven hours later, in a
+separate run, is now required before publication.
+
+### The number that grades all of it
+
+Not the count of entries. This:
+
+> Of N drawn at random from the published file, how many work **right now**?
+
+Measured on every run, the way a client would: random sample, full check, count. It is
+written into the file's own header, so the file grades itself in public. Count is vanity;
+density is the product.
 
 ---
 

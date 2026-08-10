@@ -871,6 +871,60 @@ def write_badge(path: Path, label: str, message: str, color: str) -> None:
                      "color": color, "cacheSeconds": 3600})
 
 
+def write_stats_svg(cards: list[tuple[str, str, str]], footer: str) -> None:
+    """
+    The dashboard at the top of the README, drawn rather than tabulated.
+
+    A markdown table of numbers is something a reader skims past; a panel that looks like an
+    instrument is something they read. It is regenerated on every run from the same values
+    the tables use, so it can never drift into decoration that used to be true.
+    """
+    width, height = 1280, 300
+    gap, pad = 22, 40
+    card_w = (width - pad * 2 - gap * (len(cards) - 1)) // len(cards)
+
+    parts = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" role="img" '
+        f'aria-label="Live statistics for v2ray-config">',
+        '<defs>',
+        '<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">'
+        '<stop offset="0" stop-color="#07120e"/><stop offset="1" stop-color="#050f0c"/>'
+        '</linearGradient>',
+        '<linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">'
+        '<stop offset="0" stop-color="#00e08a"/><stop offset="1" stop-color="#6c4ef5"/>'
+        '</linearGradient>',
+        '<filter id="soft" x="-40%" y="-40%" width="180%" height="180%">'
+        '<feGaussianBlur stdDeviation="9"/></filter>',
+        '</defs>',
+        f'<rect width="{width}" height="{height}" rx="18" fill="url(#bg)"/>',
+        '<text x="40" y="52" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" '
+        'font-size="15" fill="#5f8478" letter-spacing="3">LIVE · REBUILT EVERY 24 HOURS</text>',
+        f'<rect x="40" y="66" width="200" height="2" rx="1" fill="url(#hair)"/>',
+    ]
+
+    for index, (value, label, note) in enumerate(cards):
+        x = pad + index * (card_w + gap)
+        parts += [
+            f'<rect x="{x}" y="96" width="{card_w}" height="130" rx="14" fill="#0d1b16" '
+            f'stroke="#17352b" stroke-width="1"/>',
+            f'<circle cx="{x + 18}" cy="{118}" r="4" fill="#00e08a" filter="url(#soft)"/>',
+            f'<text x="{x + 26}" y="136" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" '
+            f'font-size="44" font-weight="700" fill="#f2fbf7">{value}</text>',
+            f'<text x="{x + 26}" y="166" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" '
+            f'font-size="15" fill="#7fb3a3" letter-spacing="1.5">{label}</text>',
+            f'<text x="{x + 26}" y="196" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" '
+            f'font-size="13" fill="#4d7568">{note}</text>',
+        ]
+
+    parts += [
+        f'<text x="40" y="266" font-family="Consolas, SFMono-Regular, Menlo, monospace" '
+        f'font-size="14" fill="#00e08a" opacity="0.85">{footer}</text>',
+        '</svg>',
+    ]
+    (HERE / "docs" / "stats.svg").parent.mkdir(parents=True, exist_ok=True)
+    (HERE / "docs" / "stats.svg").write_text("\n".join(parts) + "\n", encoding="utf-8")
+
+
 README_BLOCK_RE = "<!-- {name}:START -->(.*?)<!-- {name}:END -->"
 
 
@@ -1337,6 +1391,23 @@ def stage_write_subs(args, status: dict | None = None) -> int:
     write_subs_report(status)
 
     write_badge(HERE / "subs" / "badge.json", "subscriptions", str(len(alive)), "brightgreen")
+
+    proxy_status = load_proxy_status()
+    density = proxy_status.get("density", {})
+    bundles = len(list(BUNDLE_DIR.glob("*.txt"))) if BUNDLE_DIR.exists() else 0
+    write_stats_svg(
+        [
+            (f"{len(alive):,}", "LIVE SOURCES", f"of {len(links):,} ever seen"),
+            (f"{sum(r.get('configs', 0) for _, r in alive) // 1000}k+", "CONFIGS BEHIND THEM",
+             "counted in a 64 KB window"),
+            (str(bundles), "READY BUNDLES", "one link, returns servers"),
+            (f"{len(proxy_status.get('proxies', {})):,}", "PROVEN PROXIES",
+             f"{density.get('hits', 0)}/{density.get('sampled', 0)} on re-check"
+             if density.get("sampled") else "TLS tunnel to GitHub"),
+        ],
+        f"generated {status['generatedAt']}  ·  every entry fetched, decoded and dialled "
+        f"before it was published",
+    )
     update_readme_block("SUBS-STATS", "\n".join([
         "| | |",
         "|---|---|",

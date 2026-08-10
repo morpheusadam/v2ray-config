@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" role="img" aria-label="Live statistics for v2ray-config">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07120e"/><stop offset="1" stop-color="#050f0c"/></linearGradient>
+<linearGradient id="hair" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e08a"/><stop offset="1" stop-color="#6c4ef5"/></linearGradient>
+<filter id="soft" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1280" height="300" rx="18" fill="url(#bg)"/>
+<text x="40" y="52" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#5f8478" letter-spacing="3">LIVE · REBUILT EVERY 24 HOURS</text>
+<rect x="40" y="66" width="200" height="2" rx="1" fill="url(#hair)"/>
+<rect x="40" y="96" width="283" height="130" rx="14" fill="#0d1b16" stroke="#17352b" stroke-width="1"/>
+<circle cx="58" cy="118" r="4" fill="#00e08a" filter="url(#soft)"/>
+<text x="66" y="136" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#f2fbf7">1,548</text>
+<text x="66" y="166" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#7fb3a3" letter-spacing="1.5">LIVE SOURCES</text>
+<text x="66" y="196" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#4d7568">of 3,123 ever seen</text>
+<rect x="345" y="96" width="283" height="130" rx="14" fill="#0d1b16" stroke="#17352b" stroke-width="1"/>
+<circle cx="363" cy="118" r="4" fill="#00e08a" filter="url(#soft)"/>
+<text x="371" y="136" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#f2fbf7">384k+</text>
+<text x="371" y="166" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#7fb3a3" letter-spacing="1.5">CONFIGS BEHIND THEM</text>
+<text x="371" y="196" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#4d7568">counted in a 64 KB window</text>
+<rect x="650" y="96" width="283" height="130" rx="14" fill="#0d1b16" stroke="#17352b" stroke-width="1"/>
+<circle cx="668" cy="118" r="4" fill="#00e08a" filter="url(#soft)"/>
+<text x="676" y="136" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#f2fbf7">31</text>
+<text x="676" y="166" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#7fb3a3" letter-spacing="1.5">READY BUNDLES</text>
+<text x="676" y="196" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#4d7568">one link, returns servers</text>
+<rect x="955" y="96" width="283" height="130" rx="14" fill="#0d1b16" stroke="#17352b" stroke-width="1"/>
+<circle cx="973" cy="118" r="4" fill="#00e08a" filter="url(#soft)"/>
+<text x="981" y="136" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#f2fbf7">266</text>
+<text x="981" y="166" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#7fb3a3" letter-spacing="1.5">PROVEN PROXIES</text>
+<text x="981" y="196" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#4d7568">115/266 on re-check</text>
+<text x="40" y="266" font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="14" fill="#00e08a" opacity="0.85">generated 2026-08-10T23:14:00Z  ·  every entry fetched, decoded and dialled before it was published</text>
+</svg>

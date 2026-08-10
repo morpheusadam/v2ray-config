@@ -16,7 +16,7 @@
 # Anything that stops answering, or stops changing, for 12 days leaves this file
 # and is recorded in retired.txt.
 #
-# 1548 links, generated 2026-08-10T23:00:09Z. None of them are operated by this project.
+# 1548 links, generated 2026-08-10T23:14:00Z. None of them are operated by this project.
 
 https://raw.githubusercontent.com/Delta-Kronecker/V2ray-Config/refs/heads/main/config/tcp-pass/batch_013.txt
 https://raw.githubusercontent.com/Delta-Kronecker/V2ray-Config/refs/heads/main/config/tcp-pass/batch_014.txt
