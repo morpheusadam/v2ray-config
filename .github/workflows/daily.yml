@@ -1,0 +1,91 @@
+name: Daily update
+
+# Everything this repository publishes is rebuilt here, once a day, and committed back.
+# Nothing is maintained by hand: subs/all.txt and proxies/all.txt are outputs.
+#
+# 03:20 UTC is chosen for being nowhere near the top of an hour — GitHub runs every cron
+# scheduled at :00 at the same moment and the queue for that minute can be tens of minutes
+# long. It is also off-peak, so a run that needs an hour of network gets it.
+
+on:
+  schedule:
+    - cron: "20 3 * * *"
+  workflow_dispatch:
+    inputs:
+      skip_proxies:
+        description: "Skip the proxy pass"
+        type: boolean
+        default: false
+      skip_search:
+        description: "Skip searching GitHub for new repositories"
+        type: boolean
+        default: false
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild both lists
+        env:
+          # Raises the API rate limit from 60 requests an hour to 5,000, which is what
+          # makes searching GitHub and scanning file trees possible in one run.
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          python harvest.py daily \
+            --refresh \
+            --tree --tree-budget 400 \
+            --pages 3 \
+            --workers 24 \
+            --probe-workers 96 \
+            --proxy-workers 300 \
+            --max-candidates 40000 \
+            --samples 12 \
+            --min-configs 5 \
+            --max-stale-days 12 \
+            --density 600 \
+            --geo \
+            ${{ inputs.skip_proxies && '--skip-proxies' || '' }} \
+            ${{ inputs.skip_search && '--skip-search' || '' }}
+
+      - name: Commit whatever changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add subs proxies rapo.txt
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+            exit 0
+          fi
+          subs=$(grep -c '^https' subs/all.txt || true)
+          proxies=$(grep -cE '^[a-z0-9]+://' proxies/all.txt || true)
+          git commit -m "Update: ${subs:-0} subscriptions, ${proxies:-0} proxies"
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "## Result"
+            echo
+            echo "- subscriptions: $(grep -c '^https' subs/all.txt || true)"
+            echo "- proxies: $(grep -cE '^[a-z0-9]+://' proxies/all.txt || true)"
+            echo
+            echo "Density, the proxy file's only real quality score, is in its header."
+            echo "Full standings: [subs/STATUS.md](subs/STATUS.md),"
+            echo "[proxies/STATUS.md](proxies/STATUS.md)."
+          } >> "$GITHUB_STEP_SUMMARY"
