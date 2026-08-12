@@ -129,6 +129,7 @@ https://github.com/Au1rxx/free-vpn-subscriptions
 https://github.com/Autonomous120/xray-node-updater
 https://github.com/AvenCores/goida-vpn-site
 https://github.com/awen77/v2ray-config
+https://github.com/Awhiteowl/config-forge
 https://github.com/aydinverse/my-sub
 https://github.com/AzadNetCH/Clash
 https://github.com/azk470/azk47-sub
@@ -174,6 +175,7 @@ https://github.com/chuhan3131/free-vpn-tg-bot
 https://github.com/cirosantilli/china-dictatorship
 https://github.com/cirosantilli/china-dictatroship-7
 https://github.com/CJianYu/justmysocks
+https://github.com/cjjcn/reality-proxy-subscription-kit
 https://github.com/ckeklove-code/ck-sub
 https://github.com/cksdxz1007/hysteria2_generate_subscription
 https://github.com/clashhub-net/proxy-chain-config
@@ -725,6 +727,7 @@ https://github.com/sartip4545-code/https-github.com-SoliSpirit-v2ray-configs
 https://github.com/saTrx/config
 https://github.com/sayedhadi113/v2ray-config-genrator-free
 https://github.com/sbssver/v2ray-subscriptions
+https://github.com/SE7O-SNA/SE7O-SNA-panel
 https://github.com/SEDYY/vless-configs
 https://github.com/selenanett/clash-worker
 https://github.com/selenanett/v2ray-worker-sub
@@ -828,6 +831,7 @@ https://github.com/topv2raynode/topv2raynode.github.io
 https://github.com/torguardvpn/tgv2ray
 https://github.com/TrionoAK/RyxoPanel
 https://github.com/trm8g466d4-source/v2ray-sub
+https://github.com/Trueness04/cfradar-worker
 https://github.com/Tsimbalist/3X-UI-HWID
 https://github.com/tunmerreclop/Proxify-PWA
 https://github.com/Twoia-Kotletochka/xray-vpn-control-plane
@@ -850,6 +854,7 @@ https://github.com/V2RayRoot/V2Root-ConfigPilot
 https://github.com/v2rayshop/v2rayshop
 https://github.com/v2rayssshare/clashnodeshare
 https://github.com/V2route/v2ray-installation
+https://github.com/VadimOnix/xray-decky
 https://github.com/vahoryfifa-design/vless-subscription-generator
 https://github.com/ValenokMC/SvoRay
 https://github.com/Vauth/node
@@ -909,6 +914,7 @@ https://github.com/y9felix/s
 https://github.com/Yaka88/subconverter
 https://github.com/Yan233th/sub2nodes
 https://github.com/Yarfer800/local-vless-mgr
+https://github.com/yasinmalek82/pasarguard-migration-kit
 https://github.com/YawStar/Proxy-Hunter
 https://github.com/YG-Blue/v2ray-subscription
 https://github.com/Yikai-Liao/v2ray-reverse-bridge-guide
