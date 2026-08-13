@@ -360,6 +360,7 @@ https://github.com/heliataromi/ConfigHub
 https://github.com/hellcat443/hellsub-decoder
 https://github.com/helptmoop/Free-Telegram-Proxies
 https://github.com/Hemnsheikh/v2ray-configs
+https://github.com/here-is-leo/V-Tunnel
 https://github.com/heydarlaptop-sys/v2ray.subscription
 https://github.com/Hidashimora/free-vpn-anti-rkn
 https://github.com/hlpclg/singbox-sub-manager
@@ -467,6 +468,8 @@ https://github.com/leaftail1880/docker-xray-core-subscription-proxy
 https://github.com/legend4751/my-v2ray-configs
 https://github.com/Lego1997/mac-proxy-sync
 https://github.com/LeilaoMi/AutoMergePublicNodes-Optimized
+https://github.com/Lepsic111/vless-private
+https://github.com/Lepsic111/vless-public
 https://github.com/lerjtl/Testfree
 https://github.com/levpr1c/vpn-sub-get-hwid-script
 https://github.com/lianlian-ding/vps-xray-vpn-manager
@@ -527,6 +530,7 @@ https://github.com/mehrdad-tat/vless-collector
 https://github.com/mehrdadmb2/NodeForge
 https://github.com/mehrdadmb2/ProxyConfigCollector
 https://github.com/mehrdadmb2/v2ray-telegram-collector
+https://github.com/mehrdadmb2/V2ray_Sub
 https://github.com/mehrtat/vless-collector
 https://github.com/meower1/submixer
 https://github.com/meraws/MeraVPN
@@ -591,6 +595,7 @@ https://github.com/nabidam/prag
 https://github.com/nafada1365-beed/Epodonios-v2ray-configs
 https://github.com/NAJICI/config-V2ray-_Npv
 https://github.com/NakuTenshi/v2forge
+https://github.com/NakuTenshi/v2ray-nim-tester
 https://github.com/NamiraNet/V2Configs
 https://github.com/nari7ay-dj/SulgX-Panel
 https://github.com/narvinIR/shtil-vpn
