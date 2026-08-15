@@ -252,6 +252,7 @@ https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs
 https://github.com/Epodonios/v2ray-configs
 https://github.com/Erfan-Times/BCT
 https://github.com/ErfanElhamiMokhar/v2rayConfig
+https://github.com/Ethanwrite/vpn
 https://github.com/eurus1/V2Box-Client-Config-ios
 https://github.com/Everyday-VPN/Everyday-VPN
 https://github.com/evgeny-rudenko/proxy-xray
@@ -616,6 +617,7 @@ https://github.com/nestthub/v2hub-bot
 https://github.com/Net-Account/Config
 https://github.com/neversaywanan/v2rayM
 https://github.com/Nevyxx1/proxy-subscription
+https://github.com/nexaextensions/edgeflow
 https://github.com/nggezi/unisubsweep
 https://github.com/nGrUnD/vpn_template
 https://github.com/niazlv/subscribe-middleware-go
@@ -651,6 +653,7 @@ https://github.com/onion108/onion-v2ray-subscription-to-clash-converter
 https://github.com/oosmajid/AirProxy
 https://github.com/oosmajid/mohajer
 https://github.com/oowdov/JoonVPN
+https://github.com/oscyfmau/airport-speedtest
 https://github.com/otaviozanon/SettVPN
 https://github.com/Overl1te/OverVPN
 https://github.com/oyunop/v2ray_configs
@@ -829,6 +832,7 @@ https://github.com/TheCrowCreature/v2rayExtractor
 https://github.com/theemadd/V2ray
 https://github.com/thefatedefeater/V2ray-configs2
 https://github.com/therealaleph/sni-spoofing-rust
+https://github.com/TheRealMoeid/V2Ray-sales-telegram-bot
 https://github.com/theskanthunt42/emergency-toolbox-bot
 https://github.com/thethtwe-dev/v2flare
 https://github.com/thevladoss/vpn_osin
