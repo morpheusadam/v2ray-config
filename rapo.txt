@@ -135,6 +135,7 @@ https://github.com/awen77/v2ray-config
 https://github.com/Awhiteowl/config-forge
 https://github.com/aydinverse/my-sub
 https://github.com/AzadNetCH/Clash
+https://github.com/azizirasam06-boop/my-v2ray-subscription
 https://github.com/azk470/azk47-sub
 https://github.com/AzozzALFiras/AXProxy
 https://github.com/baiqigo/baiqi-cf-worker-mihomo
@@ -374,6 +375,7 @@ https://github.com/heydarlaptop-sys/v2ray.subscription
 https://github.com/Hidashimora/free-vpn-anti-rkn
 https://github.com/hlpclg/singbox-sub-manager
 https://github.com/HojjatSabzali/Xray-Config-Tester
+https://github.com/holydement0r/xray-reality-guide
 https://github.com/hooman1234567/v2ray-sales-bot
 https://github.com/hopsayer/vless-link2xray-config
 https://github.com/hosseinit1988/configv2ray
@@ -558,6 +560,7 @@ https://github.com/Mikita-ala/MARZBAN-SETTINGS
 https://github.com/mikop63/sublink
 https://github.com/miladtahanian/Config-Collector
 https://github.com/milixbot/-XGvpn
+https://github.com/MinimaxFlora/Sing-Box-Template
 https://github.com/miraali1372/mirsub
 https://github.com/mjnazify/ConfiGodZilla--rename-configs-title
 https://github.com/mnmohammad1389-cmd/mohammad1389
@@ -706,6 +709,7 @@ https://github.com/rb360full/V2Ray-Configs
 https://github.com/RE-MO-SH/Xray_Checker
 https://github.com/real-jinx/V2rang-v2ray-vmess-vless-configs-daily
 https://github.com/RealCuf/VCG-Script
+https://github.com/redcorexx/Red
 https://github.com/Remzloi/v2ray-configs
 https://github.com/renkagod/vpn-aggregator
 https://github.com/renqismike/obhodiq
@@ -737,6 +741,7 @@ https://github.com/S1rChips/TakhtJamshid-UI
 https://github.com/sabbaghan/HeroVpn
 https://github.com/Sadegh-kh/nekosub
 https://github.com/sadkarajbutcher/V2ray_unit
+https://github.com/saeedshamc/V2rayConfigMergerWindows
 https://github.com/SagharRMZ/telegram-v2ray-collector
 https://github.com/SagharRMZ/V2Ray-Sub
 https://github.com/Sajjad-Taghinezhad/v2checker
@@ -817,6 +822,7 @@ https://github.com/sub-store-org/Sub-Store
 https://github.com/suiyuebaobao/raypilot-xray-panel
 https://github.com/SulgX/ConfigGenerator
 https://github.com/SulgX/SulgX-Panel
+https://github.com/sunnyxorange/v2ray-sub
 https://github.com/Surfboardv2ray/TGParse
 https://github.com/Surfboardv2ray/v2ray-refiner
 https://github.com/Surfboardv2ray/v2ray-worker-sub
@@ -916,6 +922,7 @@ https://github.com/wendy926/aikayla
 https://github.com/WhoisNeon/Config-To-QrCode
 https://github.com/WhoisNeon/Sub-Stream
 https://github.com/WhoJave/ExternalConfig
+https://github.com/wildbyteai/vps-proxy-kit
 https://github.com/wispll/vmess_subscription_helper
 https://github.com/wizwizdev/wizwizxui-timebot
 https://github.com/WLget/V2Ray_configs_64
