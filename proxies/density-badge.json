@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "label": "density",
- "message": "34%",
- "color": "brightgreen",
+ "message": "25%",
+ "color": "orange",
  "cacheSeconds": 3600
 }
