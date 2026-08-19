@@ -99,6 +99,7 @@ https://github.com/amirzariin1978-afk/AZSMART-CONFIG-2026
 https://github.com/anonymouskeys/Free-configs-
 https://github.com/anonyphoenix/configraytion
 https://github.com/ansari1375/V2ray-Subscription
+https://github.com/anyuta1166/vless_subscription_generator
 https://github.com/apolloadam31415926/v2ray_config
 https://github.com/arahmani6991-cyber/v2ray-configs
 https://github.com/Arash-GJ/v2ray-config-tester
@@ -240,6 +241,7 @@ https://github.com/DrFarhad2/v2ray_configs_pools
 https://github.com/dudiaosanjiang/v2ray-config
 https://github.com/DukeMehdi/FreeList-V2ray-Configs
 https://github.com/dyinginslowmotion/Sub-Template
+https://github.com/echohorizon614/gucci-3x-ui
 https://github.com/Efration/ZerondOne
 https://github.com/ehsanghaffar/config-sub-platform
 https://github.com/Einsfier/v2ray-subscription-patcher
@@ -460,6 +462,7 @@ https://github.com/keyhankamyar/ProxyRotator
 https://github.com/khaldsalhi/Genrate_v2rayng-
 https://github.com/khp73/Kashef-config-generator
 https://github.com/Ki4wn/v2ray-sub-manager
+https://github.com/kiacoder/blackout-kit
 https://github.com/killertop/NekoPilot-Android
 https://github.com/Kisjjw/vless2clash
 https://github.com/kltk/v2ray-tools
@@ -675,6 +678,7 @@ https://github.com/paradiseduo/subweb
 https://github.com/ParanodiaProject/-CONFIGURATIONS-FOR-HAPP-AND-V2RAYTUN
 https://github.com/parsa-vxt/minimal-v2rayn-routing
 https://github.com/ParsaImi/V2rayConfigs-Speed-Test-Script
+https://github.com/Parsairom/sub-panel
 https://github.com/parviztermux12-cell/vless-subscription
 https://github.com/Pasimand/v2ray-config-agg
 https://github.com/PatchFoalDone/vpn-kit-core
