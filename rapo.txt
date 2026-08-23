@@ -93,6 +93,7 @@ https://github.com/amirkma/proxykma
 https://github.com/Amirmax1/v2ray-config-generator
 https://github.com/amirparsa692-coder/sub-v2ray
 https://github.com/amirrezaalavi/Viberay
+https://github.com/AmirrezaFarnamTaheri/HUNTX
 https://github.com/amirrhmni/v2ray-subscription-Amir
 https://github.com/amirtala1983/v2ray
 https://github.com/Amirzamani1l/WRAITH
@@ -508,6 +509,7 @@ https://github.com/liMilCo/v2r
 https://github.com/littlebais/free-proxy-nodes
 https://github.com/llgelarall/-TelegramV2RayConfigFetcher
 https://github.com/lolka1333/rx-ui
+https://github.com/lolo30fer/nU
 https://github.com/longlon/v2ray-config
 https://github.com/loopaz/V2ray-config-convet
 https://github.com/LoveNations-org/V2RayConfigs
@@ -641,6 +643,7 @@ https://github.com/nestthub/v2hub-bot
 https://github.com/Net-Account/Config
 https://github.com/neversaywanan/v2rayM
 https://github.com/Nevyxx1/proxy-subscription
+https://github.com/Nexa-zak/Nexa
 https://github.com/nexaextensions/edgeflow
 https://github.com/Nexuspt753/GitHub-Sub-Scanner
 https://github.com/nggezi/unisubsweep
@@ -732,6 +735,7 @@ https://github.com/rb360full/V2Ray-Configs
 https://github.com/RE-MO-SH/Xray_Checker
 https://github.com/real-jinx/V2rang-v2ray-vmess-vless-configs-daily
 https://github.com/RealCuf/VCG-Script
+https://github.com/redcorexx/ConfigHub-V2Ray
 https://github.com/redcorexx/Red
 https://github.com/Remzloi/v2ray-configs
 https://github.com/renkagod/vpn-aggregator
@@ -994,6 +998,7 @@ https://github.com/yun8811/natwebui
 https://github.com/yxhpy/v2ray-subscription-manager
 https://github.com/zabbixrosohr-blip/vless-subscription
 https://github.com/zeltest10-debug/vpn-sub
+https://github.com/zergfff/v2rayn-rs
 https://github.com/zhimingyang25/v2rayn-subscription
 https://github.com/zhiyarX34/Zhiyar-V2
 https://github.com/zhuhaiuk/free-nodes
