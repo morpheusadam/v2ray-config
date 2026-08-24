@@ -1,23 +1,61 @@
 # format: v1
-# tuic — 103 configs, generated 2026-08-23T13:35:25Z by harvest.py
+# tuic — 117 configs, generated 2026-08-24T13:53:15Z by harvest.py
 # tuic only, best source first.
 # Built from sources this project fetched, decoded and scored itself.
 # https://github.com/morpheusadam/v2ray-config
 
-tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Balpn=h3%2Cspdy/3.1&amp%3Ballow_insecure=1#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
-tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738?alpn=h3&congestion_control=bbr&sni=sg2-8sb.6121999.dpdns.org&sub_tag=B007-260618&udp=true&udp_relay_mode=quic#🇸🇬_ping_578ms_speed_11.6Mbps
+tuic://6e8482fb-1f9b-11ed-af5f-f23c91cfbbc9:6e8482fb-1f9b-11ed-af5f-f23c91cfbbc9@c5f9c56f-tegxs0-tkka1f-1k25p.sjc.oshuawei.com:443?sni=c5f9c56f-tegxs0-tkka1f-1k25p.sjc.oshuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
+tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?alpn=h3&congestion_control=bbr&udp=true&udp_relay_mode=quic&sni=sg2-8sb.6121999.dpdns.org#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG4%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG%7CGM-SG%7CCL-SG%7CSP-SG
+tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738?alpn=h3&congestion_control=bbr&sni=sg2-8sb.6121999.dpdns.org&udp=true&udp_relay_mode=quic#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG8%7C1.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG%7CGM-SG%7CCL-SG%7CSP-SG
 tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com:443?congestion_control=bbr&sub_tag=M003-260806&udp=true&sni=54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com&alpn=h3&udp_relay_mode=native#%E9%A6%99%E6%B8%AF%20190
-tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?alpn=h3&congestion_control=bbr&sni=sg2-8sb.6121999.dpdns.org&udp=true&udp_relay_mode=quic#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C320KB%2Fs%2001
 tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088/?congestion_control=bbr&udp_relay_mode=native&sni=apple.com&alpn=h3&allow_insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%20ip1.758733.xyz
 tuic://3cf62ed3-f3b4-4c4a-b371-0829d506338f:siEk2SjZFG@31.58.214.130:2087?congestion_control=bbr&alpn=h3,http/1.1&sni=ghasem.kotlet.org&udp_relay_mode=native#%F0%9F%87%AC%F0%9F%87%A7%20Maidenhead%2C%20GB%20%C2%B7%20Iomart%20Cloud%20Services%E2%80%A6%20%7C%2031.58.214.130%20%3A2087
 tuic://320c67f6-6296-483e-9ba8-618bc56820a9:3yaCLebOBWJnYPsjABKZTnbm1fazZ5VF@vip-nl-1.hkd4fwmg.vip:41944?allow_insecure=1&alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=vip-nl-1.hkd4fwmg.vip&udp_relay_mode=native&version=5#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2%B7%20DELUXHOST%20%7C%20vip-nl-1.hkd4fwmg.vip%20%3A41944
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Balpn=h3%2Cspdy/3.1&amp%3Ballow_insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20Sp%C3%A5nga%2C%20SE%20%C2%B7%20The%20Constant%20Company%20%7C%2070.34.197.98
 tuic://11135ca2-e2bf-43d1-9105-ca66d0b322f0:11135ca2-e2bf-43d1-9105-ca66d0b322f0@x6v0o7a4.turbowlan.net:35689/?congestion_control=bbr&udp_relay_mode=quic&sni=x6v0o7a4.turbowlan.net&alpn=h3&allow_insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20NetLab%20Global%20%7C%20x6v0o7a4.turbowlan.net
+tuic://a157bb84-dd84-4ad8-86b0-0656bc76e4d1:a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:1054?sni=moak.ccwink.cc&alpn=h3&congestion_control=bbr&udp-relay-mode=native&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20Amazon.com%20%7C%20jpaws.ccwink.photos%20%3A1054
+tuic://a157bb84-dd84-4ad8-86b0-0656bc76e4d1:a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:20245?sni=sgdigital.ccwink.cc&alpn=h3&congestion_control=bbr&udp-relay-mode=native&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20Amazon.com%20%7C%20jpaws.ccwink.photos%20%3A20245
+tuic://a157bb84-dd84-4ad8-86b0-0656bc76e4d1:a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:6066?sni=de.ccwink.cc&alpn=h3&congestion_control=bbr&udp-relay-mode=native&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20Amazon.com%20%7C%20jpaws.ccwink.photos%20%3A6066
 tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Bsni=bing.com&amp%3Balpn=h3&amp%3Ballow_insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20US%20%C2%B7%20Dedicated.com%20%7C%2064.110.25.10
 tuic://dbab9df7-5c0a-4726-8574-11e34972b67d%3Adbab9df7-5c0a-4726-8574-11e34972b67d@86.53.105.117:33014?sni=www.bing.com&alpn=h3&insecure=1&allowInsecure=1&congestion_control=bbr#DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-tuic://3ebac90b-6977-47c0-bef5-b2e37554432c:3ebac90b-6977-47c0-bef5-b2e37554432c@89.144.35.232:17306/?congestion_control=bbr&udp_relay_mode=native&sni=www.microsoft.com&alpn=h3&allow_insecure=1#德国
-tuic://a157bb84-dd84-4ad8-86b0-0656bc76e4d1:a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:1054?sni=moak.ccwink.cc&alpn=h3&congestion_control=bbr&udp-relay-mode=native&insecure=1#%F0%9F%87%B2%F0%9F%87%B4%E6%BE%B3%E9%97%A8%EF%BD%9C03%EF%BD%9CAWS
-tuic://a157bb84-dd84-4ad8-86b0-0656bc76e4d1:a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:20245?sni=sgdigital.ccwink.cc&alpn=h3&congestion_control=bbr&udp-relay-mode=native&insecure=1#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%EF%BD%9C03%EF%BD%9CAWS
-tuic://a157bb84-dd84-4ad8-86b0-0656bc76e4d1:a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:6066?sni=de.ccwink.cc&alpn=h3&congestion_control=bbr&udp-relay-mode=native&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%EF%BD%9C03%EF%BD%9CAWS
+tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Bsni=www.apple.com&amp%3Balpn=h3&amp%3Ballow_insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TUIC%20%7C%20%40vipv2rey%20%231
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@soskeynets.uzifan.monster:8443/?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3#TUIC-TLS-UDP-funnx2
+tuic://d076280a-0d5f-11f0-8a7b-f23c913c8d2b:d076280a-0d5f-11f0-8a7b-f23c913c8d2b@50906cc2-tegxs0-twemfo-se45.cu.oshuawei.com:443?allow_insecure=0&alpn=h3&congestion_control=bbr&sni=50906cc2-tegxs0-twemfo-se45.cu.oshuawei.com&udp_relay_mode=native#TUIC-TLS-UDP-dwk8Y0
+tuic://384d1b42-655f-11ed-a8bf-f23c91cfbbc9:384d1b42-655f-11ed-a8bf-f23c91cfbbc9@0e5d639f-tegxs0-tfs442-11p9g.hk2.hyhuawei.com:443?allow_insecure=0&alpn=h3&congestion_control=bbr&sni=0e5d639f-tegxs0-tfs442-11p9g.hk2.hyhuawei.com&udp_relay_mode=native#TUIC-TLS-UDP-PyknqZ
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@sg01.uzifan.monster:8443/?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3#TUIC-TLS-UDP-yDdAqW
+tuic://f13f964e-f06c-11ec-a858-f23c91cfbbc9:f13f964e-f06c-11ec-a858-f23c91cfbbc9@8c284ed5-tegxs0-tt2yf5-1j61y.cu.oshuawei.com:443?sni=8c284ed5-tegxs0-tt2yf5-1j61y.cu.oshuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#TUIC-TLS-UDP-sRqOxX
+tuic://a1102edc-f382-4720-99f5-ecc0a74507af:a1102edc-f382-4720-99f5-ecc0a74507af@107.172.250.191:443?sni=apple.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#TUIC-TLS-UDP-FvjK5j
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@jp01.uzifan.monster:8443/?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3#TUIC-TLS-UDP-Khb8Mk
+tuic://e1dee7c0-cff7-11eb-a8bf-f23c91cfbbc9:e1dee7c0-cff7-11eb-a8bf-f23c91cfbbc9@dc0fe62a-tegxs0-teykgk-19xg1.hk1.hyhuawei.com:443?alpn=h3&congestion_control=bbr&sni=dc0fe62a-tegxs0-teykgk-19xg1.hk1.hyhuawei.com#TUIC-TLS-UDP-EYF5Qx
+tuic://3ebac90b-6977-47c0-bef5-b2e37554432c:3ebac90b-6977-47c0-bef5-b2e37554432c@89.144.35.232:17306?sni=www.microsoft.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#TUIC-TLS-UDP-tCbCpG
+tuic://f4a047d5-f419-4e3f-9054-bd2a087e1dc2:f4a047d5-f419-4e3f-9054-bd2a087e1dc2@154.26.183.5:41603?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=www.bing.com&udp_relay_mode=native&version=5#TUIC-TLS-UDP-UniSKM
+tuic://542bd1db-f5e7-4c81-a08a-d95da62a914b:542bd1db-f5e7-4c81-a08a-d95da62a914b@69.63.204.31:46501?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=www.bing.com&udp_relay_mode=native&version=5#TUIC-TLS-UDP-IVM4aA
+tuic://ba58ca0c-0411-444e-80f7-e361ce49012d:ba58ca0c-0411-444e-80f7-e361ce49012d@85.113.71.85:25092?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=www.bing.com&udp_relay_mode=native&version=5#TUIC-TLS-UDP-TqtLhw
+tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@62.210.24.143:33888/?congestion_control=cubic&udp_relay_mode=native&sni=bing.com&alpn=h3#TUIC-TLS-UDP-iPX7W0
+tuic://a1102edc-f382-4720-99f5-ecc0a74507af:a1102edc-f382-4720-99f5-ecc0a74507af@192.227.153.87:60000?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#TUIC-TLS-UDP-T3Vy4d
+tuic://a1102edc-f382-4720-99f5-ecc0a74507af:a1102edc-f382-4720-99f5-ecc0a74507af@136.0.41.47:40000?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#TUIC-TLS-UDP-sLGZev
+tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@108.181.22.155:12255?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://dacd2765-2332-4817-83c4-273df586c8c5:dacd2765-2332-4817-83c4-273df586c8c5@103.224.182.208:24147?congestion_control=bbr&alpn=h3#🔒
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://c12fd04c-2099-4016-a97c-26c0ae2c7d0b:c12fd04c-2099-4016-a97c-26c0ae2c7d0b@38.6.227.43:54009?congestion_control=bbr&alpn=h3&sni=www.bing.com&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@213.189.52.181:54555?congestion_control=bbr&alpn=h3&sni=www.bing.com&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@77.221.158.52:8922?congestion_control=bbr&alpn=h3%2C%20spdy%2F3.1&sni=www.google.com&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443?congestion_control=bbr&alpn=h3&sni=www.apple.com&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://bd8f69f7-30ff-4f63-aa6e-b73d80116b87:ip_cf@79.137.206.126:8443?congestion_control=new_reno&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://0d0120b1-dcf6-4e0c-bcc1-b27b6ce2426b:c05871a95f3ebc93@45.8.144.164:8080?congestion_control=bbr&udp_relay_mode=quic&allow_insecure=1#🔒
+tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:443?congestion_control=bbr&alpn=h3,spdy/3.1&sni=www.apple.com&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@72.52.178.23:12255?congestion_control=bbr&alpn=h3&udp_relay_mode=native#🔒
+tuic://e79ff713-c339-4640-9767-e6fd5d5f6c34:e79ff713-c339-4640-9767-e6fd5d5f6c34@[2a02:180:6:1::559]:17412?congestion_control=bbr&alpn=h3&sni=telegramEUT-VPN.ddns.net&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://e6084516-3004-41ac-a303-46b9dd71651f:JoinTelegram--IP_CF--@173.44.139.83:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://22a18c2a-0234-45d1-9d05-e1741cd202b1:JoinTelegram--IP_CF--@192.210.175.113:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://670998c6-a78f-43cc-86aa-29292476e040:dongtaiwang.com@64.110.25.10:33445?congestion_control=bbr&alpn=h3&sni=bing.com&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@[2a12:5940:72da::2]:8922?congestion_control=bbr&alpn=h3%2C%20spdy%2F3.1&sni=vkvd127.mycdn.me&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://544b010e-03d0-496b-8a52-4f82dfeceaa3:JoinTelegram--IP_CF--@192.210.175.44:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://4576f920-975b-4ab4-b53a-bdcfa623124d:dongtaiwang.com@108.181.22.239:45600?congestion_control=bbr&alpn=h3&sni=www.virustotal.com&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
+tuic://0347eba2-eb71-46b0-b7f6-229e98085d80:0347eba2-eb71-46b0-b7f6-229e98085d80@103.224.182.208:11163?congestion_control=bbr&alpn=h3&sni=poke.rushshop.club&udp_relay_mode=quic&disable_sni=1#🔒
+tuic://2999e665-fa4e-498f-8417-4ab567010ed6:aa69e32eae500e1c@77.91.77.87:38382?congestion_control=bbr&alpn=h3,spdy/3.1&sni=www.google.com&udp_relay_mode=native&allow_insecure=1#🔒
 tuic://aed1cc24-351d-11ef-ba52-f23c9164ca5d:aed1cc24-351d-11ef-ba52-f23c9164ca5d@1fd0c4d5-tk7400-tlbcwm-1rfon.pccw3.hyhuawei.com:443?sni=#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%C2%B7%20HKT%20Limited%20%7C%201fd0c4d5-tk7400-tlbcwm-1rfon.pccw3.hyhuawei.com
 tuic://f93486ce-cc84-11ed-9e98-f23c913c8d2b:f93486ce-cc84-11ed-9e98-f23c913c8d2b@8c09515a-tk7400-tlvq5w-1jcwu.pccw3.hyhuawei.com:443?sni=#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%C2%B7%20HKT%20Limited%20%7C%208c09515a-tk7400-tlvq5w-1jcwu.pccw3.hyhuawei.com
 tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@95.179.167.38:443/?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3&allow_insecure=1#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
@@ -25,29 +63,6 @@ tuic://f5c0eda2-4b97-11ed-bd7c-f23c913c8d2b:f5c0eda2-4b97-11ed-bd7c-f23c913c8d2b
 tuic://94d40708-8273-11ea-8fc9-f23c913c8d2b:94d40708-8273-11ea-8fc9-f23c913c8d2b@fc676f5c-tegxs0-ten5li-mv7m.hk2.hyhuawei.com:443?allow_insecure=0&alpn=h3&congestion_control=bbr&sni=fc676f5c-tegxs0-ten5li-mv7m.hk2.hyhuawei.com&udp_relay_mode=native#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 tuic://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb:strong-secret-pass-777@82.117.255.37:50043?alpn=h3&congestion_control=bbr&allow_insecure=1&udp_relay_mode=native&version=5#%F0%9F%87%B7%F0%9F%87%B4%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%2001
 tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@199.247.1.134:443/?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3&allow_insecure=1#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Bsni=www.apple.com&amp%3Balpn=h3&amp%3Ballow_insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TUIC%20%7C%20%40vipv2rey%20%231
-tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@72.52.178.23:12255?congestion_control=bbr&alpn=h3&udp_relay_mode=native#🔒
-tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@108.181.22.155:12255?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@213.189.52.181:54555?congestion_control=bbr&alpn=h3&sni=www.bing.com&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://e6084516-3004-41ac-a303-46b9dd71651f:JoinTelegram--IP_CF--@173.44.139.83:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://22a18c2a-0234-45d1-9d05-e1741cd202b1:JoinTelegram--IP_CF--@192.210.175.113:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://c12fd04c-2099-4016-a97c-26c0ae2c7d0b:c12fd04c-2099-4016-a97c-26c0ae2c7d0b@38.6.227.43:54009?congestion_control=bbr&alpn=h3&sni=www.bing.com&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://dacd2765-2332-4817-83c4-273df586c8c5:dacd2765-2332-4817-83c4-273df586c8c5@103.224.182.208:24147?congestion_control=bbr&alpn=h3#🔒
-tuic://4576f920-975b-4ab4-b53a-bdcfa623124d:dongtaiwang.com@108.181.22.239:45600?congestion_control=bbr&alpn=h3&sni=www.virustotal.com&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://2999e665-fa4e-498f-8417-4ab567010ed6:aa69e32eae500e1c@77.91.77.87:38382?congestion_control=bbr&alpn=h3,spdy/3.1&sni=www.google.com&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://e79ff713-c339-4640-9767-e6fd5d5f6c34:e79ff713-c339-4640-9767-e6fd5d5f6c34@[2a02:180:6:1::559]:17412?congestion_control=bbr&alpn=h3&sni=telegramEUT-VPN.ddns.net&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443?congestion_control=bbr&alpn=h3&sni=www.apple.com&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://0347eba2-eb71-46b0-b7f6-229e98085d80:0347eba2-eb71-46b0-b7f6-229e98085d80@103.224.182.208:11163?congestion_control=bbr&alpn=h3&sni=poke.rushshop.club&udp_relay_mode=quic&disable_sni=1#🔒
-tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@77.221.158.52:8922?congestion_control=bbr&alpn=h3%2C%20spdy%2F3.1&sni=www.google.com&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@[2a12:5940:72da::2]:8922?congestion_control=bbr&alpn=h3%2C%20spdy%2F3.1&sni=vkvd127.mycdn.me&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://bd8f69f7-30ff-4f63-aa6e-b73d80116b87:ip_cf@79.137.206.126:8443?congestion_control=new_reno&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:443?congestion_control=bbr&alpn=h3,spdy/3.1&sni=www.apple.com&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://0d0120b1-dcf6-4e0c-bcc1-b27b6ce2426b:c05871a95f3ebc93@45.8.144.164:8080?congestion_control=bbr&udp_relay_mode=quic&allow_insecure=1#🔒
-tuic://670998c6-a78f-43cc-86aa-29292476e040:dongtaiwang.com@64.110.25.10:33445?congestion_control=bbr&alpn=h3&sni=bing.com&udp_relay_mode=native&allow_insecure=1#🔒
-tuic://544b010e-03d0-496b-8a52-4f82dfeceaa3:JoinTelegram--IP_CF--@192.210.175.44:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒
 tuic://0347eba2-eb71-46b0-b7f6-229e98085d80:0347eba2-eb71-46b0-b7f6-229e98085d80@91.195.240.12:11163?congestion_control=bbr&udp_relay_mode=quic&sni=poke.rushshop.club&alpn=h3&disable_sni=1#🔒
 tuic://0347eba2-eb71-46b0-b7f6-229e98085d80:0347eba2-eb71-46b0-b7f6-229e98085d80@poke.rushshop.club:11163/?congestion_control=bbr&udp_relay_mode=quic&sni=poke.rushshop.club&alpn=h3&disable_sni=1#%40V2RAYNPLUS%F0%9F%94%B8%F0%9F%94%B8%F0%9F%94%B8%F0%9F%85%B0LL%20OPERATORS
 tuic://267f1917-69d4-463a-a8f2-4c4ab029483e:tuicircf1@84.32.45.252:35000?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒
@@ -98,7 +113,6 @@ tuic://69ab993a-4604-4dc8-be55-7918e434fc2b:oaoctFI3YbniIT2f5hrUOIXo@64.81.37.24
 tuic://d7a967b5-a26b-46f9-bc76-a9e5e082ef91:aleph@95.217.188.125:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#%F0%9F%94%92%20TUIC-UDP%20%F0%9F%87%AB%F0%9F%87%AE%20FI-95.217.188.125:443%20%F0%9F%93%A1%20PING-166.43-MS
 tuic://877f74d5-c145-46a7-8ff6-411c62725326:GEhMPABB4N7ZAfVXO-a9QA@3.0.225.160:443?sni=vpn.zetaservices.tech&congestion_control=bbr&alpn=h3&allow_insecure=1#🇸🇬
 tuic://53de9ed1-c955-4136-9137-4280400fe0fb:53de9ed1-c955-4136-9137-4280400fe0fb@209.141.58.4:61000?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2003%20TG%3A%20%40nodpai
-tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@62.210.24.143:33888/?congestion_control=cubic&udp_relay_mode=native&sni=bing.com&alpn=h3&allow_insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%2062.210.24.143%20%234
 tuic://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9:28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com:443?sni=40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 tuic://7ce74b92-c4f3-4b1e-b666-16d91683169f:7ce74b92-c4f3-4b1e-b666-16d91683169f@194.87.198.32:14536/?congestion_control=bbr&udp_relay_mode=native&sni=apple.com&alpn=h3&allow_insecure=1#Channel%20id%3A%20%40Argo_VPN1%F0%9F%87%A7%F0%9F%87%B7
 tuic://8687b6e0-ef24-4cd2-bcd2-02d3732bf554:dongtaiwang.com@[2001:bc8:32d7:302::16]:34997/?congestion_control=bbr&udp_relay_mode=native&sni=bing.com&alpn=h3&allow_insecure=1#@Hddify

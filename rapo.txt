@@ -220,6 +220,7 @@ https://github.com/davoo233/Godfe2ray
 https://github.com/dead-man1/CF-Worker-Sub-Manager
 https://github.com/decemberpei/V2rayRunner
 https://github.com/Dedroff/SimpleXray
+https://github.com/deeeeeeeeap/cf-youxuan-ws-xhttp
 https://github.com/DekomoriDES/vless-subscription
 https://github.com/Delta-Kronecker/ProtonVPN-WireGuard-configuration
 https://github.com/Delta-Kronecker/V2ray-Config
@@ -451,6 +452,7 @@ https://github.com/junjun266/FreeProxyGo
 https://github.com/justbehrad/v2ray-tester
 https://github.com/jyjyiuiu/subscription
 https://github.com/jyu2857/reality-sub
+https://github.com/k-kostin/omavless
 https://github.com/K0tovsk1y/Vpn-latency-monitoring
 https://github.com/Kaklaber/Stratum
 https://github.com/karlicaca/vmess2json
@@ -507,6 +509,7 @@ https://github.com/lilbuddie/sub-test
 https://github.com/limeihui110/v2ray-speed-sub
 https://github.com/liMilCo/v2r
 https://github.com/littlebais/free-proxy-nodes
+https://github.com/lizhenghost/sanl
 https://github.com/llgelarall/-TelegramV2RayConfigFetcher
 https://github.com/lolka1333/rx-ui
 https://github.com/lolo30fer/nU
@@ -518,6 +521,7 @@ https://github.com/ludas114343/render-vless-proxy
 https://github.com/ludas114343/singbox-railway
 https://github.com/lululoid/vmess_sub_to_clash_meta
 https://github.com/lvqopl/BPB-Worker-Panel
+https://github.com/m13801113-ui/Config.yamal
 https://github.com/m1chtv/mich-m3ta
 https://github.com/m43126053-cmd/subscription-v2ray-
 https://github.com/magicdawn/clash-config-manager
