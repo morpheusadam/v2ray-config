@@ -310,6 +310,7 @@ https://github.com/flclash-us/vps-guide-n4fseo
 https://github.com/flclash-us/vps-guide-q3hze3
 https://github.com/Floxu1/BehroozuacV2ray-Android-TV
 https://github.com/FNET00bot/FNET00BOT
+https://github.com/FobiaLabs/vless-subscription
 https://github.com/Forgot-0/vpn_tg_bot
 https://github.com/frank-vpl/IRBox
 https://github.com/frank-vpl/servers
@@ -864,6 +865,7 @@ https://github.com/SwagMeli/SwagMeli-Sub
 https://github.com/Syavar/V2ray-Configs
 https://github.com/t0chk/v2rayu-updater
 https://github.com/T4cceptor/VRCragsman
+https://github.com/Taboraex/tabora-panel
 https://github.com/tahmaseb73/configs-collector-v2ray
 https://github.com/TakTyc/vpn-xray-all-country
 https://github.com/takumijie/v2rayUrl_Subscription_Service
