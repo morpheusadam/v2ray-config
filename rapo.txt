@@ -155,6 +155,7 @@ https://github.com/bhaktadas/forkTelegramV2rayCollector
 https://github.com/bhaktadas/forkV2Hub
 https://github.com/bia-pain-bache/BPB-Worker-Panel
 https://github.com/Bialri/VlessGrabber
+https://github.com/biohedge/proxychecker
 https://github.com/BlackKillrt/config_for_V2Ray
 https://github.com/BlastVPN/FreeVPN
 https://github.com/Blaze757/routeflux
@@ -164,6 +165,7 @@ https://github.com/Bpazy/comfysub
 https://github.com/Bpazy/xraysub
 https://github.com/bridgerzan/v2ray-config
 https://github.com/BROadmin/BROray
+https://github.com/BROadmin/BROray-Light
 https://github.com/by-sonic/HyPanel
 https://github.com/caiguanhao/subman
 https://github.com/callmeartan/LinkQuota
@@ -599,6 +601,7 @@ https://github.com/mohammmdmdmkdmewof/v2rayConfigsForYou
 https://github.com/mohsenfaraj/samir
 https://github.com/MohsenReyhani/vless-subscriptions
 https://github.com/Mokafela/Co-Killer
+https://github.com/Mokafela/Config-Finder
 https://github.com/momimamadrar/Config_v2ray
 https://github.com/monochenx-creator/gist-node-manager-for-Clash
 https://github.com/morpheusadam/SpoonBoy
@@ -742,6 +745,7 @@ https://github.com/real-jinx/V2rang-v2ray-vmess-vless-configs-daily
 https://github.com/RealCuf/VCG-Script
 https://github.com/redcorexx/ConfigHub-V2Ray
 https://github.com/redcorexx/Red
+https://github.com/remmchik/v2raya-xhwid-openwrt
 https://github.com/Remzloi/v2ray-configs
 https://github.com/renkagod/vpn-aggregator
 https://github.com/renqismike/obhodiq
@@ -979,6 +983,7 @@ https://github.com/xiphiidaeequinox80/mihomo-upstream-proxy-setup
 https://github.com/xlucn/ssr-decode
 https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
+https://github.com/xmeng-cx/ipv6-socks-panelv3
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
