@@ -228,6 +228,7 @@ https://github.com/Delta-Kronecker/ProtonVPN-WireGuard-configuration
 https://github.com/Delta-Kronecker/V2ray-Config
 https://github.com/Dev1324/Free-V2ray-Configs-Hiddify
 https://github.com/dev202635/Dev202635
+https://github.com/dev4ai68-jpg/xray_sub_transformer
 https://github.com/device-vv/converter-sub-vless
 https://github.com/devmmk/smartsub
 https://github.com/devmramirOrg/AlaVpn
@@ -263,6 +264,7 @@ https://github.com/envywook/MaxSpeedVPN
 https://github.com/eooce/Merge-sub
 https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs
 https://github.com/Epodonios/v2ray-configs
+https://github.com/eqyr/v2ray-config
 https://github.com/Erfan-Times/BCT
 https://github.com/ErfanElhamiMokhar/v2rayConfig
 https://github.com/Ethanwrite/vpn
@@ -385,6 +387,7 @@ https://github.com/Hemnsheikh/v2ray-configs
 https://github.com/here-is-leo/V-Tunnel
 https://github.com/heydarlaptop-sys/v2ray.subscription
 https://github.com/Hidashimora/free-vpn-anti-rkn
+https://github.com/hj445300/QtV2rayFrontend-prototype
 https://github.com/hlpclg/singbox-sub-manager
 https://github.com/HojjatSabzali/Xray-Config-Tester
 https://github.com/holydement0r/xray-reality-guide
@@ -482,6 +485,7 @@ https://github.com/Kokomi-maomeng/Material-Design-CastoriceUI
 https://github.com/komoterdon/free-sub
 https://github.com/Konton022/proxy-balacer
 https://github.com/kort0881/vpn-vless-configs-russia
+https://github.com/kottregrossmeyer-lab/one-click-vps-deploy
 https://github.com/kukuqi666/Subscription-conversion
 https://github.com/kurdishrojhelat24-design/v2ray-config
 https://github.com/Kusarok/kochsar-panel
@@ -494,6 +498,7 @@ https://github.com/LackyCraft/xkeen-smartroute
 https://github.com/LAG-Lagendary/ansible-vpn-resurrection
 https://github.com/Lakyn80/xray-manager
 https://github.com/LalatinaHub/LatinaSub
+https://github.com/lalolgl/xrayctl
 https://github.com/lance65/.github-workflows-openwrt-ci.yml
 https://github.com/LavaTeam-IR/leef-panel
 https://github.com/lcr154/savenet-vpn-bot
@@ -575,6 +580,7 @@ https://github.com/meower1/submixer
 https://github.com/meraws/MeraVPN
 https://github.com/Meret2019/vless-subscription
 https://github.com/mermeroo/V2RAY-CLASH-BASE64-Subscription.Links
+https://github.com/mezdiagit/vless-worker
 https://github.com/MhdiTaheri/V2rayCollector
 https://github.com/MhdiTaheri/V2rayCollector_Py
 https://github.com/mhyrzt/xrat
@@ -600,6 +606,7 @@ https://github.com/mohammadsdg/v2ray-config-backup
 https://github.com/mohammmdmdmkdmewof/v2rayConfigsForYou
 https://github.com/mohsenfaraj/samir
 https://github.com/MohsenReyhani/vless-subscriptions
+https://github.com/mojime66/v2ray-config
 https://github.com/Mokafela/Co-Killer
 https://github.com/Mokafela/Config-Finder
 https://github.com/momimamadrar/Config_v2ray
@@ -692,6 +699,7 @@ https://github.com/oowdov/JoonVPN
 https://github.com/Origin-Core/origin-core
 https://github.com/oscyfmau/airport-speedtest
 https://github.com/otaviozanon/SettVPN
+https://github.com/overklassniy/subrelay
 https://github.com/Overl1te/OverVPN
 https://github.com/OvInSol/Ovosch-Link
 https://github.com/OxO-5188/gm
@@ -730,6 +738,7 @@ https://github.com/properr/remnawave-installer
 https://github.com/PSN71-crypto/https-raw.githubusercontent.com-Syavar-V2ray-Configs-refs-heads-main-OK_TLS_activision.com.txt
 https://github.com/pyrolaceaepteropus757/routeflux
 https://github.com/qaderizadeh/v2ray-docker-win
+https://github.com/qilaidev/anyreality-resi-stack
 https://github.com/R3ZARAHIMI/tg-v2ray-configs-every2h
 https://github.com/radinshahdaei/v2run
 https://github.com/rahimkor344-hue/v2ray-iran-config
@@ -789,6 +798,8 @@ https://github.com/SamNet-dev/cfray
 https://github.com/SAMURAI-007/V2ray-shop-bot
 https://github.com/SapaAtayev/key-finder
 https://github.com/sartip4545-code/https-github.com-SoliSpirit-v2ray-configs
+https://github.com/sasa200000/proxy-hub
+https://github.com/sasa200000/proxy-hub-config-tester
 https://github.com/saTrx/config
 https://github.com/sayedhadi113/v2ray-config-genrator-free
 https://github.com/sbssver/v2ray-subscriptions
@@ -798,6 +809,7 @@ https://github.com/SE7O-SNA/SE7O-SNA-panel
 https://github.com/SEDYY/vless-configs
 https://github.com/selenanett/clash-worker
 https://github.com/selenanett/v2ray-worker-sub
+https://github.com/Semazz/SYBbox-Android
 https://github.com/Senorsen/convert-v2ray-gist
 https://github.com/sepandhaghighi/v2kit
 https://github.com/seramo/v2ray-config-modifier
