@@ -1,13 +1,13 @@
 # format: v1
-# tuic — 234 configs, generated 2026-08-29T17:16:53Z by harvest.py
+# tuic — 234 configs, generated 2026-08-30T17:23:51Z by harvest.py
 # tuic only, best source first.
 # Built from sources this project fetched, decoded and scored itself.
 # https://github.com/morpheusadam/v2ray-config
 
-tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?alpn=h3&congestion_control=bbr&sni=sg2-8sb.6121999.dpdns.org&udp=true&udp_relay_mode=quic#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C270KB%2Fs%2001
-tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738?sni=sg2-8sb.6121999.dpdns.org&congestion_control=bbr&udp_relay_mode=quic&alpn=h3#🇸🇬_ping_673ms_speed_10.1Mbps
-tuic://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9:28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com:443?sni=40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
+tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?alpn=h3&congestion_control=bbr&sni=sg2-8sb.6121999.dpdns.org&udp=true&udp_relay_mode=quic#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20@WhiteDNS%20%7C%20SG391%7C1.6MB/s%7CDNSOK%7CGPT%E2%81%BA-SG
+tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#%f0%9f%87%b8%f0%9f%87%ac%20SG%209
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Balpn=h3%2Cspdy/3.1&amp%3Ballow_insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20TUIC%20%7C%20%40vipv2rey%20%231
+tuic://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9:28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com:443?sni=40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@172.67.206.75:443?congestion_control=bbr&udp_relay_mode=quic#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com:443?congestion_control=bbr&sub_tag=M003-260806&udp=true&sni=54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com&alpn=h3&udp_relay_mode=native#%E9%A6%99%E6%B8%AF%20190
 tuic://7a1bb499-31d8-4c6b-9dcc-c66b31e63622:7a1bb499-31d8-4c6b-9dcc-c66b31e63622@31.57.228.213:20320?alpn=h3&congestion_control=cubic&congestion_controller=cubic&sni=persiatm.services&udp_relay-mode=native&udp_relay_mode=native&version=5#%F0%9F%87%A6%F0%9F%87%AA%20Dubai%2C%20AE%20%C2%B7%20Zenlayer%20%7C%2031.57.228.213
