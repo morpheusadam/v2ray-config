@@ -741,6 +741,7 @@ https://github.com/properr/remnawave-installer
 https://github.com/PSN71-crypto/https-raw.githubusercontent.com-Syavar-V2ray-Configs-refs-heads-main-OK_TLS_activision.com.txt
 https://github.com/pyrolaceaepteropus757/routeflux
 https://github.com/qaderizadeh/v2ray-docker-win
+https://github.com/qanatpanel/qanat
 https://github.com/qilaidev/anyreality-resi-stack
 https://github.com/R3ZARAHIMI/tg-v2ray-configs-every2h
 https://github.com/radinshahdaei/v2run
@@ -1013,6 +1014,7 @@ https://github.com/xuxu4707-netizen/vless-subscription
 https://github.com/xvolld/xvolldv2rayserver
 https://github.com/xxphantom/vpn-subscriptions-panel
 https://github.com/xyfqzy/free-nodes
+https://github.com/y6tred-ctrl/v2ray-config-checker
 https://github.com/y9felix/s
 https://github.com/Yaka88/subconverter
 https://github.com/Yan233th/sub2nodes
