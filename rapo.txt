@@ -106,6 +106,7 @@ https://github.com/apolloadam31415926/v2ray_config
 https://github.com/arahmani6991-cyber/v2ray-configs
 https://github.com/Arash-GJ/v2ray-config-tester
 https://github.com/arashsary/v2ray-config
+https://github.com/ArasTey/ArasClient
 https://github.com/aratash/xray-subs-parser
 https://github.com/arefbhrn/ProxyChainGen
 https://github.com/arg9244/V2R-Subs
@@ -232,6 +233,7 @@ https://github.com/dev4ai68-jpg/xray_sub_transformer
 https://github.com/device-vv/converter-sub-vless
 https://github.com/devmmk/smartsub
 https://github.com/devmramirOrg/AlaVpn
+https://github.com/dfantomasd/MyVPN-subscription
 https://github.com/DiamondTeamOfficial/v2ray-zitel
 https://github.com/DisruptorProxy/Core
 https://github.com/Dkveron/SubBridge
@@ -857,6 +859,7 @@ https://github.com/sliva-name/ultimaVLESS
 https://github.com/slxkware/Vless-list
 https://github.com/smakotta/V2rey-cfg
 https://github.com/smblue07/my-v2ray-tools
+https://github.com/smzxtv/nebula-decode
 https://github.com/snoups/remnashop
 https://github.com/sntroop/TeleOpen-VPN-Client
 https://github.com/Soli1212/Subscription-Next-Generation
