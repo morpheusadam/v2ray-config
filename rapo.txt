@@ -1,3 +1,4 @@
+https://github.com/02200059fate-collab/kiwivm-hysteria2-subscription
 https://github.com/0GHOLAMREZA0/My-Configs
 https://github.com/0x4d61686469/telegram-v2ray-collector
 https://github.com/0xAbolfazl/PyroConfig
@@ -800,6 +801,7 @@ https://github.com/Sajjad-Taghinezhad/v2checker
 https://github.com/sajjadsaharkhan/conduit
 https://github.com/sakazxc1400-creator/free-vpn-sub
 https://github.com/salmanclever/v2rconfigfetcher
+https://github.com/saman059/sub
 https://github.com/saman14641364-ux/Saman
 https://github.com/samimifar/marzban-template
 https://github.com/SamNet-dev/cfray
@@ -874,6 +876,7 @@ https://github.com/ssr-node/ssr-node.github.io
 https://github.com/sssilverhand/subforge
 https://github.com/ssskkkiiieee/android-vpn-client
 https://github.com/StarConsole/podkop-autosub
+https://github.com/StarLordKarma/v2rayn-auto-subscription
 https://github.com/StarLordKarma/vless-subscription
 https://github.com/Staweee/stawless
 https://github.com/stein-hak/network-test-api
@@ -1022,6 +1025,7 @@ https://github.com/y9felix/s
 https://github.com/Yaka88/subconverter
 https://github.com/Yan233th/sub2nodes
 https://github.com/Yarfer800/local-vless-mgr
+https://github.com/Yarumin/sub-manager
 https://github.com/yasinmalek82/pasarguard-migration-kit
 https://github.com/YawStar/Proxy-Hunter
 https://github.com/YG-Blue/v2ray-subscription
