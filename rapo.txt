@@ -249,6 +249,7 @@ https://github.com/dowenliu-xyz/vc
 https://github.com/dqqqqd1/yunxiang-free-node
 https://github.com/DrFarhad2/v2ray_configs_pools
 https://github.com/Drun555/VPS-Master-StarterPack
+https://github.com/Drun555/VPS-Orchestrator
 https://github.com/dudiaosanjiang/v2ray-config
 https://github.com/DukeMehdi/FreeList-V2ray-Configs
 https://github.com/dyinginslowmotion/Sub-Template
@@ -392,6 +393,7 @@ https://github.com/here-is-leo/V-Tunnel
 https://github.com/heydarlaptop-sys/v2ray.subscription
 https://github.com/Hidashimora/free-vpn-anti-rkn
 https://github.com/hj445300/QtV2rayFrontend-prototype
+https://github.com/hk183205-cmyk/v2ray-config-manager
 https://github.com/hlpclg/singbox-sub-manager
 https://github.com/HojjatSabzali/Xray-Config-Tester
 https://github.com/holydement0r/xray-reality-guide
@@ -426,6 +428,7 @@ https://github.com/IntellsGamer/manus-xray
 https://github.com/iosmanthus/vmess-subscription
 https://github.com/iProxyChannel/V2ray-Configs
 https://github.com/iran-px-panel/px-panel
+https://github.com/iran-px-panel/px-panel_worker
 https://github.com/irancpi/Subscription
 https://github.com/ircfspace/location
 https://github.com/ircfspace/tconfig
@@ -444,6 +447,7 @@ https://github.com/jackliuangel/SSRPortConfigurer
 https://github.com/jackrun123/v2ray_configs
 https://github.com/jafarm83/ConfigV2Ray
 https://github.com/jagger235711/V2rayCollector
+https://github.com/jamestashize/mianfei-jiedian-dingyue
 https://github.com/Jammeren2/luci-app-podkop-sub
 https://github.com/JasonCai2024/skill-vps-v2rayn-configurator
 https://github.com/JavidanNet-V2rayng/v2ray-config
@@ -774,6 +778,7 @@ https://github.com/RichTiTAN/V2rayTested
 https://github.com/rickylsr/ShareYourV2raySubscription
 https://github.com/ridma-basnayaka/VPN-Subcription-Links-ClashX-V2Ray-TopFreeProxy
 https://github.com/rikkihamano/v2gen
+https://github.com/RivShiba/Sing-box-Subscription-Manager
 https://github.com/RixGem/worker-subscription-converter
 https://github.com/RKPchannel/RKP_bypass_configs
 https://github.com/rnetis/3x-ui_tg_shop_bot
@@ -840,6 +845,7 @@ https://github.com/Sher-Kal/LegacyXrayClient
 https://github.com/shervinjavaheri06/BlackKnight
 https://github.com/shervinofpersia/V2.AliCivil
 https://github.com/sheytoona/Free-v2ray-Configs
+https://github.com/shirfeort/v2ray-mianfei-jiedian
 https://github.com/Shjpr9/Subs
 https://github.com/Silentely/AdBlock-Acceleration
 https://github.com/Simius-vpn/V2ray-Configs
