@@ -8,6 +8,7 @@ https://github.com/0xRadikal/Telegram-Config-Extractor
 https://github.com/10Dream/sub-mod
 https://github.com/1490844766/v2ray-subscription-aggregator
 https://github.com/195286381/xzzzzz-v2ray-config
+https://github.com/1r7in0/MahsaSubImporter
 https://github.com/1Shervin/FreeShen
 https://github.com/217CnoC/configs-collector-v2ray
 https://github.com/3aeidkhalili/xary-fragment-subscription
@@ -38,6 +39,7 @@ https://github.com/aghayesaeedi/AS-scanner
 https://github.com/ahMADASSadi/We2Ray
 https://github.com/ahmadi8689686/MehrXUI
 https://github.com/aipo-lenshow/EdgeNest
+https://github.com/aishervin/subfine
 https://github.com/ajezpathan-source/Ajez-pathan
 https://github.com/Akanenobody/v2ray-config-manager
 https://github.com/akarezi/V2auto
@@ -140,6 +142,7 @@ https://github.com/AvenCores/goida-vpn-site
 https://github.com/awen77/v2ray-config
 https://github.com/Awhiteowl/config-forge
 https://github.com/aydinverse/my-sub
+https://github.com/azadipanell/Nika-Net
 https://github.com/AzadNetCH/Clash
 https://github.com/azizirasam06-boop/my-v2ray-subscription
 https://github.com/azk470/azk47-sub
@@ -290,6 +293,7 @@ https://github.com/farzadqavidel/v2ray_config
 https://github.com/feast107/up-sub
 https://github.com/fele77/cf-vmess-trojan-sub
 https://github.com/felix-106/kairo
+https://github.com/fenglinhuowu/jiedian
 https://github.com/fifthidea/sub
 https://github.com/fifthidea/sub-decode
 https://github.com/Firmfox/Proxify
@@ -528,6 +532,7 @@ https://github.com/liketolivefree/kobabi
 https://github.com/lilbuddie/sub-test
 https://github.com/limeihui110/v2ray-speed-sub
 https://github.com/liMilCo/v2r
+https://github.com/lingion/Tunnel-CFP
 https://github.com/littlebais/free-proxy-nodes
 https://github.com/lizhenghost/sanl
 https://github.com/llgelarall/-TelegramV2RayConfigFetcher
@@ -557,6 +562,7 @@ https://github.com/Mahyar5803/Free-V2rayNG-Configs-V2rayNG_Ghavi
 https://github.com/majidalirezaeidotin/V2RayConfig
 https://github.com/malakhdj/v2ray-agent
 https://github.com/mamarzas/free-v2ray-configs
+https://github.com/Maoyangui/m-ui
 https://github.com/mapleafgo/singcast
 https://github.com/MAPSIM-co/Mapsim_Scanner_Utility
 https://github.com/maryamdemirci-maker/c140f09b55-104security-tls-encryption-none-alpn-h2-2Chttp-2F1.1-host-v2ray.com-type-ws-Sample_Config
@@ -737,6 +743,7 @@ https://github.com/Phrolova66/v2ray-configs
 https://github.com/pinusmassoniana/v2pi
 https://github.com/piquetcn/v2ray_config
 https://github.com/PlanAslii/vira-v2ray-configs
+https://github.com/PlanSK/vless-link-parser
 https://github.com/pog7x/vpn-configs
 https://github.com/pornnewbee/free-vless-VPN
 https://github.com/portraitsofkings/v2ray-config
@@ -943,6 +950,7 @@ https://github.com/TrionoAK/RyxoPanel
 https://github.com/trm8g466d4-source/v2ray-sub
 https://github.com/Trueness04/cfradar-worker
 https://github.com/Tsimbalist/3X-UI-HWID
+https://github.com/TuftaTech/ShellShift
 https://github.com/tunmerreclop/Proxify-PWA
 https://github.com/Twoia-Kotletochka/xray-vpn-control-plane
 https://github.com/tytsxai/anyreality-resi-stack
@@ -1049,6 +1057,7 @@ https://github.com/yun8811/natwebui
 https://github.com/yxhpy/v2ray-subscription-manager
 https://github.com/zabbixrosohr-blip/vless-subscription
 https://github.com/zeltest10-debug/vpn-sub
+https://github.com/ZendanTeam/SS44-sub
 https://github.com/zergfff/v2rayn-rs
 https://github.com/zhimingyang25/v2rayn-subscription
 https://github.com/zhiyarX34/Zhiyar-V2
