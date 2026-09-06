@@ -28,6 +28,7 @@ https://github.com/Abobirec/bezdelnicha-vpn0chek
 https://github.com/abol7ae-design/-NPV_LEGEND-
 https://github.com/abol7ae-design/NPV_LEGEND
 https://github.com/abol7ae-design/NPV_LEGEND-
+https://github.com/absolutevpn/happ-guide
 https://github.com/aceberg/unbox
 https://github.com/acidmiku/z_panel
 https://github.com/activebook/clash_forge
@@ -513,6 +514,7 @@ https://github.com/labi-le/sub-preprocessor
 https://github.com/LackyCraft/xkeen-smartroute
 https://github.com/LAG-Lagendary/ansible-vpn-resurrection
 https://github.com/Lakyn80/xray-manager
+https://github.com/LalatinaHub/LatinaApi
 https://github.com/LalatinaHub/LatinaSub
 https://github.com/lalolgl/xrayctl
 https://github.com/lance65/.github-workflows-openwrt-ci.yml
@@ -620,6 +622,7 @@ https://github.com/mohamadmousavi3/portfolio-vpn-configs
 https://github.com/MohammadBahemmat/npvt-collector
 https://github.com/MohammadBahemmat/V2ray-Collector
 https://github.com/mohammadghaffary/abc-configs-free-vpn-proxy-list
+https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PASS_BOT
 https://github.com/mohammadsdg/v2ray-config-backup
 https://github.com/mohammmdmdmkdmewof/v2rayConfigsForYou
 https://github.com/mohsenfaraj/samir
