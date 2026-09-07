@@ -11,6 +11,7 @@ https://github.com/195286381/xzzzzz-v2ray-config
 https://github.com/1r7in0/MahsaSubImporter
 https://github.com/1Shervin/FreeShen
 https://github.com/217CnoC/configs-collector-v2ray
+https://github.com/3588/luci-app-singbox-plus
 https://github.com/3aeidkhalili/xary-fragment-subscription
 https://github.com/3inker/v2ray-subscription
 https://github.com/411A/V2ProDock
@@ -280,6 +281,7 @@ https://github.com/Ethanwrite/vpn
 https://github.com/eurus1/V2Box-Client-Config-ios
 https://github.com/Everyday-VPN/Everyday-VPN
 https://github.com/evgeny-rudenko/proxy-xray
+https://github.com/EXE88/x-ui-accounter
 https://github.com/ExTreeMe7/xray-tutorial
 https://github.com/F0rc3Run/F0rc3Run
 https://github.com/F0rc3Run/F0rc3Run-panel
@@ -756,6 +758,7 @@ https://github.com/powerlew/my-v2ray-configs
 https://github.com/primeZdev/Emergency-key
 https://github.com/PrinceVSFX/Adapt-Configs
 https://github.com/printfer/v2sing
+https://github.com/ProblemTheCode/SylphNet-public
 https://github.com/procrastinando/mindbloat-bot
 https://github.com/ProNetworkEngineer/VPN-all-types-guide
 https://github.com/properr/remnawave-installer
