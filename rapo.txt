@@ -254,6 +254,7 @@ https://github.com/dostmehdi/v2ray-configs
 https://github.com/dowenliu-xyz/vc
 https://github.com/dqqqqd1/yunxiang-free-node
 https://github.com/DrFarhad2/v2ray_configs_pools
+https://github.com/drmikecrypto/PulseConfigs
 https://github.com/Drun555/VPS-Master-StarterPack
 https://github.com/Drun555/VPS-Orchestrator
 https://github.com/dudiaosanjiang/v2ray-config
@@ -261,6 +262,7 @@ https://github.com/DukeMehdi/FreeList-V2ray-Configs
 https://github.com/dyinginslowmotion/Sub-Template
 https://github.com/echohorizon614/gucci-3x-ui
 https://github.com/Efration/ZerondOne
+https://github.com/egor-muindor/submix
 https://github.com/ehsanghaffar/config-sub-platform
 https://github.com/Einsfier/v2ray-subscription-patcher
 https://github.com/electron-v2ray/Telegram-Config-Dumpr
@@ -375,6 +377,7 @@ https://github.com/grgarenaroom6-cmd/Free-Config-V2RAYNG-
 https://github.com/gulfpearltorism/2
 https://github.com/Guo-Li-Cheng/clash-subscription
 https://github.com/GuoBing1989100/v2ray_configs
+https://github.com/gvcgo/nekos
 https://github.com/GZJ/v2sub
 https://github.com/h382110229/hawkcdnproxy
 https://github.com/H3mnz/bug_vpn
@@ -533,6 +536,7 @@ https://github.com/levpr1c/vpn-sub-get-hwid-script
 https://github.com/LexterS999/secure-subscription-collector
 https://github.com/lianlian-ding/vps-xray-vpn-manager
 https://github.com/liketolivefree/kobabi
+https://github.com/Liki4/subconverter-rs
 https://github.com/lilbuddie/sub-test
 https://github.com/limeihui110/v2ray-speed-sub
 https://github.com/liMilCo/v2r
@@ -674,6 +678,7 @@ https://github.com/NamiraNet/V2Configs
 https://github.com/nari7ay-dj/SulgX-Panel
 https://github.com/narvinIR/shtil-vpn
 https://github.com/narvinIR/shtil-vpn-desktop
+https://github.com/Narwa1ly/vpn-config-checker
 https://github.com/nckpln/v2ray-conf
 https://github.com/neadev/clashverge_config_generator
 https://github.com/NeoQE/v2ray-config-converter
@@ -820,6 +825,7 @@ https://github.com/saeedshamc/V2rayConfigMergerWindows
 https://github.com/SagharRMZ/telegram-v2ray-collector
 https://github.com/SagharRMZ/V2Ray-Sub
 https://github.com/Sajjad-Taghinezhad/v2checker
+https://github.com/sajjadf3583-ship-it/SOS
 https://github.com/sajjadsaharkhan/conduit
 https://github.com/sakazxc1400-creator/free-vpn-sub
 https://github.com/salmanclever/v2rconfigfetcher
