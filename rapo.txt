@@ -95,7 +95,9 @@ https://github.com/amirhp-com/SubStat
 https://github.com/AmirHT1981/daily-v2ray-subscription
 https://github.com/AmirHT1981/v2ray-subscription-generator
 https://github.com/amirkma/proxykma
+https://github.com/Amirmahdavi2022/Panther-VPN
 https://github.com/Amirmax1/v2ray-config-generator
+https://github.com/amirmhmdglstan-stack/AntLighing-VPN
 https://github.com/amirparsa692-coder/sub-v2ray
 https://github.com/amirrezaalavi/Viberay
 https://github.com/AmirrezaFarnamTaheri/HUNTX
@@ -487,6 +489,9 @@ https://github.com/karlicaca/vmess2json
 https://github.com/karolord195-alt/My_V2ray_config
 https://github.com/kasesm/Free-Config
 https://github.com/katvixlab/xray-tlg
+https://github.com/kaveeshravishan223-web/KaveeshaRavishan.Config
+https://github.com/kaveeshravishan223-web/KaveeshaV2ray.Configure-
+https://github.com/kaveeshravishan223-web/v2ray-config-aggregator
 https://github.com/KazuhaHub/Passwall-Sub-Panel
 https://github.com/kc0577/clash-nyanpasu-mihomo-subscription-fixer
 https://github.com/keggin-CHN/v2ray-API
