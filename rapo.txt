@@ -297,6 +297,7 @@ https://github.com/fandoghsheknfree/-
 https://github.com/fandoghsheknfree/-2
 https://github.com/faripoorasl/xray-vpn
 https://github.com/farzadqavidel/v2ray_config
+https://github.com/fdisks/mianfei-jiedian-jianshi
 https://github.com/feast107/up-sub
 https://github.com/fele77/cf-vmess-trojan-sub
 https://github.com/felix-106/kairo
@@ -408,6 +409,7 @@ https://github.com/helptmoop/Free-Telegram-Proxies
 https://github.com/Hemnsheikh/v2ray-configs
 https://github.com/here-is-leo/V-Tunnel
 https://github.com/heydarlaptop-sys/v2ray.subscription
+https://github.com/Hezhi921/freefq-clash
 https://github.com/Hidashimora/free-vpn-anti-rkn
 https://github.com/hj445300/QtV2rayFrontend-prototype
 https://github.com/hk183205-cmyk/v2ray-config-manager
@@ -457,6 +459,7 @@ https://github.com/ItsLantern/BoltConfig
 https://github.com/itsnikan/navin
 https://github.com/ItzGlace/MistLink
 https://github.com/ivanminakow-code/Chester-Vpn
+https://github.com/ivorypatel/mianfei-jiedian-tiaoma
 https://github.com/iWebbIO/AUTORAY
 https://github.com/iwtsyddd/Socksicle
 https://github.com/ixiflower/polybot-tg
@@ -477,6 +480,7 @@ https://github.com/JINXPIL/flclash-converter
 https://github.com/jLAM-ERR/corvex
 https://github.com/JM001113/XUI_sub_concantenator
 https://github.com/jmgc95/v2ray-config
+https://github.com/jstonkari/mianfei-jiedian-jianfa3
 https://github.com/jsxta/whitelist-russia
 https://github.com/jumper2026/vpn-checker
 https://github.com/junjun266/FreeProxyGo
@@ -559,6 +563,7 @@ https://github.com/lsc470001233/Shcong-V2ray_node_subscription
 https://github.com/ludas114343/render-vless-proxy
 https://github.com/ludas114343/singbox-railway
 https://github.com/lululoid/vmess_sub_to_clash_meta
+https://github.com/lumexvpn/Free-Telegram-Proxies
 https://github.com/lvqopl/BPB-Worker-Panel
 https://github.com/m13801113-ui/Config.yamal
 https://github.com/m1chtv/mich-m3ta
@@ -633,6 +638,7 @@ https://github.com/mohamad3004/V2ray_configs
 https://github.com/mohamadfg-dev/telegram-v2ray-configs-collector
 https://github.com/mohamadmousavi3/portfolio-vpn-configs
 https://github.com/mohammad1390555/panah-android
+https://github.com/mohammadaz2/v2rayConfigsForYou
 https://github.com/MohammadBahemmat/npvt-collector
 https://github.com/MohammadBahemmat/V2ray-Collector
 https://github.com/mohammadghaffary/abc-configs-free-vpn-proxy-list
@@ -736,6 +742,7 @@ https://github.com/oosmajid/mohajer
 https://github.com/oowdov/JoonVPN
 https://github.com/Origin-Core/origin-core
 https://github.com/oscyfmau/airport-speedtest
+https://github.com/otaku-say/landscape-v2raya
 https://github.com/otaviozanon/SettVPN
 https://github.com/overklassniy/subrelay
 https://github.com/Overl1te/OverVPN
@@ -766,6 +773,7 @@ https://github.com/pog7x/vpn-configs
 https://github.com/pornnewbee/free-vless-VPN
 https://github.com/portraitsofkings/v2ray-config
 https://github.com/Postlog/subgen
+https://github.com/PouriaDRD/drd-network-manager
 https://github.com/pouyawhite/config
 https://github.com/powerlew/my-v2ray-configs
 https://github.com/primeZdev/Emergency-key
