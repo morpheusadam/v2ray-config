@@ -79,6 +79,7 @@ https://github.com/alviezhang/subgen
 https://github.com/Amberpiclippers/vpn-configs-for-russia-region
 https://github.com/amiercassanova-21/v2ray-subscription
 https://github.com/amin-ziaei/V2Ray-Subscription-Management-Panel
+https://github.com/aminlore030-dot/v2ray-config-manager-fullstack
 https://github.com/aminxparsaa/v2ray-configs
 https://github.com/amir-reza-bijandi/v2ray-configs
 https://github.com/amir12120/vpnshop
@@ -103,6 +104,7 @@ https://github.com/Amirmax1/v2ray-config-generator
 https://github.com/amirmhmdglstan-stack/AntLighing-VPN
 https://github.com/amirparsa692-coder/sub-v2ray
 https://github.com/amirrezaalavi/Viberay
+https://github.com/AmirrezaFarnamTaheri/ConfigStream
 https://github.com/AmirrezaFarnamTaheri/HUNTX
 https://github.com/amirrhmni/v2ray-subscription-Amir
 https://github.com/amirtala1983/v2ray
@@ -412,6 +414,7 @@ https://github.com/hellcat443/hellsub-decoder
 https://github.com/helptmoop/Free-Telegram-Proxies
 https://github.com/Hemnsheikh/v2ray-configs
 https://github.com/here-is-leo/V-Tunnel
+https://github.com/hessm3464/v2rayng-panel
 https://github.com/heydarlaptop-sys/v2ray.subscription
 https://github.com/Hezhi921/freefq-clash
 https://github.com/Hidashimora/free-vpn-anti-rkn
@@ -510,6 +513,7 @@ https://github.com/kereal/rs8kvn_bot
 https://github.com/kevinlasnh/proxyYAML_decoder
 https://github.com/keyhankamyar/ProxyRotator
 https://github.com/khaldsalhi/Genrate_v2rayng-
+https://github.com/khaos97/free-proxy-subscription
 https://github.com/khp73/Kashef-config-generator
 https://github.com/Ki4wn/v2ray-sub-manager
 https://github.com/kiacoder/blackout-kit
@@ -957,6 +961,7 @@ https://github.com/Tawreos228/Kitsune-Connect
 https://github.com/tbxark-arc/proxy-render
 https://github.com/teknovpnhub/v2ray-subscription
 https://github.com/testtff/Subscription
+https://github.com/TgolMsk/lcd-proxy
 https://github.com/The88788/Config-v2rayN-Yandex-Music-Yandex-Disk-Bitrix24-Microsoft-login-Power-BI-
 https://github.com/thealiiakbarii-ai/VCC
 https://github.com/thebigberg/V2RayConfigManagerV1
@@ -1089,11 +1094,13 @@ https://github.com/Yiwei666/04_-configure-file
 https://github.com/ylongw/vless-reality-deploy
 https://github.com/yms168/proxy-panel-v2
 https://github.com/Yue2u/xray-client
+https://github.com/YuHaiA/infrlo-proxy
 https://github.com/yun8811/natwebui
 https://github.com/yxhpy/v2ray-subscription-manager
 https://github.com/zabbixrosohr-blip/vless-subscription
 https://github.com/zeltest10-debug/vpn-sub
 https://github.com/ZendanTeam/SS44-sub
+https://github.com/ZengKaiJian-XiaoZeng/v2rayN-v2rayNG-Router-Configuration-Backup
 https://github.com/zergfff/v2rayn-rs
 https://github.com/zhimingyang25/v2rayn-subscription
 https://github.com/zhiyarX34/Zhiyar-V2
