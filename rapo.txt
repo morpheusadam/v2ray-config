@@ -569,6 +569,7 @@ https://github.com/longlon/v2ray-config
 https://github.com/loopaz/V2ray-config-convet
 https://github.com/LoveNations-org/V2RayConfigs
 https://github.com/lsc470001233/Shcong-V2ray_node_subscription
+https://github.com/luckylukam/tel-fetch1
 https://github.com/ludas114343/render-vless-proxy
 https://github.com/ludas114343/singbox-railway
 https://github.com/lululoid/vmess_sub_to_clash_meta
@@ -725,6 +726,7 @@ https://github.com/Nima-Monajjemy/v2ray-configs
 https://github.com/Nima-Monajjemy/v2ray-configs-nofolter
 https://github.com/Nima136-kian/Iran-v2ray-subscription
 https://github.com/nimah79/v2ray-subscription-monitor
+https://github.com/nimamohtasham95-dev/V2ray_Config
 https://github.com/ninjastrikers/nexus-nodes
 https://github.com/ninjastrikers/v2ray-configs
 https://github.com/NiREvil/bia-pain-bache
