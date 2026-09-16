@@ -159,6 +159,7 @@ https://github.com/AzozzALFiras/AXProxy
 https://github.com/baiqigo/baiqi-cf-worker-mihomo
 https://github.com/balochscript/free-vpn-configs
 https://github.com/barry-far/V2ray-Config
+https://github.com/bassorel/mianfei-jiedian-dingyue2
 https://github.com/batonogov/xray-health-exporter
 https://github.com/Begmurod/flowvpn
 https://github.com/belaytzev/hysteria-checker
@@ -189,6 +190,7 @@ https://github.com/CattMurr/FREE-VPN-VIA-PLANET
 https://github.com/cavalier-king/mahmoud-config-tool
 https://github.com/CG-spring/clash-subscription-tools
 https://github.com/ch2010chen/v2rayn-config
+https://github.com/chaishpish/free_server_v2ray
 https://github.com/changsongyang/V2ray-configs2
 https://github.com/chaosone/v2ray_config
 https://github.com/charmingyi/nodehub
@@ -271,6 +273,7 @@ https://github.com/echohorizon614/gucci-3x-ui
 https://github.com/Efration/ZerondOne
 https://github.com/egor-muindor/submix
 https://github.com/ehsanghaffar/config-sub-platform
+https://github.com/ehsanh4/3x-ui-theme
 https://github.com/Einsfier/v2ray-subscription-patcher
 https://github.com/electron-v2ray/Telegram-Config-Dumpr
 https://github.com/elemen3/biocide-v2raybot
@@ -381,6 +384,7 @@ https://github.com/gojigoji1/edgetunnel
 https://github.com/GOLDNETSS/goldnets
 https://github.com/goldrad/v2ray-config-converter
 https://github.com/goorilairan/S
+https://github.com/greatendga/mianfei-jiedian-danji
 https://github.com/greatlord1995/Free.Healthy.V2Ray.Configs
 https://github.com/grgarenaroom6-cmd/Free-Config-
 https://github.com/grgarenaroom6-cmd/Free-Config-V2RAYNG-
@@ -418,6 +422,7 @@ https://github.com/hessm3464/v2rayng-panel
 https://github.com/heydarlaptop-sys/v2ray.subscription
 https://github.com/Hezhi921/freefq-clash
 https://github.com/Hidashimora/free-vpn-anti-rkn
+https://github.com/hidooch980/vpn-sub
 https://github.com/hj445300/QtV2rayFrontend-prototype
 https://github.com/hk183205-cmyk/v2ray-config-manager
 https://github.com/hlpclg/singbox-sub-manager
