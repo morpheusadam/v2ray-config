@@ -234,6 +234,7 @@ https://github.com/damiryuldashbaev-oss/vless-de-subscription
 https://github.com/Danialsamadi/v2go
 https://github.com/DanikChub/vpn-platform
 https://github.com/danilog28/V2ray_Configs
+https://github.com/DanteG41/xray-subscription-update
 https://github.com/dapynileas/mianfei-jiedian-yunxing
 https://github.com/DarknessShade/Config-Converter
 https://github.com/davidazad1/free_v2rayconf
