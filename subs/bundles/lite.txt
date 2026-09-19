@@ -1,5 +1,5 @@
 # format: v1
-# lite — 300 configs, generated 2026-09-18T17:06:24Z by harvest.py
+# lite — 300 configs, generated 2026-09-19T16:25:39Z by harvest.py
 # The 300 configs from the highest-scoring sources.
 # Built from sources this project fetched, decoded and scored itself.
 # https://github.com/morpheusadam/v2ray-config
