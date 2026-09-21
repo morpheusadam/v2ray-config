@@ -20,6 +20,7 @@ https://github.com/43trh/FARSI-telegram-configs-collector
 https://github.com/6b3478/telegram-configs-collector2
 https://github.com/76220056/v2ray-configs
 https://github.com/76220056/v2ray-configss
+https://github.com/9917299/subscription
 https://github.com/a-amirfarzam/vst
 https://github.com/A-K-6/v2ray_scrapper
 https://github.com/a-salemi/xray-monitoring-bot
@@ -183,6 +184,7 @@ https://github.com/bridgerzan/v2ray-config
 https://github.com/BROadmin/BROray
 https://github.com/BROadmin/BROray-Light
 https://github.com/by-sonic/HyPanel
+https://github.com/c114/fanout-controller
 https://github.com/caiguanhao/subman
 https://github.com/callmeartan/LinkQuota
 https://github.com/CaptchaQ/vless-servers
@@ -476,6 +478,7 @@ https://github.com/iteride/vpn
 https://github.com/ItsLantern/BoltConfig
 https://github.com/itsnikan/navin
 https://github.com/ItzGlace/MistLink
+https://github.com/ItzPastil/BoltConfig
 https://github.com/ivanminakow-code/Chester-Vpn
 https://github.com/ivorypatel/mianfei-jiedian-tiaoma
 https://github.com/iWebbIO/AUTORAY
@@ -601,6 +604,7 @@ https://github.com/mahdifrkh/premade-V2rayN-backup
 https://github.com/mahdizynali/jimbo-v2ray
 https://github.com/mahsaq39-lgtm/Subscription
 https://github.com/Mahyar5803/Free-V2rayNG-Configs-V2rayNG_Ghavi
+https://github.com/Mai-kun/vless-sub-hub
 https://github.com/mailbyyan/V2RayServerConfig
 https://github.com/majidalirezaeidotin/V2RayConfig
 https://github.com/malakhdj/v2ray-agent
