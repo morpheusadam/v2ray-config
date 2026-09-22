@@ -151,6 +151,7 @@ https://github.com/Autonomous120/xray-node-updater
 https://github.com/AvenCores/goida-vpn-site
 https://github.com/awen77/v2ray-config
 https://github.com/Awhiteowl/config-forge
+https://github.com/awyndar/v2ray-configs
 https://github.com/aydinverse/my-sub
 https://github.com/azadipanell/Nika-Net
 https://github.com/AzadNetCH/Clash
@@ -840,6 +841,7 @@ https://github.com/rb360full/V2Ray-Configs
 https://github.com/RE-MO-SH/Xray_Checker
 https://github.com/real-jinx/V2rang-v2ray-vmess-vless-configs-daily
 https://github.com/RealCuf/VCG-Script
+https://github.com/realSamy/NarnixVPNBot
 https://github.com/redcorexx/ConfigHub-V2Ray
 https://github.com/redcorexx/Red
 https://github.com/remmchik/v2raya-xhwid-openwrt
@@ -949,6 +951,7 @@ https://github.com/slxkware/Vless-list
 https://github.com/smakotta/V2rey-cfg
 https://github.com/smblue07/my-v2ray-tools
 https://github.com/smzxtv/nebula-decode
+https://github.com/smzxtv/sb-smjm
 https://github.com/snoups/remnashop
 https://github.com/sntroop/TeleOpen-VPN-Client
 https://github.com/Soli1212/Subscription-Next-Generation
@@ -980,6 +983,7 @@ https://github.com/Surfboardv2ray/v2ray-worker-sub
 https://github.com/svinakraft-maker/FlareFeed
 https://github.com/SwagMeli/SwagMeli-Sub
 https://github.com/Syavar/V2ray-Configs
+https://github.com/SzeChiaHao/FreeNodesDaily
 https://github.com/t0chk/v2rayu-updater
 https://github.com/T4cceptor/VRCragsman
 https://github.com/Taboraex/tabora-panel
@@ -1146,4 +1150,5 @@ https://github.com/zohaade74-cloud/v2ray-config-collector
 https://github.com/zszszszsz/.config
 https://github.com/zxcDeadinsulte/scalavpn-configs
 https://github.com/zxcursedzxc0721/vless-subscriptions
+https://github.com/ZYHUO/worker-falling-grass-c407
 https://github.com/zytakeshi/sing-box-skills
