@@ -240,6 +240,7 @@ https://github.com/danilog28/V2ray_Configs
 https://github.com/DanteG41/xray-subscription-update
 https://github.com/dapynileas/mianfei-jiedian-yunxing
 https://github.com/DarknessShade/Config-Converter
+https://github.com/DartPanel/dart-panel
 https://github.com/davidazad1/free_v2rayconf
 https://github.com/davoo233/Godfe2ray
 https://github.com/dead-man1/CF-Worker-Sub-Manager
@@ -274,6 +275,7 @@ https://github.com/Drun555/VPS-Master-StarterPack
 https://github.com/Drun555/VPS-Orchestrator
 https://github.com/dudiaosanjiang/v2ray-config
 https://github.com/DukeMehdi/FreeList-V2ray-Configs
+https://github.com/dYGamma/subbox
 https://github.com/dyinginslowmotion/Sub-Template
 https://github.com/echohorizon614/gucci-3x-ui
 https://github.com/Efration/ZerondOne
@@ -965,6 +967,7 @@ https://github.com/ssbaxys/v2ray-configs
 https://github.com/ssr-node/ssr-node.github.io
 https://github.com/sssilverhand/subforge
 https://github.com/ssskkkiiieee/android-vpn-client
+https://github.com/stailegrow/maxstrike-vpn-client-macos
 https://github.com/StarConsole/podkop-autosub
 https://github.com/StarLordKarma/v2rayn-auto-subscription
 https://github.com/StarLordKarma/vless-subscription
@@ -1030,6 +1033,7 @@ https://github.com/Trueness04/cfradar-worker
 https://github.com/Tsimbalist/3X-UI-HWID
 https://github.com/TuftaTech/ShellShift
 https://github.com/tunmerreclop/Proxify-PWA
+https://github.com/TwilgateLabs/inhive
 https://github.com/Twoia-Kotletochka/xray-vpn-control-plane
 https://github.com/TypeNil/vpnclient-android
 https://github.com/tytsxai/anyreality-resi-stack
@@ -1110,6 +1114,7 @@ https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
 https://github.com/xno1n/NEXORA
+https://github.com/xno1n/nexora
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
