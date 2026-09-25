@@ -371,6 +371,7 @@ https://github.com/fshekhilar-dev/https-raw.githubusercontent.com-SoliSpirit-v2r
 https://github.com/fuckbushidow/-
 https://github.com/fullskirtmalaya185/fullskirtmalaya185.github.io
 https://github.com/fullskirtmalaya185/SulgX-Panel
+https://github.com/Functionhx/Function-Edge
 https://github.com/FunnyBabeInside/V2RSubscription
 https://github.com/funykaly/V2ray-Configs-Tester
 https://github.com/futureworld-freelove/V2ray-config.-configuration-.-iran.-iranian
@@ -745,6 +746,7 @@ https://github.com/nggezi/unisubsweep
 https://github.com/nGrUnD/vpn_template
 https://github.com/niazlv/subscribe-middleware-go
 https://github.com/nichind/v2ray2proxy
+https://github.com/nickolsky/v2ray-subscription-manager
 https://github.com/nihadchampion-lab/v2ray-configs
 https://github.com/nikita29a/FreeProxyList
 https://github.com/NIKJOO/Config_Over_SMS
@@ -1116,8 +1118,8 @@ https://github.com/xlucn/ssr-decode
 https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
-https://github.com/xno1n/nexora
 https://github.com/xno1n/NEXORA
+https://github.com/xno1n/nexora
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
