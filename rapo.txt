@@ -11,6 +11,7 @@ https://github.com/195286381/xzzzzz-v2ray-config
 https://github.com/1r7in0/MahsaSubImporter
 https://github.com/1Shervin/FreeShen
 https://github.com/217CnoC/configs-collector-v2ray
+https://github.com/3000S-HTTP/sNSub
 https://github.com/316878750/VPN
 https://github.com/3588/luci-app-singbox-plus
 https://github.com/3aeidkhalili/xary-fragment-subscription
@@ -113,6 +114,8 @@ https://github.com/amirrhmni/v2ray-subscription-Amir
 https://github.com/amirtala1983/v2ray
 https://github.com/Amirzamani1l/WRAITH
 https://github.com/amirzariin1978-afk/AZSMART-CONFIG-2026
+https://github.com/andrewkotoed-droid/v2ray-config-generator
+https://github.com/andrewkotoed-droid/v2raytun-balancer-app
 https://github.com/anonymouskeys/Free-configs-
 https://github.com/anonyphoenix/configraytion
 https://github.com/ansari1375/V2ray-Subscription
@@ -273,6 +276,7 @@ https://github.com/dowenliu-xyz/vc
 https://github.com/dqqqqd1/yunxiang-free-node
 https://github.com/DrFarhad2/v2ray_configs_pools
 https://github.com/drmikecrypto/PulseConfigs
+https://github.com/DrMinh-cpac/vless
 https://github.com/Drun555/VPS-Master-StarterPack
 https://github.com/Drun555/VPS-Orchestrator
 https://github.com/dudiaosanjiang/v2ray-config
@@ -871,6 +875,8 @@ https://github.com/ReZeRoP/vpn-shop
 https://github.com/RichTiTAN/CrimsonX
 https://github.com/RichTiTAN/V2rayTested
 https://github.com/rickylsr/ShareYourV2raySubscription
+https://github.com/rickyoktriadii/V2ray-to-clash-
+https://github.com/rickyoktriadii/V2ray-to-clash-convert-
 https://github.com/ridma-basnayaka/VPN-Subcription-Links-ClashX-V2Ray-TopFreeProxy
 https://github.com/rikkihamano/v2gen
 https://github.com/RivShiba/Sing-box-Subscription-Manager
@@ -989,6 +995,7 @@ https://github.com/stein-hak/network-test-api
 https://github.com/stillnotfree/SBM
 https://github.com/stillnotfree/sing-box-vps
 https://github.com/sub-store-org/Sub-Store
+https://github.com/suduwuxiantop/v2ray-clash-converter
 https://github.com/suiyuebaobao/raypilot-xray-panel
 https://github.com/SulgX/ConfigGenerator
 https://github.com/SulgX/SulgX-Panel
@@ -1126,8 +1133,8 @@ https://github.com/xlucn/ssr-decode
 https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
-https://github.com/xno1n/nexora
 https://github.com/xno1n/NEXORA
+https://github.com/xno1n/nexora
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
