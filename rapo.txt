@@ -70,6 +70,7 @@ https://github.com/Alireza-ALZ/RayScout
 https://github.com/alireza-aminzadeh/cconfig-maker
 https://github.com/alireza35rabii-code/v2ray-subscription-auto
 https://github.com/Alireza533022/v2ray-guide-free-v2ray-v2rayng-iran
+https://github.com/alireza786786/ConfigGPT-V2Ray-Nodes
 https://github.com/alirezagh99/v2ray-config-modifier-telegram-bot
 https://github.com/alirezani/cf-orion-pro
 https://github.com/alisadeghiaghili/v2ray-finder
@@ -189,6 +190,7 @@ https://github.com/Bpazy/xraysub
 https://github.com/bridgerzan/v2ray-config
 https://github.com/BROadmin/BROray
 https://github.com/BROadmin/BROray-Light
+https://github.com/buthoijo/web-config
 https://github.com/by-sonic/HyPanel
 https://github.com/c114/fanout-controller
 https://github.com/caiguanhao/subman
@@ -387,6 +389,7 @@ https://github.com/funykaly/V2ray-Configs-Tester
 https://github.com/futureworld-freelove/V2ray-config.-configuration-.-iran.-iranian
 https://github.com/fvrrrn/3xbot
 https://github.com/fxrepubliic/SVFREENET
+https://github.com/G1010yzd10/proxy-scanner
 https://github.com/gbcwror/v2ray-tester
 https://github.com/Gbin1989/v2ray_configs_hy
 https://github.com/geek-spot/Free-Config
@@ -787,6 +790,7 @@ https://github.com/oai404iao/xray-manager
 https://github.com/Obamacs/vmess
 https://github.com/officialmzstudio/Python_Telegram_Bot
 https://github.com/ogolknev/subbox
+https://github.com/okkarz/v2ray-sub-hub
 https://github.com/olegnysss/geosite_txt
 https://github.com/olpimaker/Nuwaa-Cloud
 https://github.com/onimushar/v2ray_subscription
@@ -867,6 +871,7 @@ https://github.com/RealCuf/VCG-Script
 https://github.com/realSamy/NarnixVPNBot
 https://github.com/redcorexx/ConfigHub-V2Ray
 https://github.com/redcorexx/Red
+https://github.com/rekt0ro/ProxyRift
 https://github.com/remmchik/v2raya-xhwid-openwrt
 https://github.com/Remzloi/v2ray-configs
 https://github.com/renato-mat/mianfei-jiedian-jiali
@@ -1137,8 +1142,8 @@ https://github.com/xlucn/ssr-decode
 https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
-https://github.com/xno1n/NEXORA
 https://github.com/xno1n/nexora
+https://github.com/xno1n/NEXORA
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
