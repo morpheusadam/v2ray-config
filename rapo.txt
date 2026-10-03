@@ -471,6 +471,7 @@ https://github.com/hsls65651-eng/v2ray-config
 https://github.com/htfy96/v2ray-config-gen
 https://github.com/huuthang799/vpn-hysteria2
 https://github.com/iaghapour/v2ray-converter
+https://github.com/ianm6855/v2rayn-desktop
 https://github.com/iboxz/free-v2ray-collector
 https://github.com/icho53/TelegramV2rayCollector
 https://github.com/icubaby/TrexBridgePanel
@@ -593,6 +594,7 @@ https://github.com/leaftail1880/docker-xray-core-subscription-proxy
 https://github.com/legend4751/my-v2ray-configs
 https://github.com/Lego1997/mac-proxy-sync
 https://github.com/LeilaoMi/AutoMergePublicNodes-Optimized
+https://github.com/LeilaoMi/preferred-sub-generator
 https://github.com/Lepsic111/vless-private
 https://github.com/Lepsic111/vless-public
 https://github.com/lerjtl/Testfree
@@ -735,6 +737,7 @@ https://github.com/mr-diamond13/KhGh2ray
 https://github.com/mr-r0ot/FerdowsiConfigs
 https://github.com/MrAbolfazlNorouzi/iran-configs
 https://github.com/MrArvand/FreeRay
+https://github.com/MrDeveloper1994/v2ray-subscription
 https://github.com/mrdevmohamed/v2ray-configs
 https://github.com/mRFWq7LwNPZjaVv5v6eo/cihna-dictattorshrip-8
 https://github.com/MRGhust/NOBODY-VPN
@@ -753,6 +756,7 @@ https://github.com/MustafaBaqer/VestraNet-Nodes
 https://github.com/mydocker-repo/v2ray
 https://github.com/myhac34/proxy-aggregator
 https://github.com/myominn062-svg/mk-studio-vpn-service
+https://github.com/myth-li/shadowshuttle
 https://github.com/nabidam/prag
 https://github.com/nafada1365-beed/Epodonios-v2ray-configs
 https://github.com/NAJICI/config-V2ray-_Npv
@@ -829,6 +833,7 @@ https://github.com/PaPerseller/chn-iplist
 https://github.com/paradiseduo/subweb
 https://github.com/ParanodiaProject/-CONFIGURATIONS-FOR-HAPP-AND-V2RAYTUN
 https://github.com/parsa-vxt/minimal-v2rayn-routing
+https://github.com/Parsa013Ah/OpenCode-Unlimited-ProxyPool
 https://github.com/ParsaImi/V2rayConfigs-Speed-Test-Script
 https://github.com/Parsairom/sub-panel
 https://github.com/partocode/Free-VLESS-Reality-Configs
