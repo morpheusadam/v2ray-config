@@ -75,6 +75,7 @@ https://github.com/alireza786786/ConfigGPT-V2Ray-Nodes
 https://github.com/alirezagh99/v2ray-config-modifier-telegram-bot
 https://github.com/alirezani/cf-orion-pro
 https://github.com/alisadeghiaghili/v2ray-finder
+https://github.com/AliSohani2082/sneakernet
 https://github.com/AliSoleimaniNet/ProxyChainer
 https://github.com/alixdehghani/vmess-free-sub
 https://github.com/allionapp/russia-config-guide
@@ -117,9 +118,11 @@ https://github.com/amirrhmni/v2ray-subscription-Amir
 https://github.com/amirtala1983/v2ray
 https://github.com/Amirzamani1l/WRAITH
 https://github.com/amirzariin1978-afk/AZSMART-CONFIG-2026
+https://github.com/ancored/nodes-tester
 https://github.com/andrewkotoed-droid/v2ray-config-generator
 https://github.com/andrewkotoed-droid/v2raytun-balancer-app
 https://github.com/andreydyadyk/nodes-tester
+https://github.com/anoitoskopanos/v2rayNG-Auto
 https://github.com/anonymouskeys/Free-configs-
 https://github.com/anonyphoenix/configraytion
 https://github.com/ansari1375/V2ray-Subscription
@@ -545,6 +548,7 @@ https://github.com/Kaklaber/Stratum
 https://github.com/karlicaca/vmess2json
 https://github.com/karolord195-alt/My_V2ray_config
 https://github.com/kasesm/Free-Config
+https://github.com/KatoteKiru/veilark-android
 https://github.com/katvixlab/xray-tlg
 https://github.com/kaveeshravishan223-web/KaveeshaRavishan.Config
 https://github.com/kaveeshravishan223-web/KaveeshaV2ray.Configure-
@@ -748,6 +752,7 @@ https://github.com/mrpauk/singbox2link
 https://github.com/MRT-project/v2ray-configs
 https://github.com/mrunderline/telegram_v2ray_sub
 https://github.com/mrvcoder/V2rayCollector
+https://github.com/mrVXBoT/3x-ui-subscription-theme
 https://github.com/MrzAhmadi/PAVE
 https://github.com/mshahmorady78-maker/v2ray-sub
 https://github.com/mshojaei77/v2rayAuto
@@ -890,6 +895,7 @@ https://github.com/rb360full/V2Ray-Configs
 https://github.com/RE-MO-SH/Xray_Checker
 https://github.com/real-jinx/V2rang-v2ray-vmess-vless-configs-daily
 https://github.com/RealCuf/VCG-Script
+https://github.com/Realmec21/Xer0x-vless-hub
 https://github.com/realSamy/NarnixVPNBot
 https://github.com/redcorexx/ConfigHub-V2Ray
 https://github.com/redcorexx/Red
@@ -927,6 +933,7 @@ https://github.com/ryabkov82/marzban-sub-page
 https://github.com/ryabkov82/vff-remnawave-auto
 https://github.com/Ryan-PG/ry-v2ray-config-extractor
 https://github.com/RynelHub/proxy-filter
+https://github.com/s11va9/network-manager-vless
 https://github.com/S1rChips/TakhtJamshid-UI
 https://github.com/sabbaghan/HeroVpn
 https://github.com/Sadegh-kh/nekosub
@@ -984,6 +991,7 @@ https://github.com/sheytoona/Free-v2ray-Configs
 https://github.com/shirfeort/v2ray-mianfei-jiedian
 https://github.com/Shjpr9/Subs
 https://github.com/Silentely/AdBlock-Acceleration
+https://github.com/simboos/v2ray-converter
 https://github.com/Simius-vpn/V2ray-Configs
 https://github.com/simon-0105/v2ray_config_generator
 https://github.com/sinajanam/onemi
@@ -1015,6 +1023,7 @@ https://github.com/soroushyasini/proxysmith
 https://github.com/Sparky2273/V2RayConverter
 https://github.com/ssavnayt/AWCFG-CONFIG-LIST
 https://github.com/ssbaxys/v2ray-configs
+https://github.com/ssnn20012001-bot/v2ray-sub
 https://github.com/ssr-node/ssr-node.github.io
 https://github.com/sssilverhand/subforge
 https://github.com/ssskkkiiieee/android-vpn-client
@@ -1166,8 +1175,8 @@ https://github.com/xlucn/ssr-decode
 https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
-https://github.com/xno1n/nexora
 https://github.com/xno1n/NEXORA
+https://github.com/xno1n/nexora
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
