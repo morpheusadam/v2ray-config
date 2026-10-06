@@ -244,6 +244,7 @@ https://github.com/creasydude/cf-sub-manager
 https://github.com/crossxx-labs/free-proxy
 https://github.com/CTPavel/CTFlow
 https://github.com/currycan/sb-xray
+https://github.com/curzydj8/v2ray-confighub
 https://github.com/cyberanrhy/proxy-skitchen
 https://github.com/d4nom/happ-vpn-setup
 https://github.com/DaBao-Lee/V2RayN-NodeShare
@@ -271,6 +272,7 @@ https://github.com/device-vv/converter-sub-vless
 https://github.com/devmmk/smartsub
 https://github.com/devmramirOrg/AlaVpn
 https://github.com/dfantomasd/MyVPN-subscription
+https://github.com/DgekStr/FocusVPN
 https://github.com/DiamondTeamOfficial/v2ray-zitel
 https://github.com/DisruptorProxy/Core
 https://github.com/Dkveron/SubBridge
@@ -475,6 +477,7 @@ https://github.com/htfy96/v2ray-config-gen
 https://github.com/huuthang799/vpn-hysteria2
 https://github.com/iaghapour/v2ray-converter
 https://github.com/ianm6855/v2rayn-desktop
+https://github.com/ib0lit/SubParser
 https://github.com/iboxz/free-v2ray-collector
 https://github.com/icho53/TelegramV2rayCollector
 https://github.com/icubaby/TrexBridgePanel
@@ -796,6 +799,7 @@ https://github.com/Nima-Monajjemy/v2ray-configs-nofolter
 https://github.com/Nima136-kian/Iran-v2ray-subscription
 https://github.com/nimah79/v2ray-subscription-monitor
 https://github.com/nimamohtasham95-dev/V2ray_Config
+https://github.com/nimannji/Cloudflare_worker_panel
 https://github.com/ninjastrikers/nexus-nodes
 https://github.com/ninjastrikers/v2ray-configs
 https://github.com/NiREvil/bia-pain-bache
@@ -945,6 +949,7 @@ https://github.com/Sajjad-Taghinezhad/v2checker
 https://github.com/sajjadf3583-ship-it/SOS
 https://github.com/sajjadsaharkhan/conduit
 https://github.com/sakazxc1400-creator/free-vpn-sub
+https://github.com/salahsahdo0/free-v2ray-configs
 https://github.com/salmanclever/v2rconfigfetcher
 https://github.com/saman059/sub
 https://github.com/saman14641364-ux/Saman
@@ -1013,6 +1018,7 @@ https://github.com/smakotta/V2rey-cfg
 https://github.com/smblue07/my-v2ray-tools
 https://github.com/smzxtv/nebula-decode
 https://github.com/smzxtv/sb-smjm
+https://github.com/SnishaperTeam/FlowWeaver
 https://github.com/snoups/remnashop
 https://github.com/sntroop/TeleOpen-VPN-Client
 https://github.com/Soli1212/Subscription-Next-Generation
@@ -1164,6 +1170,7 @@ https://github.com/Woodic-Way/Woodic-Fast-Connect
 https://github.com/Woodic-Way/WoodicWay
 https://github.com/wqzhellohhwy/subscription-converter
 https://github.com/xadoho/XadoHot
+https://github.com/xCodeOn/Onyx-Panel
 https://github.com/xesina/v2ray-config-examples
 https://github.com/XFN52/SubNode-Public
 https://github.com/xiaohuirong/txt2sub
@@ -1175,8 +1182,8 @@ https://github.com/xlucn/ssr-decode
 https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
-https://github.com/xno1n/NEXORA
 https://github.com/xno1n/nexora
+https://github.com/xno1n/NEXORA
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
