@@ -279,6 +279,7 @@ https://github.com/Dkveron/SubBridge
 https://github.com/dmsh-public-contact/sub2singbox
 https://github.com/Doki-code-22/Free-Internet-
 https://github.com/Dolov07KBR/DF-VPN-Android
+https://github.com/dongle-china/FlowWeaver
 https://github.com/dongyubin/Free-AppleId-Serve
 https://github.com/dorrin-sot/V2RAY_CONFIGS_POOL-Processor
 https://github.com/dos2bang/v2ray_config
@@ -296,6 +297,7 @@ https://github.com/DukeMehdi/FreeList-V2ray-Configs
 https://github.com/dxunvrs/xray-subscription
 https://github.com/dYGamma/subbox
 https://github.com/dyinginslowmotion/Sub-Template
+https://github.com/EasonMWS/clash-zenith
 https://github.com/echohorizon614/gucci-3x-ui
 https://github.com/Efration/ZerondOne
 https://github.com/egor-muindor/submix
@@ -442,6 +444,7 @@ https://github.com/hamedcode/port-based-v2ray-configs
 https://github.com/Hamedzah/v2ray
 https://github.com/Hamedzah/v2ray-gold-verdict
 https://github.com/HamoonSoleimani/Pr0xySh4rk
+https://github.com/Hankxuezhang/vps-reality-deploy
 https://github.com/hans-thomas/v2ray-subscription
 https://github.com/haomuch/Clash-to-V2rayN
 https://github.com/happymy/BBQ
@@ -853,6 +856,7 @@ https://github.com/Pavel2232/sing-box-config-builder
 https://github.com/Pawdroid/Free-servers
 https://github.com/penhandev/AutoAiVPN
 https://github.com/petersb888/clash-local-vless-subscription
+https://github.com/Phnx28/conf
 https://github.com/phpvortex/php-v2ray-manager
 https://github.com/Phrolova66/v2ray-configs
 https://github.com/pinusmassoniana/v2pi
@@ -1139,6 +1143,7 @@ https://github.com/vincent20240707/free-v2ray-nodes
 https://github.com/VistaNovin/daily-v2ray-subscription
 https://github.com/vladbogun1/tunneldeck
 https://github.com/VoidStudioos/sub-link
+https://github.com/vorlocsev/3xui-manager
 https://github.com/vorz1k/v2box
 https://github.com/VovaplusEXP/p-configs
 https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy
@@ -1182,8 +1187,8 @@ https://github.com/xlucn/ssr-decode
 https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
-https://github.com/xno1n/nexora
 https://github.com/xno1n/NEXORA
+https://github.com/xno1n/nexora
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
