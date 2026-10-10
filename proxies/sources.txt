@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/socks4.txt
 https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/socks5.txt
 https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt
 https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/generated/http_proxies.txt
+https://rcloak.com/api/proxies/raw?protocol=all
 
 # Very large — roughly 290,000 lines across the three, which is more than a daily probe
 # budget can prove. Uncomment only alongside a raised --max-candidates, and remember that
