@@ -16,6 +16,7 @@ https://github.com/316878750/VPN
 https://github.com/3588/luci-app-singbox-plus
 https://github.com/3aeidkhalili/xary-fragment-subscription
 https://github.com/3inker/v2ray-subscription
+https://github.com/3yed-61/v2ray-config-modifier
 https://github.com/411A/V2ProDock
 https://github.com/411A/V2RayDAR
 https://github.com/43trh/FARSI-telegram-configs-collector
@@ -277,12 +278,14 @@ https://github.com/decemberpei/V2rayRunner
 https://github.com/Dedroff/SimpleXray
 https://github.com/deeeeeeeeap/cf-youxuan-ws-xhttp
 https://github.com/DekomoriDES/vless-subscription
+https://github.com/Del-Iternenko/pingless
 https://github.com/Delta-Kronecker/ProtonVPN-WireGuard-configuration
 https://github.com/Delta-Kronecker/V2ray-Config
 https://github.com/Dev1324/Free-V2ray-Configs-Hiddify
 https://github.com/dev202635/Dev202635
 https://github.com/dev4ai68-jpg/xray_sub_transformer
 https://github.com/device-vv/converter-sub-vless
+https://github.com/devlsam/Byp
 https://github.com/devmmk/smartsub
 https://github.com/devmramirOrg/AlaVpn
 https://github.com/dfantomasd/MyVPN-subscription
@@ -322,6 +325,7 @@ https://github.com/egor-muindor/submix
 https://github.com/ehsanghaffar/config-sub-platform
 https://github.com/ehsanh4/3x-ui-theme
 https://github.com/Einsfier/v2ray-subscription-patcher
+https://github.com/elbRUS62/telegram-vpn-bot
 https://github.com/electron-v2ray/Telegram-Config-Dumpr
 https://github.com/elemen3/biocide-v2raybot
 https://github.com/elf2017spring/ConfigsHub
@@ -735,6 +739,7 @@ https://github.com/miladtahanian/Config-Collector
 https://github.com/milixbot/-XGvpn
 https://github.com/MinimaxFlora/Sing-Box-Template
 https://github.com/miraali1372/mirsub
+https://github.com/MiRHaDi/Aphrodite
 https://github.com/Mistgate/mistgate
 https://github.com/mjnazify/ConfiGodZilla--rename-configs-title
 https://github.com/mmkeshavarzz/v2ray-configs
@@ -1049,6 +1054,7 @@ https://github.com/Sher-Kal/LegacyXrayClient
 https://github.com/shervinjavaheri06/BlackKnight
 https://github.com/shervinofpersia/V2.AliCivil
 https://github.com/sheytoona/Free-v2ray-Configs
+https://github.com/shipap/vless-vpn-shop-telegram-bot
 https://github.com/shirfeort/v2ray-mianfei-jiedian
 https://github.com/Shjpr9/Subs
 https://github.com/Silentely/AdBlock-Acceleration
@@ -1225,6 +1231,7 @@ https://github.com/WhoisNeon/Config-To-QrCode
 https://github.com/WhoisNeon/Sub-Stream
 https://github.com/WhoJave/ExternalConfig
 https://github.com/wildbyteai/vps-proxy-kit
+https://github.com/WinSCP-Project/Nimbus
 https://github.com/wispll/vmess_subscription_helper
 https://github.com/wizwizdev/wizwizxui-timebot
 https://github.com/WLget/V2Ray_configs_64
