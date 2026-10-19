@@ -656,6 +656,7 @@ https://github.com/lingion/Tunnel-CFP
 https://github.com/littlebais/free-proxy-nodes
 https://github.com/lizhenghost/sanl
 https://github.com/llgelarall/-TelegramV2RayConfigFetcher
+https://github.com/lm705/vair
 https://github.com/lolka1333/rx-ui
 https://github.com/lolo30fer/nU
 https://github.com/longlon/v2ray-config
@@ -1015,6 +1016,8 @@ https://github.com/S1rChips/TakhtJamshid-UI
 https://github.com/s2vzbh5s2t-crypto/hakimi
 https://github.com/sabbaghan/HeroVpn
 https://github.com/Sadegh-kh/nekosub
+https://github.com/sadiq396/-_-
+https://github.com/sadiq396/Proxy-Center-AFG1
 https://github.com/sadkarajbutcher/V2ray_unit
 https://github.com/saeedshamc/V2rayConfigMergerWindows
 https://github.com/SagharRMZ/telegram-v2ray-collector
@@ -1040,6 +1043,7 @@ https://github.com/saymer-alt/link-generators
 https://github.com/sbbnm/SulgX-Panel
 https://github.com/sbssver/v2ray-subscriptions
 https://github.com/scar8969/fluxgate
+https://github.com/scar8969/subforge
 https://github.com/scottchenrui/v2raytoclash
 https://github.com/sdasd34s/sdadasd
 https://github.com/SE7O-SNA/SE7O-SNA-panel
@@ -1094,6 +1098,7 @@ https://github.com/sliva-name/ultimaVLESS
 https://github.com/slxkware/Vless-list
 https://github.com/smakotta/V2rey-cfg
 https://github.com/smblue07/my-v2ray-tools
+https://github.com/SmirnAA/xrs
 https://github.com/smzxtv/nebula-decode
 https://github.com/smzxtv/sb-smjm
 https://github.com/SnishaperTeam/FlowWeaver
@@ -1186,6 +1191,7 @@ https://github.com/TuftyTech/ShellShift
 https://github.com/tunmerreclop/Proxify-PWA
 https://github.com/TwilgateLabs/inhive
 https://github.com/Twoia-Kotletochka/xray-vpn-control-plane
+https://github.com/txrx13/meduzavpn
 https://github.com/TypeNil/vpnclient-android
 https://github.com/tytsxai/anyreality-resi-stack
 https://github.com/U4F5Va6c/surge-vless-bridge
@@ -1271,8 +1277,8 @@ https://github.com/xlucn/ssr-decode
 https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
-https://github.com/xno1n/NEXORA
 https://github.com/xno1n/nexora
+https://github.com/xno1n/NEXORA
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
@@ -1286,6 +1292,7 @@ https://github.com/y9felix/s
 https://github.com/Yaka88/subconverter
 https://github.com/yakoqqx/xui-reality-selfsteal-443-installer
 https://github.com/Yan233th/sub2nodes
+https://github.com/YandiDesign/FreePN
 https://github.com/Yarfer800/local-vless-mgr
 https://github.com/Yarumin/sub-manager
 https://github.com/yasinmalek82/pasarguard-migration-kit
@@ -1299,6 +1306,7 @@ https://github.com/ylongw/vless-reality-deploy
 https://github.com/yms168/proxy-panel-v2
 https://github.com/Yue2u/xray-client
 https://github.com/YuHaiA/infrlo-proxy
+https://github.com/Yuiffy/v2raya-failover
 https://github.com/yun8811/natwebui
 https://github.com/yxhpy/v2ray-subscription-manager
 https://github.com/zabbixrosohr-blip/vless-subscription
