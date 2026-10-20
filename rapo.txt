@@ -77,6 +77,7 @@ https://github.com/alireza-aminzadeh/cconfig-maker
 https://github.com/alireza35rabii-code/v2ray-subscription-auto
 https://github.com/Alireza533022/v2ray-guide-free-v2ray-v2rayng-iran
 https://github.com/alireza786786/ConfigGPT-V2Ray-Nodes
+https://github.com/alireza786786/Free-V2ray-Configs
 https://github.com/alirezagh99/v2ray-config-modifier-telegram-bot
 https://github.com/alirezaghta-cpu/config-boost-bot
 https://github.com/alirezani/cf-orion-pro
@@ -129,6 +130,7 @@ https://github.com/Amirzamani1l/WRAITH
 https://github.com/amirzariin1978-afk/AZSMART-CONFIG-2026
 https://github.com/AmyraxVPN-Main/Amyrax-Panel
 https://github.com/ancored/nodes-tester
+https://github.com/Andrejewild/happ-v2rayng-configs
 https://github.com/andrewkotoed-droid/v2ray-config-generator
 https://github.com/andrewkotoed-droid/v2raytun-balancer-app
 https://github.com/andreydyadyk/nodes-tester
@@ -241,6 +243,7 @@ https://github.com/cksdxz1007/hysteria2_generate_subscription
 https://github.com/clashhub-net/proxy-chain-config
 https://github.com/clashxw/clashxw.github.io
 https://github.com/claxpoint/xconfig
+https://github.com/clayicarus/proxy-gateway
 https://github.com/ClickDevTech/CELERITY-panel
 https://github.com/cls4756/v2raya-node-manager
 https://github.com/clysto/subconverter1
@@ -315,6 +318,7 @@ https://github.com/DroBov1Tya/xbot
 https://github.com/Drun555/VPS-Master-StarterPack
 https://github.com/Drun555/VPS-Orchestrator
 https://github.com/dudiaosanjiang/v2ray-config
+https://github.com/DUFUSxD/lazeyka
 https://github.com/DukeMehdi/FreeList-V2ray-Configs
 https://github.com/dxunvrs/xray-subscription
 https://github.com/dYGamma/subbox
@@ -428,6 +432,7 @@ https://github.com/funykaly/V2ray-Configs-Tester
 https://github.com/futureworld-freelove/V2ray-config.-configuration-.-iran.-iranian
 https://github.com/fvrrrn/3xbot
 https://github.com/fxrepubliic/SVFREENET
+https://github.com/FYHC1/uniproxy
 https://github.com/G1010yzd10/proxy-scanner
 https://github.com/gbcwror/v2ray-tester
 https://github.com/Gbin1989/v2ray_configs_hy
@@ -1277,8 +1282,8 @@ https://github.com/xlucn/ssr-decode
 https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
-https://github.com/xno1n/nexora
 https://github.com/xno1n/NEXORA
+https://github.com/xno1n/nexora
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
