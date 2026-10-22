@@ -3,20 +3,20 @@
 # Each is a single link that returns servers, unlike subs/all.txt which is a
 # list of other people's links. Every .txt also exists as -base64.txt.
 #
-# Generated 2026-10-21T18:07:46Z.
+# Generated 2026-10-22T18:07:46Z.
 
-https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/all.txt          # 64584 configs
+https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/all.txt          # 64536 configs
 https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/mini.txt          # 100 configs
 https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/lite.txt          # 300 configs
 https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/medium.txt          # 1000 configs
-https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/vless.txt          # 30376 configs
-https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/vmess.txt          # 9023 configs
-https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/trojan.txt          # 10081 configs
-https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/shadowsocks.txt          # 12613 configs
-https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/hysteria2.txt          # 1592 configs
-https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/tuic.txt          # 247 configs
-https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/wireguard.txt          # 590 configs
-https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/reality.txt          # 10101 configs
-https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/tls.txt          # 25552 configs
+https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/vless.txt          # 29864 configs
+https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/vmess.txt          # 8978 configs
+https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/trojan.txt          # 10386 configs
+https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/shadowsocks.txt          # 12755 configs
+https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/hysteria2.txt          # 1607 configs
+https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/tuic.txt          # 254 configs
+https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/wireguard.txt          # 593 configs
+https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/reality.txt          # 10047 configs
+https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/tls.txt          # 25539 configs
 https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/best.txt          # 2000 configs
 https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/iran.txt          # 3000 configs
