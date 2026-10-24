@@ -47,6 +47,7 @@ https://github.com/afighter-ops/FEYZLAP
 https://github.com/afshinshakibaa-tech/V2ray-Configs
 https://github.com/AgentY0/CVE-2023-34965
 https://github.com/aghayesaeedi/AS-scanner
+https://github.com/Agumuzi/crhopper
 https://github.com/ahMADASSadi/We2Ray
 https://github.com/ahmadi8689686/MehrXUI
 https://github.com/ahmadimilad/v2ray-config-finder-tg-bot
@@ -178,6 +179,7 @@ https://github.com/asiblak4-beep/Mysub
 https://github.com/askarniroomand/XRayMOD-archive
 https://github.com/Ati054/sb-gateway-openwrt
 https://github.com/AtlanticTeam/V2rayClient
+https://github.com/atu098/railway-vmess-node
 https://github.com/Au1rxx/free-vpn-subscriptions
 https://github.com/Autonomous120/xray-node-updater
 https://github.com/AvenCores/goida-vpn-site
@@ -300,6 +302,7 @@ https://github.com/device-vv/converter-sub-vless
 https://github.com/devlsam/Byp
 https://github.com/devmmk/smartsub
 https://github.com/devmramirOrg/AlaVpn
+https://github.com/devvertex1859/node
 https://github.com/dfantomasd/MyVPN-subscription
 https://github.com/DgekStr/FocusVPN
 https://github.com/DiamondTeamOfficial/v2ray-zitel
@@ -382,6 +385,7 @@ https://github.com/fenglinhuowu/jiedian
 https://github.com/ff12900666-del/v2ray-panel
 https://github.com/fifthidea/sub
 https://github.com/fifthidea/sub-decode
+https://github.com/FijshH/nevpn-releases
 https://github.com/Firmfox/Proxify
 https://github.com/flclash-us/airport-rec-61wwvk
 https://github.com/flclash-us/airport-rec-wizmbv
@@ -413,6 +417,7 @@ https://github.com/FobiaLabs/vless-subscription
 https://github.com/Forgot-0/vpn_tg_bot
 https://github.com/frank-vpl/IRBox
 https://github.com/frank-vpl/servers
+https://github.com/frank0live/onyxwing-gate
 https://github.com/frank0live/vanta-sub
 https://github.com/frankie540/sub-dedup
 https://github.com/free-clashv2ray/free-clashv2ray.github.io
@@ -583,6 +588,7 @@ https://github.com/jetwalk/japan-sub
 https://github.com/jiaowei94/cf-vless-subscription
 https://github.com/jiediancha/tizi
 https://github.com/JimZhang168872/vpnkit
+https://github.com/jinganix/subconverter
 https://github.com/JINXPIL/flclash-converter
 https://github.com/jLAM-ERR/corvex
 https://github.com/JM001113/XUI_sub_concantenator
@@ -924,6 +930,7 @@ https://github.com/OxO-5188/gm
 https://github.com/OxO-5188/ovo
 https://github.com/oyunop/v2ray_configs
 https://github.com/Palkin81/podkop-sub
+https://github.com/pandaincloud/cf-tunnel
 https://github.com/panelgozargah/gozargah
 https://github.com/PaPerseller/chn-iplist
 https://github.com/paradiseduo/subweb
@@ -994,6 +1001,7 @@ https://github.com/rb360full/V2Ray-Configs
 https://github.com/RE-MO-SH/Xray_Checker
 https://github.com/real-jinx/V2rang-v2ray-vmess-vless-configs-daily
 https://github.com/RealCuf/VCG-Script
+https://github.com/realfreevpn/free-nodes
 https://github.com/reallpha/Harimman-Proxy
 https://github.com/Realmec21/Xer0x-vless-hub
 https://github.com/realSamy/NarnixVPNBot
@@ -1136,6 +1144,7 @@ https://github.com/Soli1212/Subscription-Next-Generation
 https://github.com/SoliSpirit/SolVPN
 https://github.com/SoliSpirit/v2ray-configs
 https://github.com/SonyCore/V2RayGen
+https://github.com/soroushse7o/SEVO-panel
 https://github.com/soroushyasini/proxysmith
 https://github.com/Sparky2273/V2RayConverter
 https://github.com/ssavnayt/AWCFG-CONFIG-LIST
@@ -1221,6 +1230,7 @@ https://github.com/txrx13/meduzavpn
 https://github.com/TypeNil/vpnclient-android
 https://github.com/tytsxai/anyreality-resi-stack
 https://github.com/U4F5Va6c/surge-vless-bridge
+https://github.com/uier2/retro-vless-mac
 https://github.com/ujidesu/vless-mac
 https://github.com/unknowingpro/phproxy
 https://github.com/Uryzen317/V2ray-subscription-to-json
