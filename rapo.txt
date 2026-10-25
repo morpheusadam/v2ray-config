@@ -97,6 +97,7 @@ https://github.com/alrrstd/cloudflare-vless-subscription-worker
 https://github.com/altyhydyrov/https-github.com-altyhydyrov-Also-
 https://github.com/alviezhang/subgen
 https://github.com/Amberpiclippers/vpn-configs-for-russia-region
+https://github.com/Amesu-afk/TarnVPN
 https://github.com/amiercassanova-21/v2ray-subscription
 https://github.com/amin-ziaei/V2Ray-Subscription-Management-Panel
 https://github.com/aminlore030-dot/v2ray-config-manager-fullstack
@@ -636,6 +637,7 @@ https://github.com/KnowSky404/SubMan
 https://github.com/Kokomi-maomeng/Material-Design-CastoriceUI
 https://github.com/komoterdon/free-sub
 https://github.com/Konton022/proxy-balacer
+https://github.com/korsetov007-arch/vless-rus-subscriptions
 https://github.com/kort0881/vpn-vless-configs-russia
 https://github.com/kot53094-creator/vless-sub
 https://github.com/kottregrossmeyer-lab/one-click-vps-deploy
@@ -696,6 +698,7 @@ https://github.com/lululoid/vmess_sub_to_clash_meta
 https://github.com/lumexvpn/Free-Telegram-Proxies
 https://github.com/lusonmales-pixel/OdemaVPN
 https://github.com/lvqopl/BPB-Worker-Panel
+https://github.com/m-hesam-moradian/gemini-filter
 https://github.com/m0bar3z/v2ray-config-tester
 https://github.com/m13801113-ui/Config.yamal
 https://github.com/m1chtv/mich-m3ta
@@ -1106,6 +1109,7 @@ https://github.com/sheraliyz/free-vpn-configs-bot
 https://github.com/shervinjavaheri06/BlackKnight
 https://github.com/shervinofpersia/V2.AliCivil
 https://github.com/sheytoona/Free-v2ray-Configs
+https://github.com/shibunyan/sing-box
 https://github.com/shifeiquan520/shifeiquan3
 https://github.com/shipap/vless-vpn-shop-telegram-bot
 https://github.com/shirfeort/v2ray-mianfei-jiedian
@@ -1153,6 +1157,7 @@ https://github.com/ssnn20012001-bot/v2ray-sub
 https://github.com/ssr-node/ssr-node.github.io
 https://github.com/sssilverhand/subforge
 https://github.com/ssskkkiiieee/android-vpn-client
+https://github.com/sstpnk/freedom-cat
 https://github.com/stailegrow/maxstrike-vpn-client-macos
 https://github.com/StarConsole/podkop-autosub
 https://github.com/StarLordKarma/v2rayn-auto-subscription
@@ -1236,6 +1241,7 @@ https://github.com/unknowingpro/phproxy
 https://github.com/Uryzen317/V2ray-subscription-to-json
 https://github.com/Use4Free/Subs
 https://github.com/useruserdev/happwn
+https://github.com/Utady/ClashConfigMaker
 https://github.com/V2535/V2Hub
 https://github.com/v2fly/v2ray-step-by-step
 https://github.com/V2MA-VPN-CONFIGS/V2MA-vpn-v2ray-configs
@@ -1300,6 +1306,7 @@ https://github.com/wobushilixi/free-proxy-nodes
 https://github.com/WOLFEXX/exteragram-vpn-parser
 https://github.com/Woodic-Way/Woodic-Fast-Connect
 https://github.com/Woodic-Way/WoodicWay
+https://github.com/wooxi/xpanel
 https://github.com/wqzhellohhwy/subscription-converter
 https://github.com/xadoho/XadoHot
 https://github.com/xCodeOn/Onyx-Panel
