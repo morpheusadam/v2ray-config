@@ -226,6 +226,7 @@ https://github.com/BROadmin/BROray
 https://github.com/BROadmin/BROray-Light
 https://github.com/bubu629/free-v2ray-clash-auto-subscription-pool
 https://github.com/buegordm-a11y/MatinGhanbari-v2ray-configs
+https://github.com/bUmmy1337/universe-client
 https://github.com/buthoijo/web-config
 https://github.com/by-sonic/HyPanel
 https://github.com/c114/fanout-controller
@@ -870,6 +871,7 @@ https://github.com/NeoQE/v2ray-config-converter
 https://github.com/nestthub/v2hub-api
 https://github.com/nestthub/v2hub-bot
 https://github.com/Net-Account/Config
+https://github.com/nettlecode/Orbit-VPN-Client
 https://github.com/neversaywanan/v2rayM
 https://github.com/Nevyxx1/proxy-subscription
 https://github.com/Nexa-zak/Nexa
@@ -960,6 +962,7 @@ https://github.com/Pasimand/v2ray-config-agg
 https://github.com/PatchFoalDone/vpn-kit-core
 https://github.com/Pavel2232/sing-box-config-builder
 https://github.com/Pawdroid/Free-servers
+https://github.com/pctaha501-create/FreeVPN-Subscription-Mirror
 https://github.com/penhandev/AutoAiVPN
 https://github.com/petersb888/clash-local-vless-subscription
 https://github.com/Phnx28/conf
@@ -972,6 +975,7 @@ https://github.com/PlanAslii/vira-v2ray-configs
 https://github.com/PlanSK/vless-link-parser
 https://github.com/playwjj/gate
 https://github.com/plsn1337/singbox-converter
+https://github.com/pnnnx/vpn
 https://github.com/pog7x/vpn-configs
 https://github.com/polyakovpavell/keenetic-sing-box-automation
 https://github.com/pornnewbee/free-vless-VPN
@@ -983,6 +987,8 @@ https://github.com/PouriaDRD/drd-network-manager
 https://github.com/pouriyaahmadii/Gemini_NodeGuard
 https://github.com/pouyawhite/config
 https://github.com/powerlew/my-v2ray-configs
+https://github.com/primejud/configraw
+https://github.com/primejud/configweb
 https://github.com/primeZdev/Emergency-key
 https://github.com/PrinceVSFX/Adapt-Configs
 https://github.com/printfer/v2sing
@@ -1334,8 +1340,8 @@ https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
 https://github.com/xmwengxing/CFPilot
-https://github.com/xno1n/nexora
 https://github.com/xno1n/NEXORA
+https://github.com/xno1n/nexora
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
@@ -1382,6 +1388,7 @@ https://github.com/zinin/vpn-director
 https://github.com/zn0wii/satelite-proxy
 https://github.com/zohaade74-cloud/v2ray-config-collector
 https://github.com/zszszszsz/.config
+https://github.com/zueston/proxy-hub
 https://github.com/zxcDeadinsulte/scalavpn-configs
 https://github.com/zxcursedzxc0721/vless-subscriptions
 https://github.com/ZYHUO/worker-falling-grass-c407
