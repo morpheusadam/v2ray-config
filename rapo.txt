@@ -161,6 +161,7 @@ https://github.com/Argh94/Subify
 https://github.com/Argh94/V2RayAutoConfig
 https://github.com/Arianlavi/PingRay
 https://github.com/Arianlavi/RebeldevConfig
+https://github.com/arifulcrypto/vps-deploy-skill
 https://github.com/arista-project/Arista-Panel
 https://github.com/AriyanD/subscription-config-manager
 https://github.com/arminmokri/v2ray2json
@@ -426,6 +427,7 @@ https://github.com/frank-vpl/IRBox
 https://github.com/frank-vpl/servers
 https://github.com/frank0live/onyxwing-gate
 https://github.com/frank0live/vanta-sub
+https://github.com/frankie137/xray-mihomo-oneclick
 https://github.com/frankie540/sub-dedup
 https://github.com/free-clashv2ray/free-clashv2ray.github.io
 https://github.com/freeb5d/kite
@@ -529,10 +531,12 @@ https://github.com/hopsayer/vless-link2xray-config
 https://github.com/hosiinir1388yt-commits/v2ray-config-panel
 https://github.com/hossein75rn/rebeca-anami3-template
 https://github.com/hosseinit1988/configv2ray
+https://github.com/HotDrify/drifyconfigs
 https://github.com/houston626/v2ray-subscription
 https://github.com/hr3lxphr6j/subscribe2config
 https://github.com/hsls65651-eng/v2ray-config
 https://github.com/htfy96/v2ray-config-gen
+https://github.com/huangjibbing/edgetunnel-expiry
 https://github.com/huuthang799/vpn-hysteria2
 https://github.com/iaghapour/v2ray-converter
 https://github.com/ianm6855/v2rayn-desktop
@@ -1275,6 +1279,7 @@ https://github.com/VadimOnix/xray-decky
 https://github.com/vahed20004/V2ray-Config
 https://github.com/vahoryfifa-design/vless-subscription-generator
 https://github.com/ValenokMC/SvoRay
+https://github.com/var017986-ship-it/free-vpn-bot
 https://github.com/Vauth/node
 https://github.com/VernaTeam/verna-vpn
 https://github.com/vesnarek/VPN-XRAY-BOT
@@ -1310,6 +1315,7 @@ https://github.com/wangzai69/Apple-ID
 https://github.com/WayhomeZ/v2ray_to_Clash
 https://github.com/Web-Panel-Sing-Box/shilka-web-panel
 https://github.com/wendy926/aikayla
+https://github.com/WhereChixiaMeet/NetProbe
 https://github.com/WhiteDNS/WhiteVPN
 https://github.com/WhoisNeon/Config-To-QrCode
 https://github.com/WhoisNeon/Sub-Stream
@@ -1340,8 +1346,8 @@ https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
 https://github.com/xmwengxing/CFPilot
-https://github.com/xno1n/NEXORA
 https://github.com/xno1n/nexora
+https://github.com/xno1n/NEXORA
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
