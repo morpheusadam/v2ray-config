@@ -425,6 +425,7 @@ https://github.com/FobiaLabs/vless-subscription
 https://github.com/Forgot-0/vpn_tg_bot
 https://github.com/frank-vpl/IRBox
 https://github.com/frank-vpl/servers
+https://github.com/frank0live/aurora-subscription
 https://github.com/frank0live/onyxwing-gate
 https://github.com/frank0live/vanta-sub
 https://github.com/frankie137/xray-mihomo-oneclick
@@ -671,6 +672,8 @@ https://github.com/LalatinaHub/LatinaApi
 https://github.com/LalatinaHub/LatinaSub
 https://github.com/lalolgl/xrayctl
 https://github.com/lance65/.github-workflows-openwrt-ci.yml
+https://github.com/Largo-m/ExploitFA
+https://github.com/Largo-m/vless-toolkit
 https://github.com/LavaTeam-IR/leef-panel
 https://github.com/lcr154/savenet-vpn-bot
 https://github.com/leaftail1880/docker-xray-core-subscription-proxy
@@ -1346,8 +1349,8 @@ https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
 https://github.com/xmwengxing/CFPilot
-https://github.com/xno1n/nexora
 https://github.com/xno1n/NEXORA
+https://github.com/xno1n/nexora
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
