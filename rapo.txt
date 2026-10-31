@@ -21,6 +21,10 @@ https://github.com/3yed-61/v2ray-config-modifier
 https://github.com/411A/V2ProDock
 https://github.com/411A/V2RayDAR
 https://github.com/43trh/FARSI-telegram-configs-collector
+https://github.com/5nym92cs2r-star/jichangcloud
+https://github.com/5nym92cs2r-star/jichangk.blog
+https://github.com/5nym92cs2r-star/jichangwang-recommend-2026
+https://github.com/5nym92cs2r-star/tiziwang-blog
 https://github.com/5nym92cs2r-star/xiaoyuwangluo
 https://github.com/6b3478/telegram-configs-collector2
 https://github.com/76220056/v2ray-configs
@@ -98,6 +102,7 @@ https://github.com/alonestar77/Vless-vmess
 https://github.com/alrrstd/cloudflare-vless-subscription-worker
 https://github.com/altyhydyrov/https-github.com-altyhydyrov-Also-
 https://github.com/alviezhang/subgen
+https://github.com/AMarmeladov/HappDecoder
 https://github.com/Amberpiclippers/vpn-configs-for-russia-region
 https://github.com/Amesu-afk/TarnVPN
 https://github.com/amiercassanova-21/v2ray-subscription
@@ -248,6 +253,7 @@ https://github.com/Check-Now/BrowserVPN-Chrome
 https://github.com/CheerChen/sub2clash
 https://github.com/chen86860/surge-vless-bridge
 https://github.com/chenzhihan1751-cyber/node-sub-zixf
+https://github.com/chok8356/sing-box-panel
 https://github.com/chuhan3131/free-vpn-tg-bot
 https://github.com/cirosantilli/china-dictatorship
 https://github.com/cirosantilli/china-dictatroship-7
@@ -831,6 +837,7 @@ https://github.com/Mokafela/Co-Killer
 https://github.com/Mokafela/Config-Finder
 https://github.com/momimamadrar/Config_v2ray
 https://github.com/monochenx-creator/gist-node-manager-for-Clash
+https://github.com/MoonlessWanderer/v2uptime
 https://github.com/morning-verlu/gemini-warp-unlock
 https://github.com/morpheusadam/SpoonBoy
 https://github.com/morpheusadam/v2ray-config
@@ -884,6 +891,7 @@ https://github.com/Narwa1ly/vpn-config-checker
 https://github.com/NazifyYummy/ConfiGodZilla--rename-configs-title
 https://github.com/nckpln/v2ray-conf
 https://github.com/neadev/clashverge_config_generator
+https://github.com/neontunnel/neontunnel
 https://github.com/NeoQE/v2ray-config-converter
 https://github.com/nestthub/v2hub-api
 https://github.com/nestthub/v2hub-bot
@@ -1066,6 +1074,7 @@ https://github.com/rikkihamano/v2gen
 https://github.com/RivShiba/Sing-box-Subscription-Manager
 https://github.com/RixGem/worker-subscription-converter
 https://github.com/RKPchannel/RKP_bypass_configs
+https://github.com/RM007-UI/HmarahHUB-V2RAY-CONFIGS-SNI-SPOOF
 https://github.com/rnetis/3x-ui_tg_shop_bot
 https://github.com/roadwide/v2ray-Subscription-Link-Converter
 https://github.com/Robot-x-git/v2ray-configs-robotx-updated
@@ -1127,7 +1136,9 @@ https://github.com/Semazz/SYBbox-Android
 https://github.com/Senorsen/convert-v2ray-gist
 https://github.com/sepandhaghighi/v2kit
 https://github.com/sepantartd/v2ray-termux
+https://github.com/serafimbelskih32-source/windows-vpn-client
 https://github.com/seramo/v2ray-config-modifier
+https://github.com/SergeyFromMariupol/VPN
 https://github.com/sevcator/5ubscrpt10n
 https://github.com/Seyedhub/Subscription
 https://github.com/Sfedfcv/redesigned-pancake
@@ -1365,8 +1376,8 @@ https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
 https://github.com/xmwengxing/CFPilot
-https://github.com/xno1n/nexora
 https://github.com/xno1n/NEXORA
+https://github.com/xno1n/nexora
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
