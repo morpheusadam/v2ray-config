@@ -310,6 +310,7 @@ https://github.com/DarknessShade/Config-Converter
 https://github.com/DartPanel/dart-panel
 https://github.com/davidazad1/free_v2rayconf
 https://github.com/davoo233/Godfe2ray
+https://github.com/davoodtaba-glitch/openconnect-xray
 https://github.com/dead-man1/CF-Worker-Sub-Manager
 https://github.com/decemberpei/V2rayRunner
 https://github.com/Dedroff/SimpleXray
@@ -675,6 +676,7 @@ https://github.com/kianheidari91-cmyk/v2ray-config-panel6
 https://github.com/killertop/NekoPilot-Android
 https://github.com/Kisjjw/vless2clash
 https://github.com/kitewright-dev/Panther-VPN
+https://github.com/KJGX66F/FreeNodePanel
 https://github.com/kltk/v2ray-tools
 https://github.com/KnowSky404/SubMan
 https://github.com/Kokomi-maomeng/Material-Design-CastoriceUI
@@ -773,6 +775,7 @@ https://github.com/Maoyangui/godusevpn
 https://github.com/Maoyangui/m-ui
 https://github.com/mapleafgo/singcast
 https://github.com/MAPSIM-co/Mapsim_Scanner_Utility
+https://github.com/markankamaransheogarat-sys/nodevortex
 https://github.com/maryamdemirci-maker/c140f09b55-104security-tls-encryption-none-alpn-h2-2Chttp-2F1.1-host-v2ray.com-type-ws-Sample_Config
 https://github.com/maryamdemirci-maker/legendary-adventure
 https://github.com/maryamdemirci-maker/Meryem
@@ -780,6 +783,7 @@ https://github.com/maryoa61/kaya-cloud-panel
 https://github.com/Maskkost93/kizyak-vpn-4.0
 https://github.com/massooti/V2ray-fpm
 https://github.com/masterqii/xray-subscription
+https://github.com/Matin-mohebi/zeusvpn
 https://github.com/MatinGhanbari/v2ray-configs
 https://github.com/matinm4/v2ray-config-sender
 https://github.com/matintoraby55-debug/V2ray-config
@@ -1397,8 +1401,8 @@ https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
 https://github.com/xmwengxing/CFPilot
-https://github.com/xno1n/nexora
 https://github.com/xno1n/NEXORA
+https://github.com/xno1n/nexora
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
