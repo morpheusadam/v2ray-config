@@ -89,6 +89,7 @@ https://github.com/alireza35rabii-code/v2ray-subscription-auto
 https://github.com/Alireza533022/v2ray-guide-free-v2ray-v2rayng-iran
 https://github.com/alireza786786/ConfigGPT-V2Ray-Nodes
 https://github.com/alireza786786/Free-V2ray-Configs
+https://github.com/alireza786786/V2RAYCONFIGSPOOL
 https://github.com/alirezagh99/v2ray-config-modifier-telegram-bot
 https://github.com/alirezaghta-cpu/config-boost-bot
 https://github.com/alirezani/cf-orion-pro
@@ -240,6 +241,7 @@ https://github.com/bUmmy1337/universe-client
 https://github.com/buthoijo/web-config
 https://github.com/by-sonic/HyPanel
 https://github.com/c114/fanout-controller
+https://github.com/c1rcle-xy/cf-sub
 https://github.com/caiguanhao/subman
 https://github.com/callmeartan/LinkQuota
 https://github.com/CaptchaQ/vless-servers
@@ -532,6 +534,7 @@ https://github.com/HamoonSoleimani/Pr0xySh4rk
 https://github.com/Hankxuezhang/vps-reality-deploy
 https://github.com/hans-thomas/v2ray-subscription
 https://github.com/haomuch/Clash-to-V2rayN
+https://github.com/happ-tmn/happ-tmn-subscriptions
 https://github.com/happymy/BBQ
 https://github.com/happymy/BBQv2
 https://github.com/Harryleft/codex-v2rayN-config
@@ -822,6 +825,7 @@ https://github.com/MhdiTaheri/V2rayCollector_Py
 https://github.com/mhyrv/v2ray-stash
 https://github.com/mhyrzt/xrat
 https://github.com/MihichN/levushka-desktop
+https://github.com/mihomet/mihomet
 https://github.com/miiiladmo1378/xray-cyber-toolkit-pro
 https://github.com/mikezzx2009/vpn-subscription-kit
 https://github.com/Mikita-ala/MARZBAN-SETTINGS
@@ -1134,6 +1138,7 @@ https://github.com/saman059/sub
 https://github.com/saman14641364-ux/Saman
 https://github.com/samimifar/marzban-template
 https://github.com/SamNet-dev/cfray
+https://github.com/samur005/free-subs
 https://github.com/SAMURAI-007/V2ray-shop-bot
 https://github.com/SapaAtayev/key-finder
 https://github.com/sartip4545-code/https-github.com-SoliSpirit-v2ray-configs
@@ -1265,6 +1270,7 @@ https://github.com/Tawreos228/Kitsune-Connect
 https://github.com/tbxark-arc/proxy-render
 https://github.com/teknovpnhub/v2ray-subscription
 https://github.com/TelegaVPN/free-vpn-keys
+https://github.com/teocreate/xray-vpn-webos
 https://github.com/testtff/Subscription
 https://github.com/TgolMsk/lcd-proxy
 https://github.com/The88788/Config-v2rayN-Yandex-Music-Yandex-Disk-Bitrix24-Microsoft-login-Power-BI-
