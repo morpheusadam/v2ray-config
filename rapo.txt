@@ -375,6 +375,7 @@ https://github.com/elbRUS62/telegram-vpn-bot
 https://github.com/electron-v2ray/Telegram-Config-Dumpr
 https://github.com/elemen3/biocide-v2raybot
 https://github.com/elf2017spring/ConfigsHub
+https://github.com/eliot-voodi/l2x-panel
 https://github.com/elminsterjimmy/v2ray-to-clash
 https://github.com/Elvis-Nightingale/v2sub
 https://github.com/EmirenRU/v2rayn-routes-configs
@@ -497,6 +498,7 @@ https://github.com/glebesikov11-bit/vless-private
 https://github.com/glebesikov11-bit/vless-public
 https://github.com/globalv2ir/V2IR
 https://github.com/Godde3s/Usf-panel
+https://github.com/godzzdeal/hy2-p
 https://github.com/GoGoButters/VLESS-Checker
 https://github.com/gojigoji1/edgetunnel
 https://github.com/GOLDNETSS/goldnets
@@ -635,6 +637,7 @@ https://github.com/jiaowei94/cf-vless-subscription
 https://github.com/jiediancha/tizi
 https://github.com/JimZhang168872/vpnkit
 https://github.com/jinganix/subconverter
+https://github.com/jingjiangze/node-radar
 https://github.com/JINXPIL/flclash-converter
 https://github.com/jLAM-ERR/corvex
 https://github.com/JM001113/XUI_sub_concantenator
@@ -682,11 +685,13 @@ https://github.com/kitewright-dev/Panther-VPN
 https://github.com/KJGX66F/FreeNodePanel
 https://github.com/kltk/v2ray-tools
 https://github.com/KnowSky404/SubMan
+https://github.com/kobokers/v2ray-subsfilter
 https://github.com/Kokomi-maomeng/Material-Design-CastoriceUI
 https://github.com/komoterdon/free-sub
 https://github.com/Konton022/proxy-balacer
 https://github.com/korsetov007-arch/vless-rus-subscriptions
 https://github.com/kort0881/vpn-vless-configs-russia
+https://github.com/kostiashkaaa/KVT-client
 https://github.com/kot53094-creator/vless-sub
 https://github.com/kottregrossmeyer-lab/one-click-vps-deploy
 https://github.com/kouroshasli/sub
@@ -824,6 +829,7 @@ https://github.com/MhdiTaheri/V2rayCollector
 https://github.com/MhdiTaheri/V2rayCollector_Py
 https://github.com/mhyrv/v2ray-stash
 https://github.com/mhyrzt/xrat
+https://github.com/mianfeidingyue/clash
 https://github.com/MihichN/levushka-desktop
 https://github.com/mihomet/mihomet
 https://github.com/miiiladmo1378/xray-cyber-toolkit-pro
@@ -1188,6 +1194,7 @@ https://github.com/shifeiquan520/shifeiquan3
 https://github.com/shipap/vless-vpn-shop-telegram-bot
 https://github.com/shirfeort/v2ray-mianfei-jiedian
 https://github.com/Shjpr9/Subs
+https://github.com/sikorsky79-cell/vpn-setup-agent-agent
 https://github.com/Silentely/AdBlock-Acceleration
 https://github.com/simboos/v2ray-converter
 https://github.com/Simius-vpn/V2ray-Configs
@@ -1392,6 +1399,7 @@ https://github.com/Woodic-Way/Woodic-Fast-Connect
 https://github.com/Woodic-Way/WoodicWay
 https://github.com/wooxi/xpanel
 https://github.com/wqzhellohhwy/subscription-converter
+https://github.com/wzmwayne/proxy-node
 https://github.com/xadoho/XadoHot
 https://github.com/xCodeOn/Onyx-Panel
 https://github.com/xesina/v2ray-config-examples
@@ -1416,6 +1424,7 @@ https://github.com/Xtop1337/v2raySYBAU
 https://github.com/xutongxue233/SubscriptionConverter
 https://github.com/xuxu4707-netizen/vless-subscription
 https://github.com/xvolld/xvolldv2rayserver
+https://github.com/Xwuan19/v2nodes-auto-sub
 https://github.com/xxphantom/vpn-subscriptions-panel
 https://github.com/xyfqzy/free-nodes
 https://github.com/y6tred-ctrl/v2ray-config-checker
