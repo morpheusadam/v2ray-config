@@ -57,6 +57,7 @@ https://github.com/Agumuzi/crhopper
 https://github.com/ahMADASSadi/We2Ray
 https://github.com/ahmadi8689686/MehrXUI
 https://github.com/ahmadimilad/v2ray-config-finder-tg-bot
+https://github.com/AIDevance/pulsar-releases
 https://github.com/Aimoshish/v2ray-configs
 https://github.com/aipo-lenshow/EdgeNest
 https://github.com/aishervin/subfine
@@ -158,6 +159,7 @@ https://github.com/anoitoskopanos/v2rayNG-Auto
 https://github.com/anonymouskeys/Free-configs-
 https://github.com/anonyphoenix/configraytion
 https://github.com/ansari1375/V2ray-Subscription
+https://github.com/antn-dev/subbridge
 https://github.com/anyuta1166/vless_subscription_generator
 https://github.com/apolloadam31415926/v2ray_config
 https://github.com/arahmani6991-cyber/v2ray-configs
@@ -175,6 +177,7 @@ https://github.com/Arianlavi/RebeldevConfig
 https://github.com/arifulcrypto/vps-deploy-skill
 https://github.com/arista-project/Arista-Panel
 https://github.com/AriyanD/subscription-config-manager
+https://github.com/arjeyproject/NewVpn
 https://github.com/arminmokri/v2ray2json
 https://github.com/ArsamuX/sublink
 https://github.com/Arsham1ho/telegram-bale-proxy-agent
@@ -393,6 +396,7 @@ https://github.com/Erfan-Times/BCT
 https://github.com/erfan138057/edgetunnel-iran
 https://github.com/ErfanElhamiMokhar/v2rayConfig
 https://github.com/esmatshonam3/xray-panel
+https://github.com/Esmien/vpn-service
 https://github.com/Ethanwrite/vpn
 https://github.com/eurus1/V2Box-Client-Config-ios
 https://github.com/Everyday-VPN/Everyday-VPN
@@ -698,6 +702,7 @@ https://github.com/kobokers/v2ray-subsfilter
 https://github.com/Kokomi-maomeng/Material-Design-CastoriceUI
 https://github.com/komoterdon/free-sub
 https://github.com/Konton022/proxy-balacer
+https://github.com/Korrabin/Vpn-subscription-parser
 https://github.com/korsetov007-arch/vless-rus-subscriptions
 https://github.com/kort0881/vpn-vless-configs-russia
 https://github.com/kostiashkaaa/KVT-client
@@ -732,6 +737,7 @@ https://github.com/legend4751/my-v2ray-configs
 https://github.com/Lego1997/mac-proxy-sync
 https://github.com/LeilaoMi/AutoMergePublicNodes-Optimized
 https://github.com/LeilaoMi/preferred-sub-generator
+https://github.com/lepex1/free-vpn-checker
 https://github.com/Lepsic111/vless-private
 https://github.com/Lepsic111/vless-public
 https://github.com/lerjtl/Testfree
@@ -1072,6 +1078,7 @@ https://github.com/PSN71-crypto/https-raw.githubusercontent.com-Syavar-V2ray-Con
 https://github.com/psndydhamyrly64-beep/V2ray-Config-jVGV
 https://github.com/psone-phyo/axion
 https://github.com/pyrolaceaepteropus757/routeflux
+https://github.com/q31r/Qode
 https://github.com/qaderizadeh/v2ray-docker-win
 https://github.com/qanatpanel/qanat
 https://github.com/qilaidev/anyreality-resi-stack
@@ -1270,6 +1277,7 @@ https://github.com/suiyuebaobao/raypilot-xray-panel
 https://github.com/SulgX/ConfigGenerator
 https://github.com/SulgX/SulgX-Panel
 https://github.com/sunnyxorange/v2ray-sub
+https://github.com/Surfboardv2ray/phoenix
 https://github.com/Surfboardv2ray/TGParse
 https://github.com/Surfboardv2ray/v2ray-refiner
 https://github.com/Surfboardv2ray/v2ray-worker-sub
@@ -1394,6 +1402,7 @@ https://github.com/WailBoukhari1/nova-configs
 https://github.com/WallWeb/v2ray-subscription
 https://github.com/wangzai69/Apple-ID
 https://github.com/WayhomeZ/v2ray_to_Clash
+https://github.com/WayneFX36/XNetwork-Client
 https://github.com/Web-Panel-Sing-Box/shilka-web-panel
 https://github.com/wendy926/aikayla
 https://github.com/Wgetux/SailVless
@@ -1468,6 +1477,7 @@ https://github.com/YuHaiA/infrlo-proxy
 https://github.com/Yuiffy/v2raya-failover
 https://github.com/yun8811/natwebui
 https://github.com/yxhpy/v2ray-subscription-manager
+https://github.com/Z-ikko/ZikkO-Vpn-configs
 https://github.com/zabbixrosohr-blip/vless-subscription
 https://github.com/zeltest10-debug/vpn-sub
 https://github.com/ZendanTeam/SS44-sub
