@@ -523,6 +523,7 @@ https://github.com/GretskyOleg/exa-android
 https://github.com/grgarenaroom6-cmd/Free-Config-
 https://github.com/grgarenaroom6-cmd/Free-Config-V2RAYNG-
 https://github.com/grisha-seleznev/free-vless-keys-russia
+https://github.com/grskst2012-cell/WearVpn
 https://github.com/GTAVAry1/BPB-Worker-Fork
 https://github.com/GuardConnect/luci-app-sing-box
 https://github.com/gulfpearltorism/2
@@ -585,6 +586,7 @@ https://github.com/HUA503/vps-subscription-converter
 https://github.com/huangjibbing/edgetunnel-expiry
 https://github.com/huuthang799/vpn-hysteria2
 https://github.com/iaghapour/v2ray-converter
+https://github.com/iamiralpha/v2ray-desk
 https://github.com/ianm6855/v2rayn-desktop
 https://github.com/ib0lit/SubParser
 https://github.com/iboxz/free-v2ray-collector
@@ -711,6 +713,7 @@ https://github.com/kottregrossmeyer-lab/one-click-vps-deploy
 https://github.com/Kourosh242/open-NPV
 https://github.com/kouroshasli/sub
 https://github.com/kukuqi666/Subscription-conversion
+https://github.com/Kurdeus/V2ray-Workflow
 https://github.com/kurdishrojhelat24-design/v2ray-config
 https://github.com/Kusarok/kochsar-panel
 https://github.com/Kwinshadow/TelegramV2rayCollector
@@ -776,6 +779,7 @@ https://github.com/m0bar3z/v2ray-config-tester
 https://github.com/m13801113-ui/Config.yamal
 https://github.com/m1chtv/mich-m3ta
 https://github.com/m43126053-cmd/subscription-v2ray-
+https://github.com/m4574608-cyber/Vanta-VPN
 https://github.com/magicdawn/clash-config-manager
 https://github.com/mahan403/v2ray
 https://github.com/MahanKenway/Freedom-V2Ray
@@ -896,6 +900,7 @@ https://github.com/mozayyanifar/v2ray-gold-verdict
 https://github.com/mpoursadeq-debug/v2ray-configs
 https://github.com/Mr-Amirr-00/Sub-Config-V2ray
 https://github.com/mr-diamond13/KhGh2ray
+https://github.com/MR-NONCHALANT-206/Free-Internet-
 https://github.com/mr-r0ot/FerdowsiConfigs
 https://github.com/MrAbolfazlNorouzi/iran-configs
 https://github.com/MrArvand/FreeRay
@@ -1079,6 +1084,7 @@ https://github.com/psndydhamyrly64-beep/V2ray-Config-jVGV
 https://github.com/psone-phyo/axion
 https://github.com/pyrolaceaepteropus757/routeflux
 https://github.com/q31r/Qode
+https://github.com/q31r/Qode-free-v2ray-proxy
 https://github.com/qaderizadeh/v2ray-docker-win
 https://github.com/qanatpanel/qanat
 https://github.com/qilaidev/anyreality-resi-stack
