@@ -78,6 +78,7 @@ https://github.com/Ali-F-Harandi/v2ray-configs
 https://github.com/ali934h/tg-xui-manager
 https://github.com/aliarbabi/vpn-config-tester
 https://github.com/Aliazadi-1776/WProxy-v2ray
+https://github.com/alicyberrr/NoizVpn-Sub
 https://github.com/alidarvishi14/multi-vpn-server
 https://github.com/alighaffari3000/V2Ray-Subscription-Manager
 https://github.com/ALIILAPRO/ProxyNest
@@ -574,6 +575,7 @@ https://github.com/HojjatSabzali/Xray-Config-Tester
 https://github.com/holydement0r/xray-reality-guide
 https://github.com/hooman1234567/v2ray-sales-bot
 https://github.com/hopsayer/vless-link2xray-config
+https://github.com/horrrik/vpn-scan
 https://github.com/hosiinir1388yt-commits/v2ray-config-panel
 https://github.com/hossein75rn/rebeca-anami3-template
 https://github.com/hosseinit1988/configv2ray
@@ -732,6 +734,7 @@ https://github.com/lance65/.github-workflows-openwrt-ci.yml
 https://github.com/Largo-m/ExploitFA
 https://github.com/Largo-m/vless-toolkit
 https://github.com/LavaTeam-IR/leef-panel
+https://github.com/lavr-art/giocondo
 https://github.com/lcr154/savenet-vpn-bot
 https://github.com/leaftail1880/docker-xray-core-subscription-proxy
 https://github.com/learnLi/free-nodes
@@ -797,6 +800,7 @@ https://github.com/mailbyyan/V2RayServerConfig
 https://github.com/majidalirezaeidotin/V2RayConfig
 https://github.com/malakhdj/v2ray-agent
 https://github.com/mamarzas/free-v2ray-configs
+https://github.com/mani-moh/pattn
 https://github.com/Maniakov132414/cf-bpsub-railway
 https://github.com/maniesh-NR/Proto-Clean
 https://github.com/Maoyangui/godusevpn
@@ -970,6 +974,7 @@ https://github.com/Nima136-kian/Iran-v2ray-subscription
 https://github.com/nimah79/v2ray-subscription-monitor
 https://github.com/nimamohtasham95-dev/V2ray_Config
 https://github.com/nimannji/Cloudflare_worker_panel
+https://github.com/nimazolfaghari66-sketch/iran-vpn-radar
 https://github.com/ninjastrikers/nexus-nodes
 https://github.com/ninjastrikers/v2ray-configs
 https://github.com/NiREvil/bia-pain-bache
@@ -1376,6 +1381,7 @@ https://github.com/vahoryfifa-design/vless-subscription-generator
 https://github.com/ValenokMC/SvoRay
 https://github.com/var017986-ship-it/free-vpn-bot
 https://github.com/Vauth/node
+https://github.com/vbsdelnik/singbox-configurator
 https://github.com/VernaTeam/verna-vpn
 https://github.com/vesnarek/VPN-XRAY-BOT
 https://github.com/vezzze/Subscription-Links
@@ -1430,6 +1436,7 @@ https://github.com/Woodic-Way/Woodic-Fast-Connect
 https://github.com/Woodic-Way/WoodicWay
 https://github.com/wooxi/xpanel
 https://github.com/wqzhellohhwy/subscription-converter
+https://github.com/wwintj/clash-yaml-manager
 https://github.com/wzmwayne/proxy-node
 https://github.com/xadoho/XadoHot
 https://github.com/xCodeOn/Onyx-Panel
@@ -1448,6 +1455,7 @@ https://github.com/xmeng-cx/ipv6-socks-panelv3
 https://github.com/xmwengxing/CFPilot
 https://github.com/xno1n/NEXORA
 https://github.com/xno1n/nexora
+https://github.com/xpersian/zarib-config
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
 https://github.com/xsybau/x-sub-store
