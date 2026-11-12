@@ -549,6 +549,7 @@ https://github.com/hamedcode/port-based-v2ray-configs
 https://github.com/hamedmoradi70701-dotcom/Free-v2ray-Configs
 https://github.com/Hamedzah/v2ray
 https://github.com/Hamedzah/v2ray-gold-verdict
+https://github.com/hamidi2/xray-alive-manager
 https://github.com/hamismartsystems/Hami_panel
 https://github.com/HamoonSoleimani/Pr0xySh4rk
 https://github.com/Hankxuezhang/vps-reality-deploy
@@ -645,6 +646,7 @@ https://github.com/ixiflower/polybot-tg
 https://github.com/jacek4yang/subgate
 https://github.com/jackliuangel/SSRPortConfigurer
 https://github.com/jackrun123/v2ray_configs
+https://github.com/jacktony2001/edgetunnel-sub
 https://github.com/jafarm83/ConfigV2Ray
 https://github.com/jagger235711/V2rayCollector
 https://github.com/jamestashize/mianfei-jiedian-dingyue
@@ -708,6 +710,7 @@ https://github.com/KJGX66F/FreeNodePanel
 https://github.com/kltk/v2ray-tools
 https://github.com/KnowSky404/SubMan
 https://github.com/kobokers/v2ray-subsfilter
+https://github.com/kofukuDESU/cautious-memory
 https://github.com/Kokomi-maomeng/Material-Design-CastoriceUI
 https://github.com/komoterdon/free-sub
 https://github.com/Konton022/proxy-balacer
@@ -1488,6 +1491,7 @@ https://github.com/YawStar/Proxy-Hunter
 https://github.com/YG-Blue/v2ray-subscription
 https://github.com/ygasaino1/sub-gate
 https://github.com/Yikai-Liao/v2ray-reverse-bridge-guide
+https://github.com/yimi072/sub-aggregator
 https://github.com/yinon-mitin/xsa
 https://github.com/Yiwei666/04_-configure-file
 https://github.com/ylongw/vless-reality-deploy
