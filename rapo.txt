@@ -49,6 +49,7 @@ https://github.com/acidmiku/z_panel
 https://github.com/activebook/clash_forge
 https://github.com/acurofobia/subscription-ui-server
 https://github.com/adop1344-bot/LetoVPN-Config-Checker
+https://github.com/Aethersailor/SubConverter-Extended
 https://github.com/afighter-ops/FEYZLAP
 https://github.com/afshinshakibaa-tech/V2ray-Configs
 https://github.com/AgentY0/CVE-2023-34965
@@ -72,6 +73,7 @@ https://github.com/AlchemyLink/Raven-subscribe
 https://github.com/Aleksei-Demin/V2ray_Full_Sub
 https://github.com/Aleksei-Demin/V2ray_only_VLESS_Sub
 https://github.com/Alexander-official/Macros-v3
+https://github.com/alexanderson05/v2ray-Extension
 https://github.com/alexantSWE/V2ray-Config
 https://github.com/Alexaztz/vpn-rules
 https://github.com/Ali-F-Harandi/v2ray-configs
@@ -156,6 +158,7 @@ https://github.com/Andrejewild/happ-v2rayng-configs
 https://github.com/Andrejewild/hiddify-singbox-configs-ru
 https://github.com/andrewkotoed-droid/v2ray-config-generator
 https://github.com/andrewkotoed-droid/v2raytun-balancer-app
+https://github.com/andreyd22/overwall-openwrt
 https://github.com/andreydyadyk/nodes-tester
 https://github.com/ankit4443-ctrl/kite-android
 https://github.com/anoitoskopanos/v2rayNG-Auto
@@ -179,6 +182,7 @@ https://github.com/Arianlavi/PingRay
 https://github.com/Arianlavi/RebeldevConfig
 https://github.com/arifulcrypto/vps-deploy-skill
 https://github.com/arista-project/Arista-Panel
+https://github.com/ArixWorks/G-Tunnel
 https://github.com/AriyanD/subscription-config-manager
 https://github.com/arjeyproject/NewVpn
 https://github.com/arminmokri/v2ray2json
@@ -321,6 +325,7 @@ https://github.com/DartPanel/dart-panel
 https://github.com/davidazad1/free_v2rayconf
 https://github.com/davoo233/Godfe2ray
 https://github.com/davoodtaba-glitch/openconnect-xray
+https://github.com/ddaada11/cheap-airport-guide
 https://github.com/dead-man1/CF-Worker-Sub-Manager
 https://github.com/decemberpei/V2rayRunner
 https://github.com/Dedroff/SimpleXray
@@ -345,6 +350,7 @@ https://github.com/Dima198987/vless-neko-subscription
 https://github.com/DisruptorProxy/Core
 https://github.com/djshxjsh233/cfnode
 https://github.com/Dkveron/SubBridge
+https://github.com/Dmitriy129/self-variants
 https://github.com/dmsh-public-contact/sub2singbox
 https://github.com/Doki-code-22/Free-Internet-
 https://github.com/Dolov07KBR/DF-VPN-Android
@@ -423,6 +429,7 @@ https://github.com/fele77/cf-vmess-trojan-sub
 https://github.com/felix-106/kairo
 https://github.com/fenglinhuowu/jiedian
 https://github.com/ff12900666-del/v2ray-panel
+https://github.com/fffddeer4/SUKOT-VPN-Panel
 https://github.com/fifthidea/sub
 https://github.com/fifthidea/sub-decode
 https://github.com/FijshH/nevpn-releases
@@ -431,6 +438,7 @@ https://github.com/Filizaker2/incy-alternative
 https://github.com/Filizaker2/klyuch-dlya-vpn
 https://github.com/Filizaker2/vless-reality-2026
 https://github.com/Firmfox/Proxify
+https://github.com/Fl1pse/vless-subs
 https://github.com/flclash-us/airport-rec-61wwvk
 https://github.com/flclash-us/airport-rec-wizmbv
 https://github.com/flclash-us/clash-config-generator
@@ -705,6 +713,7 @@ https://github.com/kianheidari91-cmyk/v2ray-config-panel
 https://github.com/kianheidari91-cmyk/v2ray-config-panel6
 https://github.com/killertop/NekoPilot-Android
 https://github.com/Kisjjw/vless2clash
+https://github.com/kitaraw/happ-incy-smproxy-guide
 https://github.com/kitewright-dev/Panther-VPN
 https://github.com/KJGX66F/FreeNodePanel
 https://github.com/kltk/v2ray-tools
@@ -875,6 +884,7 @@ https://github.com/MinimaxFlora/Sing-Box-Template
 https://github.com/miraali1372/mirsub
 https://github.com/MiRHaDi/Aphrodite
 https://github.com/Mistgate/mistgate
+https://github.com/Mistgate/mistgate-client
 https://github.com/mjnazify/ConfiGodZilla--rename-configs-title
 https://github.com/mmkeshavarzz/v2ray-configs
 https://github.com/mnmohammad1389-cmd/mohammad1389
@@ -1128,6 +1138,7 @@ https://github.com/redcorexx/ConfigHub-V2Ray
 https://github.com/redcorexx/Red
 https://github.com/rekt0ro/ProxyRift
 https://github.com/remmchik/v2raya-xhwid-openwrt
+https://github.com/remnashop/remnashop
 https://github.com/Remzloi/v2ray-configs
 https://github.com/renato-mat/mianfei-jiedian-jiali
 https://github.com/renkagod/vpn-aggregator
@@ -1193,6 +1204,7 @@ https://github.com/SapaAtayev/key-finder
 https://github.com/sartip4545-code/https-github.com-SoliSpirit-v2ray-configs
 https://github.com/sasa200000/proxy-hub
 https://github.com/sasa200000/proxy-hub-config-tester
+https://github.com/satanmaker/gowave-auto-nginx
 https://github.com/saTrx/config
 https://github.com/sayedhadi113/v2ray-config-genrator-free
 https://github.com/saymer-alt/link-generators
@@ -1310,6 +1322,7 @@ https://github.com/SzeChiaHao/FreeNodesDaily
 https://github.com/t0chk/v2rayu-updater
 https://github.com/T4cceptor/VRCragsman
 https://github.com/Taboraex/tabora-panel
+https://github.com/TahaHosseinpour/anti-vpn
 https://github.com/tahasite/nettap
 https://github.com/tahmaseb73/configs-collector-v2ray
 https://github.com/TakTyc/vpn-xray-all-country
@@ -1488,6 +1501,7 @@ https://github.com/Yarfer800/local-vless-mgr
 https://github.com/Yarumin/sub-manager
 https://github.com/yasinmalek82/pasarguard-migration-kit
 https://github.com/YawStar/Proxy-Hunter
+https://github.com/yesvichu/sub2surge
 https://github.com/YG-Blue/v2ray-subscription
 https://github.com/ygasaino1/sub-gate
 https://github.com/Yikai-Liao/v2ray-reverse-bridge-guide
