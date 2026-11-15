@@ -206,6 +206,7 @@ https://github.com/AshVPN/SmartIP-Lookup
 https://github.com/asiblak4-beep/Mysub
 https://github.com/askarniroomand/XRayMOD-archive
 https://github.com/Ati054/sb-gateway-openwrt
+https://github.com/Ati054/xroute-openwrt
 https://github.com/AtlanticTeam/V2rayClient
 https://github.com/atu098/railway-vmess-node
 https://github.com/Au1rxx/free-vpn-subscriptions
@@ -253,6 +254,7 @@ https://github.com/Brown8600/free-vpn-sub-bilingual
 https://github.com/bubu629/free-v2ray-clash-auto-subscription-pool
 https://github.com/buegordm-a11y/MatinGhanbari-v2ray-configs
 https://github.com/bUmmy1337/universe-client
+https://github.com/bushilian/bushilian
 https://github.com/buthoijo/web-config
 https://github.com/by-sonic/HyPanel
 https://github.com/c114/fanout-controller
@@ -931,6 +933,7 @@ https://github.com/mozayyanifar/v2ray-gold-verdict
 https://github.com/mpoursadeq-debug/v2ray-configs
 https://github.com/Mr-Amirr-00/Sub-Config-V2ray
 https://github.com/mr-diamond13/KhGh2ray
+https://github.com/MR-NIMA-X/nima-v2ray-subscription
 https://github.com/MR-NONCHALANT-206/Free-Internet-
 https://github.com/mr-r0ot/FerdowsiConfigs
 https://github.com/mr-secret0-0/sub-shield
@@ -1024,6 +1027,7 @@ https://github.com/nodesradar/nodesradar-zh
 https://github.com/nonamedd324-netizen/FHC
 https://github.com/NONPLAYT/xctrl
 https://github.com/NottDevv/SUB-Manager
+https://github.com/Nubian353/podkop-subscription-addon
 https://github.com/nukcrow/black-crow
 https://github.com/nukcrow/Raptor-Config-Tester
 https://github.com/Nullfill/3x-pannel-and-bot
@@ -1217,6 +1221,7 @@ https://github.com/SapaAtayev/key-finder
 https://github.com/sartip4545-code/https-github.com-SoliSpirit-v2ray-configs
 https://github.com/sasa200000/proxy-hub
 https://github.com/sasa200000/proxy-hub-config-tester
+https://github.com/sashist/vsub
 https://github.com/satanmaker/gowave-auto-nginx
 https://github.com/saTrx/config
 https://github.com/sayedhadi113/v2ray-config-genrator-free
@@ -1533,6 +1538,7 @@ https://github.com/YuHaiA/infrlo-proxy
 https://github.com/Yuiffy/v2raya-failover
 https://github.com/yun8811/natwebui
 https://github.com/yxhpy/v2ray-subscription-manager
+https://github.com/yys9253462-gif/cfedge
 https://github.com/Z-ikko/ZikkO-Vpn-configs
 https://github.com/zabbixrosohr-blip/vless-subscription
 https://github.com/zeltest10-debug/vpn-sub
