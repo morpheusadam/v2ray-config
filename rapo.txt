@@ -1058,6 +1058,7 @@ https://github.com/otaku-say/landscape-v2raya
 https://github.com/otaviozanon/SettVPN
 https://github.com/overklassniy/subrelay
 https://github.com/Overl1te/OverVPN
+https://github.com/overnice2025/clash-config-examples
 https://github.com/overnice2025/clash-error-codes
 https://github.com/overnice2025/overnice2025
 https://github.com/overnice2025/subscription-format-notes
@@ -1162,6 +1163,7 @@ https://github.com/renqismike/obhodiq
 https://github.com/ResistalProxy/V2Ray
 https://github.com/Reza-AST-2000/v2ray-subscription
 https://github.com/RezaFKH/V2RaySubscription
+https://github.com/rezasharifi82/V2rayN-Iran-Config
 https://github.com/ReZeRoP/vpn-shop
 https://github.com/richenlin/v2rayR
 https://github.com/RichTiTAN/CrimsonX
@@ -1268,6 +1270,8 @@ https://github.com/shifeiquan520/shifeiquan3
 https://github.com/shipap/vless-vpn-shop-telegram-bot
 https://github.com/shirfeort/v2ray-mianfei-jiedian
 https://github.com/Shjpr9/Subs
+https://github.com/shuxuexiaoli/airport-subscriptions
+https://github.com/siinsiw/mirage
 https://github.com/sikorsky79-cell/vpn-setup-agent-agent
 https://github.com/Silentely/AdBlock-Acceleration
 https://github.com/simboos/v2ray-converter
@@ -1316,6 +1320,7 @@ https://github.com/ssr-node/ssr-node.github.io
 https://github.com/sssilverhand/subforge
 https://github.com/ssskkkiiieee/android-vpn-client
 https://github.com/sstpnk/freedom-cat
+https://github.com/st0rer/proxy-sub-builder
 https://github.com/stailegrow/maxstrike-vpn-client-macos
 https://github.com/StarConsole/podkop-autosub
 https://github.com/StarLordKarma/v2rayn-auto-subscription
@@ -1382,6 +1387,7 @@ https://github.com/tltboss163/VPNmonitor
 https://github.com/tnt1576-a11y/v2raytester
 https://github.com/tobajafary791-lab/v2ray-config-builder
 https://github.com/TooCould/vless-to-singbox
+https://github.com/toolbbs/codew
 https://github.com/topv2raynode/topv2raynode.github.io
 https://github.com/torguardvpn/tgv2ray
 https://github.com/TrionoAK/RyxoPanel
@@ -1397,6 +1403,7 @@ https://github.com/txrx13/meduzavpn
 https://github.com/TypeNil/vpnclient-android
 https://github.com/tytsxai/anyreality-resi-stack
 https://github.com/U4F5Va6c/surge-vless-bridge
+https://github.com/UCIRANX/UC-Plus
 https://github.com/uier2/retro-vless-mac
 https://github.com/ujidesu/vless-mac
 https://github.com/unknowingpro/phproxy
@@ -1459,6 +1466,7 @@ https://github.com/WailBoukhari1/nova-configs
 https://github.com/WallWeb/v2ray-subscription
 https://github.com/wangzai69/Apple-ID
 https://github.com/WayhomeZ/v2ray_to_Clash
+https://github.com/WAYK-A/xray-vpn-decky
 https://github.com/WayneFX36/XNetwork-Client
 https://github.com/Web-Panel-Sing-Box/shilka-web-panel
 https://github.com/wendy926/aikayla
