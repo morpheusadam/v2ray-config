@@ -59,6 +59,7 @@ https://github.com/Agumuzi/crhopper
 https://github.com/ahMADASSadi/We2Ray
 https://github.com/ahmadi8689686/MehrXUI
 https://github.com/ahmadimilad/v2ray-config-finder-tg-bot
+https://github.com/Ahmed-vrn/mofilter
 https://github.com/AIDevance/pulsar-releases
 https://github.com/Aimoshish/v2ray-configs
 https://github.com/aipo-lenshow/EdgeNest
@@ -78,6 +79,7 @@ https://github.com/alexanderson05/v2ray-Extension
 https://github.com/alexantSWE/V2ray-Config
 https://github.com/Alexaztz/vpn-rules
 https://github.com/Ali-F-Harandi/v2ray-configs
+https://github.com/ali-moghadam/v2ray-sub
 https://github.com/ali934h/tg-xui-manager
 https://github.com/aliarbabi/vpn-config-tester
 https://github.com/Aliazadi-1776/WProxy-v2ray
@@ -366,6 +368,7 @@ https://github.com/dorrin-sot/V2RAY_CONFIGS_POOL-Processor
 https://github.com/dos2bang/v2ray_config
 https://github.com/doshniosnii-jpg/my-v2ray-auto-sub
 https://github.com/dostmehdi/v2ray-configs
+https://github.com/dovletix/VlessClient
 https://github.com/dowenliu-xyz/vc
 https://github.com/dqqqqd1/yunxiang-free-node
 https://github.com/DrFarhad2/v2ray_configs_pools
@@ -425,6 +428,7 @@ https://github.com/F0rc3Run/RailPanel
 https://github.com/F4RAN/wolf-pack-watcher
 https://github.com/facksten/V2rayScrapper
 https://github.com/fahim09212263604/v2ray_configs_aryan
+https://github.com/fancyboi999/self-hosted-vpn
 https://github.com/fandoghsheknfree/-
 https://github.com/fandoghsheknfree/-2
 https://github.com/faripoorasl/xray-vpn
@@ -609,6 +613,7 @@ https://github.com/huuthang799/vpn-hysteria2
 https://github.com/iaghapour/v2ray-converter
 https://github.com/iamiralpha/v2ray-desk
 https://github.com/ianm6855/v2rayn-desktop
+https://github.com/iArshman/hollow-vpn
 https://github.com/ib0lit/SubParser
 https://github.com/iboxz/free-v2ray-collector
 https://github.com/icecompany-tech/iceslab
@@ -1373,6 +1378,7 @@ https://github.com/TheHunterX/oneforallhub-v2ray-configs
 https://github.com/thelebster/xproxy
 https://github.com/therealaleph/sni-spoofing-rust
 https://github.com/TheRealMoeid/V2Ray-sales-telegram-bot
+https://github.com/therewasluna/umiji
 https://github.com/theskanthunt42/emergency-toolbox-bot
 https://github.com/thethtwe-dev/v2flare
 https://github.com/thevladoss/vpn_osin
@@ -1506,8 +1512,8 @@ https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
 https://github.com/xmwengxing/CFPilot
-https://github.com/xno1n/NEXORA
 https://github.com/xno1n/nexora
+https://github.com/xno1n/NEXORA
 https://github.com/xpersian/zarib-config
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
