@@ -113,6 +113,7 @@ https://github.com/allionapp/russia-config-guide
 https://github.com/almas77abolfazl/v2ray-config-checker
 https://github.com/alonestar77/Vless-vmess
 https://github.com/alrrstd/cloudflare-vless-subscription-worker
+https://github.com/alshfu/AutoVPN
 https://github.com/altyhydyrov/https-github.com-altyhydyrov-Also-
 https://github.com/alviezhang/subgen
 https://github.com/AMarmeladov/HappDecoder
@@ -202,6 +203,7 @@ https://github.com/arxdeus/hysteria2easy
 https://github.com/asdfjhsqhfdui/Replit-Rivn-WebSocket
 https://github.com/asek26823-cmd/free-jichang-clash-v2ray
 https://github.com/asgharkapk/Sub-Config-Extractor
+https://github.com/ashayesteh86/MahanRouter
 https://github.com/Ashollii/SubHarvest
 https://github.com/Ashrafty/RAE-VPN
 https://github.com/AshVPN/SmartIP-Lookup
@@ -432,6 +434,7 @@ https://github.com/fancyboi999/self-hosted-vpn
 https://github.com/fandoghsheknfree/-
 https://github.com/fandoghsheknfree/-2
 https://github.com/faripoorasl/xray-vpn
+https://github.com/farshid78/Free-v2ray-Configs
 https://github.com/farzadqavidel/v2ray_config
 https://github.com/fdisks/mianfei-jiedian-jianshi
 https://github.com/feast107/up-sub
@@ -544,6 +547,7 @@ https://github.com/gregjodaniel/cf-fusion
 https://github.com/GretskyOleg/exa-android
 https://github.com/grgarenaroom6-cmd/Free-Config-
 https://github.com/grgarenaroom6-cmd/Free-Config-V2RAYNG-
+https://github.com/grigabyte/xray-omarchy
 https://github.com/grisha-seleznev/free-vless-keys-russia
 https://github.com/grskst2012-cell/WearVpn
 https://github.com/GTAVAry1/BPB-Worker-Fork
@@ -558,6 +562,7 @@ https://github.com/h382110229/hawkcdnproxy
 https://github.com/H3mnz/bug_vpn
 https://github.com/HaamiData/Telegram-v2Ray-Crawler
 https://github.com/HafezMosleh/v2ray-smart-tester
+https://github.com/haiwanai/free-nodes
 https://github.com/haloshin/vless-to-clash
 https://github.com/HalyavusVPNUS/vless-subscription
 https://github.com/HamblesDev/WorkerVless2sub
@@ -678,6 +683,7 @@ https://github.com/Jawon-95/one-click-proxy-sub
 https://github.com/jeet8200/CDN-SNI-Scanner-PLUS-for-V2Ray-xray
 https://github.com/jetwalk/japan-sub
 https://github.com/jiaowei94/cf-vless-subscription
+https://github.com/jichangtuijian-vpn/JiChangTuiJian
 https://github.com/jiediancha/tizi
 https://github.com/jimmy-Smile-ltl/clash_proxy
 https://github.com/JimZhang168872/vpnkit
@@ -1051,6 +1057,7 @@ https://github.com/okkarz/v2ray-sub-hub
 https://github.com/olegnysss/geosite_txt
 https://github.com/olpimaker/Nuwaa-Cloud
 https://github.com/Omibranch/quadra
+https://github.com/OneForAllHub/HotaruNet
 https://github.com/onimushar/v2ray_subscription
 https://github.com/onion108/onion-v2ray-subscription-to-clash-converter
 https://github.com/onlyactions/proxy-scanner
@@ -1453,6 +1460,7 @@ https://github.com/vien97/CONFIG-v2ray
 https://github.com/vimdaily1-cell/my_v2ray_config
 https://github.com/vimdaily1-cell/my_v2ray_config1
 https://github.com/vincent20240707/free-v2ray-nodes
+https://github.com/vincentng295/warp-lite
 https://github.com/VistaNovin/daily-v2ray-subscription
 https://github.com/vladbogun1/tunneldeck
 https://github.com/VLOD-ZDOV/vless-extractor
@@ -1515,8 +1523,8 @@ https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
 https://github.com/xmwengxing/CFPilot
-https://github.com/xno1n/nexora
 https://github.com/xno1n/NEXORA
+https://github.com/xno1n/nexora
 https://github.com/xpersian/zarib-config
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
