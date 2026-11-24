@@ -1,12 +1,12 @@
 # Proxy status
 
-Generated 2026-11-23T00:28:09Z by `harvest.py`.
+Generated 2026-11-24T00:49:36Z by `harvest.py`.
 
-- **1701** endpoints opened a TLS tunnel to `raw.githubusercontent.com` this run
-- **3909** entries in `all.txt` (a proxy is kept until it fails 3 runs running)
-- **26186** endpoints on record
+- **1684** endpoints opened a TLS tunnel to `raw.githubusercontent.com` this run
+- **3647** entries in `all.txt` (a proxy is kept until it fails 3 runs running)
+- **26100** endpoints on record
 - retirement age: **12 days** with no successful request
-- **density: 118/600 (20%)** — of a random sample of the shipped file, how many worked on a second pass
+- **density: 152/600 (25%)** — of a random sample of the shipped file, how many worked on a second pass
 
 The test is the app's own: handshake, TLS with SNI, `Range: bytes=0-15`, HTTP 206
 or 200, non-empty body, all inside eight seconds. A proxy that answers a generic
@@ -19,37 +19,37 @@ order is chosen to make the daily diff readable instead.
 
 | protocol | entries |
 |---|---|
-| http | 3286 |
-| socks5 | 618 |
-| socks4 | 5 |
+| http | 3132 |
+| socks5 | 511 |
+| socks4 | 4 |
 
 | country | entries |
 |---|---|
-| ID | 961 |
-| ?? | 749 |
-| NL | 406 |
-| PH | 158 |
-| MX | 124 |
-| CO | 112 |
-| TH | 87 |
-| US | 79 |
-| VE | 79 |
-| BR | 78 |
-| BD | 72 |
-| IN | 71 |
+| ID | 939 |
+| ?? | 564 |
+| NL | 299 |
+| PH | 138 |
+| MX | 133 |
+| CO | 113 |
+| US | 98 |
+| BR | 82 |
+| TH | 82 |
+| VE | 82 |
+| IN | 74 |
+| BD | 69 |
+| RU | 69 |
 | TR | 66 |
-| RU | 53 |
-| EC | 49 |
-| AR | 44 |
-| PK | 43 |
-| CN | 42 |
-| DO | 40 |
+| EC | 53 |
+| CN | 48 |
+| PK | 48 |
+| DO | 45 |
+| AR | 39 |
+| PE | 35 |
 | ZA | 33 |
-| EG | 32 |
-| PE | 31 |
+| VN | 30 |
+| EG | 27 |
 | SG | 26 |
-| VN | 26 |
-| DE | 25 |
+| KE | 24 |
 
 ## Sources
 
@@ -58,32 +58,32 @@ exactly like a quiet day. Anything reading **0 usable** here is worth replacing.
 
 | source | http | lines | usable | new this run | last yielded |
 |---|---|---|---|---|---|
-| https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS5_RAW.txt | 206 | 5 | 5 | 2 | 2026-11-23 |
-| https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/socks5.txt | 206 | 21 | 21 | 0 | 2026-11-23 |
-| https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt | 206 | 91 | 91 | 13 | 2026-11-23 |
-| https://raw.githubusercontent.com/prxchk/proxy-list/main/all.txt | 206 | 100 | 100 | 80 | 2026-11-23 |
-| https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt | 206 | 132 | 132 | 9 | 2026-11-23 |
-| https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt | 206 | 150 | 150 | 25 | 2026-11-23 |
-| https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt | 206 | 150 | 150 | 50 | 2026-11-23 |
-| https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks4.txt | 206 | 163 | 163 | 27 | 2026-11-23 |
-| https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/socks4.txt | 206 | 168 | 168 | 0 | 2026-11-23 |
-| https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/socks5.txt | 206 | 247 | 247 | 105 | 2026-11-23 |
-| https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt | 206 | 336 | 336 | 40 | 2026-11-23 |
-| https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt | 206 | 400 | 400 | 0 | 2026-11-23 |
-| https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt | 206 | 405 | 405 | 160 | 2026-11-23 |
-| https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt | 206 | 442 | 442 | 297 | 2026-11-23 |
-| https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/http.txt | 206 | 528 | 528 | 0 | 2026-11-23 |
-| https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/http.txt | 206 | 554 | 554 | 527 | 2026-11-23 |
-| https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/socks4.txt | 206 | 630 | 630 | 445 | 2026-11-23 |
-| https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt | 206 | 841 | 841 | 128 | 2026-11-23 |
-| https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt | 206 | 1603 | 1603 | 1123 | 2026-11-23 |
-| https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt | 206 | 1801 | 1801 | 1578 | 2026-11-23 |
-| https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/generated/http_proxies.txt | 206 | 1961 | 1961 | 372 | 2026-11-23 |
-| https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt | 206 | 2142 | 2142 | 293 | 2026-11-23 |
-| https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt | 206 | 2378 | 2378 | 720 | 2026-11-23 |
-| https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt | 206 | 2683 | 2683 | 1595 | 2026-11-23 |
-| https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt | 206 | 5680 | 5680 | 4438 | 2026-11-23 |
-| https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/all/data.txt | 206 | 12096 | 12096 | 2158 | 2026-11-23 |
+| https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS5_RAW.txt | 206 | 6 | 6 | 2 | 2026-11-24 |
+| https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/socks5.txt | 206 | 21 | 21 | 0 | 2026-11-24 |
+| https://raw.githubusercontent.com/prxchk/proxy-list/main/all.txt | 206 | 100 | 100 | 81 | 2026-11-24 |
+| https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt | 206 | 119 | 119 | 11 | 2026-11-24 |
+| https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt | 206 | 150 | 150 | 32 | 2026-11-24 |
+| https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt | 206 | 150 | 150 | 61 | 2026-11-24 |
+| https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/socks4.txt | 206 | 168 | 168 | 0 | 2026-11-24 |
+| https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt | 206 | 221 | 221 | 38 | 2026-11-24 |
+| https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt | 206 | 228 | 228 | 40 | 2026-11-24 |
+| https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/socks5.txt | 206 | 247 | 247 | 104 | 2026-11-24 |
+| https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt | 206 | 400 | 400 | 0 | 2026-11-24 |
+| https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt | 206 | 405 | 405 | 160 | 2026-11-24 |
+| https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt | 206 | 416 | 416 | 291 | 2026-11-24 |
+| https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks4.txt | 206 | 523 | 523 | 129 | 2026-11-24 |
+| https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/http.txt | 206 | 528 | 528 | 0 | 2026-11-24 |
+| https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/http.txt | 206 | 554 | 554 | 528 | 2026-11-24 |
+| https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/socks4.txt | 206 | 630 | 630 | 445 | 2026-11-24 |
+| https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt | 206 | 766 | 766 | 112 | 2026-11-24 |
+| https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt | 206 | 1603 | 1603 | 1115 | 2026-11-24 |
+| https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt | 206 | 1801 | 1801 | 1576 | 2026-11-24 |
+| https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/generated/http_proxies.txt | 206 | 1946 | 1946 | 186 | 2026-11-24 |
+| https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt | 206 | 2322 | 2322 | 176 | 2026-11-24 |
+| https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt | 206 | 2780 | 2780 | 716 | 2026-11-24 |
+| https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt | 206 | 3103 | 3103 | 1841 | 2026-11-24 |
+| https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt | 206 | 5704 | 5704 | 4483 | 2026-11-24 |
+| https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/all/data.txt | 206 | 12559 | 12559 | 2176 | 2026-11-24 |
 
 ## Longest-running entries
 
@@ -91,103 +91,103 @@ Consecutive successful runs is the only signal here that predicts tomorrow.
 
 | proxy | country | ms | streak | successes/checks |
 |---|---|---|---|---|
-| http://176.111.37.5:39811 | HK | 999 | 79 | 189/208 |
-| http://130.110.103.245:3128 | SA | 1248 | 54 | 190/208 |
-| http://141.94.22.37:3128 | FR | 759 | 20 | 23/24 |
-| http://45.155.226.177:3128 | HK | 744 | 17 | 22/24 |
-| http://4.144.146.21:80 | SG | 857 | 15 | 91/100 |
-| socks5://193.25.215.182:22222 | US | 1439 | 14 | 173/208 |
-| http://34.43.46.91:80 | US | 480 | 13 | 201/208 |
-| socks5://46.246.12.31:1080 | ?? | 3944 | 13 | 13/13 |
-| http://189.51.168.164:999 | MX | 6485 | 12 | 40/44 |
-| http://104.248.151.93:9090 | SG | 864 | 12 | 77/109 |
-| http://20.98.234.24:8080 | ?? | 406 | 12 | 12/12 |
-| socks5://69.55.49.177:38182 | US | 660 | 12 | 52/63 |
-| http://103.237.102.191:11111 | DE | 840 | 11 | 195/208 |
-| http://45.186.6.104:3128 | EC | 1070 | 10 | 176/186 |
-| http://103.133.26.50:8080 | ID | 1190 | 10 | 74/109 |
-| http://103.133.26.72:8080 | ID | 1204 | 10 | 82/134 |
-| http://103.133.26.73:3128 | ID | 1245 | 10 | 98/186 |
-| http://91.134.141.4:3128 | ?? | 787 | 10 | 10/10 |
-| http://45.245.208.180:8080 | EG | 7252 | 9 | 57/81 |
-| http://140.238.32.108:3128 | JP | 731 | 9 | 124/207 |
-| http://217.142.139.207:8085 | ?? | 6557 | 9 | 10/11 |
-| http://54.36.150.233:3128 | FR | 821 | 8 | 21/30 |
-| http://154.59.56.72:999 | VE | 3504 | 8 | 124/167 |
-| http://147.161.246.34:80 | ?? | 4536 | 8 | 8/8 |
-| socks5://103.248.228.166:5555 | ?? | 982 | 8 | 10/11 |
-| http://45.240.232.61:8080 | EG | 6472 | 7 | 82/188 |
-| http://103.120.175.243:9191 | ID | 6986 | 7 | 16/71 |
-| http://146.190.80.158:9090 | SG | 852 | 7 | 96/134 |
-| socks5://101.36.104.46:10808 | JP | 791 | 7 | 172/208 |
-| socks5://101.36.104.239:10808 | JP | 869 | 7 | 170/208 |
-| http://187.102.219.42:999 | AR | 1550 | 6 | 116/203 |
-| http://190.7.138.78:8080 | CO | 1055 | 6 | 55/137 |
-| http://177.234.217.235:999 | EC | 6340 | 6 | 96/177 |
-| http://190.12.150.244:999 | EC | 2929 | 6 | 151/204 |
-| http://160.22.45.114:8080 | ID | 4055 | 6 | 44/67 |
-| http://49.156.44.116:8080 | KH | 4108 | 6 | 20/42 |
-| http://128.199.113.85:9090 | SG | 910 | 6 | 26/39 |
-| http://167.99.74.174:9090 | SG | 862 | 6 | 113/168 |
-| http://195.226.213.251:8888 | UA | 6941 | 6 | 83/202 |
-| http://38.172.181.0:999 | VE | 2728 | 6 | 61/115 |
-| http://45.135.95.185:3128 | ?? | 2488 | 6 | 6/6 |
-| http://191.44.125.14:8080 | ?? | 6460 | 6 | 7/8 |
-| socks4://188.226.27.24:1080 | RU | 2404 | 6 | 33/44 |
-| socks5://91.107.179.68:10809 | DE | 1089 | 6 | 75/141 |
-| socks5://123.58.219.171:10808 | HK | 1202 | 6 | 150/208 |
-| http://186.22.246.60:3128 | AR | 7082 | 5 | 9/16 |
-| http://190.123.83.137:999 | AR | 5183 | 5 | 38/45 |
-| http://101.251.204.174:8080 | CN | 1684 | 5 | 107/194 |
-| http://111.192.28.24:8888 | CN | 1281 | 5 | 15/30 |
-| http://114.244.221.178:8888 | CN | 1779 | 5 | 68/131 |
-| http://198.244.254.77:3128 | GB | 3247 | 5 | 74/92 |
-| http://45.43.60.220:8080 | JP | 6687 | 5 | 114/207 |
-| http://144.124.251.24:10000 | NL | 985 | 5 | 88/154 |
-| http://144.124.251.24:10007 | NL | 817 | 5 | 81/157 |
-| http://144.124.251.24:10082 | NL | 872 | 5 | 79/156 |
-| http://144.124.251.24:10084 | NL | 902 | 5 | 78/140 |
-| http://144.124.251.24:10088 | NL | 879 | 5 | 74/140 |
-| http://144.124.251.24:10104 | NL | 990 | 5 | 77/140 |
-| http://144.124.251.24:10176 | NL | 1010 | 5 | 90/156 |
-| http://144.124.251.24:10185 | NL | 819 | 5 | 79/140 |
-| http://144.124.251.24:10187 | NL | 996 | 5 | 86/154 |
-| http://144.124.251.24:10216 | NL | 855 | 5 | 92/157 |
-| http://144.124.251.24:10230 | NL | 1004 | 5 | 85/155 |
-| http://144.124.251.24:10261 | NL | 932 | 5 | 82/140 |
-| http://144.124.251.24:10333 | NL | 869 | 5 | 86/157 |
-| http://144.124.251.24:10346 | NL | 810 | 5 | 80/140 |
-| http://144.124.251.24:10366 | NL | 863 | 5 | 84/154 |
-| http://144.124.251.24:10431 | NL | 851 | 5 | 83/156 |
-| http://144.124.251.24:10453 | NL | 854 | 5 | 86/145 |
-| http://144.124.251.24:10471 | NL | 1044 | 5 | 82/155 |
-| http://144.124.251.24:10485 | NL | 849 | 5 | 62/140 |
-| http://144.124.251.24:10551 | NL | 948 | 5 | 83/156 |
-| http://144.124.251.24:10566 | NL | 971 | 5 | 87/141 |
-| http://144.124.251.24:10574 | NL | 901 | 5 | 87/157 |
-| http://144.124.251.24:10601 | NL | 861 | 5 | 82/155 |
-| http://144.124.251.24:10605 | NL | 1006 | 5 | 85/140 |
-| http://144.124.251.24:10689 | NL | 1192 | 5 | 87/144 |
-| http://144.124.251.24:10801 | NL | 873 | 5 | 75/156 |
-| http://144.124.251.24:10818 | NL | 803 | 5 | 71/140 |
-| http://144.124.251.24:11011 | NL | 863 | 5 | 81/140 |
-| http://144.124.251.24:11108 | NL | 1143 | 5 | 80/155 |
-| http://144.124.251.24:11124 | NL | 851 | 5 | 86/157 |
-| http://144.124.251.24:11180 | NL | 949 | 5 | 87/139 |
-| http://144.124.251.24:11265 | NL | 936 | 5 | 87/156 |
-| http://144.124.251.24:11274 | NL | 856 | 5 | 78/156 |
-| http://144.124.251.24:11450 | NL | 1043 | 5 | 74/140 |
-| http://144.124.251.24:11491 | NL | 804 | 5 | 80/156 |
-| http://69.87.216.54:7989 | US | 201 | 5 | 80/153 |
-| http://200.59.191.27:999 | VE | 3334 | 5 | 140/203 |
-| http://103.147.135.32:8082 | ?? | 2285 | 5 | 6/8 |
-| http://147.161.246.34:10165 | ?? | 4874 | 5 | 5/5 |
-| http://150.228.10.232:8080 | ?? | 7727 | 5 | 6/10 |
-| http://195.154.176.34:3128 | ?? | 5824 | 5 | 11/13 |
-| http://217.154.195.87:8888 | ?? | 1806 | 5 | 7/8 |
-| socks4://103.13.19.219:10808 | JP | 1052 | 5 | 17/25 |
-| socks5://45.194.33.12:30001 | HK | 3631 | 5 | 34/84 |
-| socks5://103.236.190.197:1080 | ID | 2379 | 5 | 44/206 |
-| socks5://121.169.46.116:1090 | KR | 4766 | 5 | 138/208 |
-| socks5://88.84.204.217:1080 | RU | 6469 | 5 | 18/91 |
-| socks5://79.98.32.107:1080 | ?? | 2728 | 5 | 7/12 |
+| http://176.111.37.5:39811 | HK | 918 | 80 | 190/209 |
+| http://130.110.103.245:3128 | SA | 1250 | 55 | 191/209 |
+| http://141.94.22.37:3128 | FR | 687 | 21 | 24/25 |
+| http://45.155.226.177:3128 | HK | 643 | 18 | 23/25 |
+| http://4.144.146.21:80 | SG | 1044 | 16 | 92/101 |
+| socks5://193.25.215.182:22222 | US | 756 | 15 | 174/209 |
+| http://34.43.46.91:80 | US | 218 | 14 | 202/209 |
+| socks5://46.246.12.31:1080 | SE | 3030 | 14 | 14/14 |
+| http://189.51.168.164:999 | MX | 1898 | 13 | 41/45 |
+| http://104.248.151.93:9090 | SG | 1170 | 13 | 78/110 |
+| http://20.98.234.24:8080 | US | 295 | 13 | 13/13 |
+| socks5://69.55.49.177:38182 | US | 594 | 13 | 53/64 |
+| http://103.237.102.191:11111 | DE | 884 | 12 | 196/209 |
+| http://45.186.6.104:3128 | EC | 738 | 11 | 177/187 |
+| http://103.133.26.50:8080 | ID | 1364 | 11 | 75/110 |
+| http://103.133.26.72:8080 | ID | 3526 | 11 | 83/135 |
+| http://103.133.26.73:3128 | ID | 1439 | 11 | 99/187 |
+| http://140.238.32.108:3128 | JP | 1047 | 10 | 125/208 |
+| http://54.36.150.233:3128 | FR | 5669 | 9 | 22/31 |
+| http://147.161.246.34:80 | ?? | 4076 | 9 | 9/9 |
+| http://45.240.232.61:8080 | EG | 6739 | 8 | 83/189 |
+| http://146.190.80.158:9090 | SG | 1505 | 8 | 97/135 |
+| socks5://101.36.104.46:10808 | JP | 1147 | 8 | 173/209 |
+| socks5://101.36.104.239:10808 | JP | 1098 | 8 | 171/209 |
+| http://187.102.219.42:999 | AR | 5264 | 7 | 117/204 |
+| http://177.234.217.235:999 | EC | 2634 | 7 | 97/178 |
+| http://49.156.44.116:8080 | KH | 3695 | 7 | 21/43 |
+| http://128.199.113.85:9090 | SG | 3236 | 7 | 27/40 |
+| http://167.99.74.174:9090 | SG | 1351 | 7 | 114/169 |
+| http://195.226.213.251:8888 | UA | 7614 | 7 | 84/203 |
+| http://38.172.181.0:999 | VE | 1603 | 7 | 62/116 |
+| http://45.135.95.185:3128 | ?? | 2485 | 7 | 7/7 |
+| socks4://188.226.27.24:1080 | RU | 1380 | 7 | 34/45 |
+| socks5://91.107.179.68:10809 | DE | 1176 | 7 | 76/142 |
+| socks5://123.58.219.171:10808 | HK | 1499 | 7 | 151/209 |
+| http://190.123.83.137:999 | AR | 4876 | 6 | 39/46 |
+| http://111.192.28.24:8888 | CN | 1923 | 6 | 16/31 |
+| http://114.244.221.178:8888 | CN | 1782 | 6 | 69/132 |
+| http://195.154.176.34:3128 | FR | 1636 | 6 | 12/14 |
+| http://198.244.254.77:3128 | GB | 2738 | 6 | 75/93 |
+| http://144.124.251.24:10000 | NL | 681 | 6 | 89/155 |
+| http://144.124.251.24:10007 | NL | 764 | 6 | 82/158 |
+| http://144.124.251.24:10082 | NL | 782 | 6 | 80/157 |
+| http://144.124.251.24:10084 | NL | 856 | 6 | 79/141 |
+| http://144.124.251.24:10088 | NL | 827 | 6 | 75/141 |
+| http://144.124.251.24:10104 | NL | 776 | 6 | 78/141 |
+| http://144.124.251.24:10176 | NL | 792 | 6 | 91/157 |
+| http://144.124.251.24:10185 | NL | 794 | 6 | 80/141 |
+| http://144.124.251.24:10187 | NL | 684 | 6 | 87/155 |
+| http://144.124.251.24:10216 | NL | 682 | 6 | 93/158 |
+| http://144.124.251.24:10230 | NL | 835 | 6 | 86/156 |
+| http://144.124.251.24:10333 | NL | 875 | 6 | 87/158 |
+| http://144.124.251.24:10346 | NL | 749 | 6 | 81/141 |
+| http://144.124.251.24:10366 | NL | 894 | 6 | 85/155 |
+| http://144.124.251.24:10431 | NL | 707 | 6 | 84/157 |
+| http://144.124.251.24:10453 | NL | 783 | 6 | 87/146 |
+| http://144.124.251.24:10471 | NL | 694 | 6 | 83/156 |
+| http://144.124.251.24:10485 | NL | 791 | 6 | 63/141 |
+| http://144.124.251.24:10551 | NL | 675 | 6 | 84/157 |
+| http://144.124.251.24:10566 | NL | 882 | 6 | 88/142 |
+| http://144.124.251.24:10574 | NL | 921 | 6 | 88/158 |
+| http://144.124.251.24:10601 | NL | 858 | 6 | 83/156 |
+| http://144.124.251.24:10605 | NL | 782 | 6 | 86/141 |
+| http://144.124.251.24:10689 | NL | 790 | 6 | 88/145 |
+| http://144.124.251.24:10801 | NL | 718 | 6 | 76/157 |
+| http://144.124.251.24:10818 | NL | 663 | 6 | 72/141 |
+| http://144.124.251.24:11011 | NL | 909 | 6 | 82/141 |
+| http://144.124.251.24:11108 | NL | 846 | 6 | 81/156 |
+| http://144.124.251.24:11124 | NL | 772 | 6 | 87/158 |
+| http://144.124.251.24:11180 | NL | 711 | 6 | 88/140 |
+| http://144.124.251.24:11265 | NL | 844 | 6 | 88/157 |
+| http://144.124.251.24:11274 | NL | 833 | 6 | 79/157 |
+| http://144.124.251.24:11450 | NL | 818 | 6 | 75/141 |
+| http://144.124.251.24:11491 | NL | 802 | 6 | 81/157 |
+| http://200.59.191.27:999 | VE | 3332 | 6 | 141/204 |
+| http://150.228.10.232:8080 | YE | 4566 | 6 | 7/11 |
+| http://217.154.195.87:8888 | ?? | 7824 | 6 | 8/9 |
+| socks5://45.194.33.12:30001 | HK | 4735 | 6 | 35/85 |
+| socks5://103.13.19.219:10808 | JP | 2713 | 6 | 18/26 |
+| socks5://121.169.46.116:1090 | KR | 1309 | 6 | 139/209 |
+| socks5://88.84.204.217:1080 | RU | 3249 | 6 | 19/92 |
+| socks5://79.98.32.107:1080 | TR | 6153 | 6 | 8/13 |
+| http://45.65.137.218:999 | CO | 5708 | 5 | 87/174 |
+| http://200.10.31.42:8081 | CO | 1152 | 5 | 40/82 |
+| http://103.183.8.135:8080 | ID | 5423 | 5 | 39/197 |
+| http://144.124.251.24:10008 | NL | 798 | 5 | 85/140 |
+| http://144.124.251.24:10610 | NL | 783 | 5 | 81/141 |
+| http://195.158.8.123:3128 | UZ | 2549 | 5 | 134/207 |
+| http://5.75.173.39:3128 | ?? | 778 | 5 | 5/5 |
+| http://41.57.136.174:8080 | ?? | 7014 | 5 | 5/5 |
+| http://50.238.106.26:3128 | ?? | 259 | 5 | 5/5 |
+| http://103.163.80.181:8085 | ?? | 1387 | 5 | 5/5 |
+| http://114.246.201.118:8888 | ?? | 1784 | 5 | 5/5 |
+| http://114.249.215.249:8888 | ?? | 6705 | 5 | 5/5 |
+| socks5://65.21.252.66:10805 | FI | 6557 | 5 | 63/123 |
+| socks5://171.25.158.95:1080 | SE | 2799 | 5 | 90/124 |
+| socks5://193.218.118.128:1080 | UA | 4835 | 5 | 47/65 |
+| socks5://47.76.227.81:6002 | ?? | 2869 | 5 | 5/5 |
+| http://190.188.131.87:8080 | AR | 7410 | 4 | 34/123 |
+| http://16.174.124.173:425 | CA | 2276 | 4 | 48/177 |
