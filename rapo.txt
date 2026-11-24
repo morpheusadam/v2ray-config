@@ -21,6 +21,7 @@ https://github.com/3yed-61/v2ray-config-modifier
 https://github.com/411A/V2ProDock
 https://github.com/411A/V2RayDAR
 https://github.com/43trh/FARSI-telegram-configs-collector
+https://github.com/519558784-cyber/v2ray-sub
 https://github.com/5nym92cs2r-star/jichangcloud
 https://github.com/5nym92cs2r-star/jichangk.blog
 https://github.com/5nym92cs2r-star/jichangwang-recommend-2026
@@ -259,6 +260,7 @@ https://github.com/boypt/vmess2json
 https://github.com/Bpazy/comfysub
 https://github.com/Bpazy/xraysub
 https://github.com/bridgerzan/v2ray-config
+https://github.com/briqt/xray-panel
 https://github.com/BROadmin/BROray
 https://github.com/BROadmin/BROray-Light
 https://github.com/Brown8600/free-vpn-sub-bilingual
@@ -382,6 +384,7 @@ https://github.com/dovletix/VlessClient
 https://github.com/dowenliu-xyz/vc
 https://github.com/dqqqqd1/yunxiang-free-node
 https://github.com/dqzaexxpess/brod
+https://github.com/drdr-cloud/proton-vless-subscription
 https://github.com/DrFarhad2/v2ray_configs_pools
 https://github.com/driftray/easyxray
 https://github.com/drmikecrypto/PulseConfigs
@@ -414,6 +417,7 @@ https://github.com/elf2017spring/ConfigsHub
 https://github.com/eliot-voodi/l2x-panel
 https://github.com/elminsterjimmy/v2ray-to-clash
 https://github.com/Elvis-Nightingale/v2sub
+https://github.com/elvisl8/sub-collector
 https://github.com/EmirenRU/v2rayn-routes-configs
 https://github.com/EMUEM/EMUNEL
 https://github.com/Enot-P/vpn-subscriptions-api
@@ -551,6 +555,7 @@ https://github.com/GOLDNETSS/goldnets
 https://github.com/goldrad/v2ray-config-converter
 https://github.com/goorilairan/S
 https://github.com/gooriltehran/101-
+https://github.com/grachevvladislav/podkop-subscriptions
 https://github.com/GradeApp/Vikify
 https://github.com/Greatbar/luci-subscription-toolkit
 https://github.com/greatendga/mianfei-jiedian-danji
@@ -757,6 +762,7 @@ https://github.com/KJGX66F/FreeNodePanel
 https://github.com/kltk/v2ray-tools
 https://github.com/KnowSky404/SubMan
 https://github.com/kobokers/v2ray-subsfilter
+https://github.com/koffecito/Kneta
 https://github.com/kofukuDESU/cautious-memory
 https://github.com/Kokomi-maomeng/Material-Design-CastoriceUI
 https://github.com/komoterdon/free-sub
@@ -1160,6 +1166,7 @@ https://github.com/PrinceVSFX/Adapt-Configs
 https://github.com/printfer/v2sing
 https://github.com/ProblemTheCode/SylphNet-public
 https://github.com/procrastinando/mindbloat-bot
+https://github.com/prodkot/kot
 https://github.com/ProNetworkEngineer/VPN-all-types-guide
 https://github.com/properr/remnawave-installer
 https://github.com/ProxyaAnty/proxy-to-vless
@@ -1207,6 +1214,7 @@ https://github.com/renqismike/obhodiq
 https://github.com/ResistalProxy/V2Ray
 https://github.com/Reza-AST-2000/v2ray-subscription
 https://github.com/RezaFKH/V2RaySubscription
+https://github.com/rezamahandiz-byte/V2RAY-SUBSCRIPTION
 https://github.com/rezasharifi82/V2rayN-Iran-Config
 https://github.com/ReZeRoP/vpn-shop
 https://github.com/richenlin/v2rayR
@@ -1229,6 +1237,7 @@ https://github.com/Robot-x-git/v2ray-configs-robotx-updated
 https://github.com/roman-png/VPNpool
 https://github.com/romanpodg/SubShare-Go
 https://github.com/Romaxa55/MegaV_Public
+https://github.com/Romija/.config
 https://github.com/roozaneh/v2ray-configs-iran
 https://github.com/roriruri9370/Whitelist-bypass
 https://github.com/rosakodu/sub-deck
@@ -1437,6 +1446,7 @@ https://github.com/tionmon/subgo
 https://github.com/tltboss163/VPNmonitor
 https://github.com/tnt1576-a11y/v2raytester
 https://github.com/tobajafary791-lab/v2ray-config-builder
+https://github.com/tony-wang1990/laowang-sub-converter
 https://github.com/TooCould/vless-to-singbox
 https://github.com/toolbbs/codew
 https://github.com/topv2raynode/topv2raynode.github.io
@@ -1482,6 +1492,7 @@ https://github.com/VadimOnix/xray-decky
 https://github.com/vahed20004/V2ray-Config
 https://github.com/vahoryfifa-design/vless-subscription-generator
 https://github.com/ValenokMC/SvoRay
+https://github.com/Vantray/panel
 https://github.com/var017986-ship-it/free-vpn-bot
 https://github.com/Vauth/FoxyVPN
 https://github.com/Vauth/node
@@ -1561,8 +1572,8 @@ https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
 https://github.com/xmwengxing/CFPilot
-https://github.com/xno1n/NEXORA
 https://github.com/xno1n/nexora
+https://github.com/xno1n/NEXORA
 https://github.com/xpersian/zarib-config
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
