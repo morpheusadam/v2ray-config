@@ -56,6 +56,7 @@ https://github.com/afighter-ops/FEYZLAP
 https://github.com/afshinshakibaa-tech/V2ray-Configs
 https://github.com/AgentY0/CVE-2023-34965
 https://github.com/aghayesaeedi/AS-scanner
+https://github.com/aghorbani84/ray-finder
 https://github.com/Agumuzi/crhopper
 https://github.com/ahMADASSadi/We2Ray
 https://github.com/ahmadi8689686/MehrXUI
@@ -325,6 +326,12 @@ https://github.com/crossxx-labs/free-proxy
 https://github.com/CTPavel/CTFlow
 https://github.com/currycan/sb-xray
 https://github.com/curzydj8/v2ray-confighub
+https://github.com/cw11ark/28-jichang
+https://github.com/cw11ark/30-jichang
+https://github.com/cw11ark/35-sslinks-jichang
+https://github.com/cw11ark/38-jichang
+https://github.com/cw11ark/42-jichang
+https://github.com/cw11ark/56--666-jichang
 https://github.com/cyberanrhy/proxy-skitchen
 https://github.com/cyrusalbert/ArashOnline
 https://github.com/cyrusalbert/ArashOnline-Csharp
@@ -354,6 +361,7 @@ https://github.com/DekomoriDES/vless-subscription
 https://github.com/Del-Iternenko/pingless
 https://github.com/Delta-Kronecker/ProtonVPN-WireGuard-configuration
 https://github.com/Delta-Kronecker/V2ray-Config
+https://github.com/Delta-Tor-Official/V2ray-Config
 https://github.com/Dev1324/Free-V2ray-Configs-Hiddify
 https://github.com/dev202635/Dev202635
 https://github.com/dev4ai68-jpg/xray_sub_transformer
@@ -850,6 +858,7 @@ https://github.com/m43126053-cmd/subscription-v2ray-
 https://github.com/m4574608-cyber/Vanta-VPN
 https://github.com/mablue/MariaRay
 https://github.com/mablue/v2ray-filtered-subs
+https://github.com/Maestix/bliss
 https://github.com/magicdawn/clash-config-manager
 https://github.com/mahan403/v2ray
 https://github.com/MahanKenway/Freedom-V2Ray
@@ -858,6 +867,7 @@ https://github.com/mahdi-turrkk/x-ui-panel-manager
 https://github.com/Mahdi0024/ProxyCollector
 https://github.com/MahdiAshuori/v2ma.apk
 https://github.com/mahdifrkh/premade-V2rayN-backup
+https://github.com/mahdisandughdaran-sys/xhttp-sub
 https://github.com/mahdizynali/jimbo-v2ray
 https://github.com/mahdyaralipor/v2all
 https://github.com/mahsaq39-lgtm/Subscription
@@ -958,6 +968,7 @@ https://github.com/MohsenReyhani/vless-subscriptions
 https://github.com/mojime66/v2ray-config
 https://github.com/Mokafela/Co-Killer
 https://github.com/Mokafela/Config-Finder
+https://github.com/momaek/patato
 https://github.com/momimamadrar/Config_v2ray
 https://github.com/monochenx-creator/gist-node-manager-for-Clash
 https://github.com/MoonlessWanderer/v2uptime
@@ -1219,6 +1230,7 @@ https://github.com/rezasharifi82/V2rayN-Iran-Config
 https://github.com/ReZeRoP/vpn-shop
 https://github.com/richenlin/v2rayR
 https://github.com/RichTiTAN/CrimsonX
+https://github.com/RichTiTAN/CrimsonX-Linux
 https://github.com/RichTiTAN/V2rayTested
 https://github.com/rickylsr/ShareYourV2raySubscription
 https://github.com/rickyoktriadii/V2ray-to-clash-
@@ -1572,8 +1584,8 @@ https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
 https://github.com/xmwengxing/CFPilot
-https://github.com/xno1n/nexora
 https://github.com/xno1n/NEXORA
+https://github.com/xno1n/nexora
 https://github.com/xpersian/zarib-config
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
