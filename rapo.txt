@@ -158,6 +158,7 @@ https://github.com/AmirrezaFarnamTaheri/ConfigStream
 https://github.com/AmirrezaFarnamTaheri/HUNTX
 https://github.com/amirrhmni/v2ray-subscription-Amir
 https://github.com/amirtala1983/v2ray
+https://github.com/AMIRTHRI/OrcaNet-Clientv3
 https://github.com/Amirzamani1l/WRAITH
 https://github.com/amirzariin1978-afk/AZSMART-CONFIG-2026
 https://github.com/Amn021/telegram-config-bot
@@ -853,6 +854,7 @@ https://github.com/ludas114343/render-vless-proxy
 https://github.com/ludas114343/singbox-railway
 https://github.com/lululoid/vmess_sub_to_clash_meta
 https://github.com/lumexvpn/Free-Telegram-Proxies
+https://github.com/lumsub-tech/lumsub-guides
 https://github.com/lusonmales-pixel/OdemaVPN
 https://github.com/lvqopl/BPB-Worker-Panel
 https://github.com/m-hesam-moradian/gemini-filter
@@ -957,6 +959,7 @@ https://github.com/mmkeshavarzz/v2ray-configs
 https://github.com/mnmohammad1389-cmd/mohammad1389
 https://github.com/mnmohammad1389-cmd/mohammad13890
 https://github.com/mobin139111kffkkffffffff/sanac
+https://github.com/modszf/v2ray-config-checker
 https://github.com/moeinomidali/v2ray-proxy-service
 https://github.com/mohamad3004/V2ray_configs
 https://github.com/mohamadfg-dev/telegram-v2ray-configs-collector
@@ -1331,6 +1334,7 @@ https://github.com/SHARE-V2RAY-SERVERS/V2RAY_SUBSCRIPTION_LINKS
 https://github.com/ShatakVPN/ConfigForge-V2Ray
 https://github.com/Shayanthn/V2ray-Tester-Pro
 https://github.com/shekelstrong/vpn_bot
+https://github.com/shelter37/safesub
 https://github.com/shenaba/2s-ui
 https://github.com/shenyanshu/clash-to-v2rayn-converter
 https://github.com/Sher-Kal/LegacyXrayClient
@@ -1479,6 +1483,7 @@ https://github.com/TuftyTech/ShellShift
 https://github.com/tunmerreclop/Proxify-PWA
 https://github.com/tvbs8366-glitch/liberclaw-sub
 https://github.com/TwilgateLabs/inhive
+https://github.com/twinpigs/hidemy-socks-gateway
 https://github.com/Twoia-Kotletochka/xray-vpn-control-plane
 https://github.com/txrx13/meduzavpn
 https://github.com/TypeNil/vpnclient-android
@@ -1536,6 +1541,7 @@ https://github.com/vorlocsev/3xui-manager
 https://github.com/vorz1k/v2box
 https://github.com/VovaplusEXP/p-configs
 https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy
+https://github.com/VPNLK-online/VPNLK.online
 https://github.com/VQIVS/MarzbanBot
 https://github.com/VQIVS/Seller_Admin
 https://github.com/vrlda/varpn-xray-client
@@ -1592,8 +1598,8 @@ https://github.com/xLyouLx/Filter-duplicates-key
 https://github.com/xLyouLx/SNI-sub-filter
 https://github.com/xmeng-cx/ipv6-socks-panelv3
 https://github.com/xmwengxing/CFPilot
-https://github.com/xno1n/NEXORA
 https://github.com/xno1n/nexora
+https://github.com/xno1n/NEXORA
 https://github.com/xpersian/zarib-config
 https://github.com/Xpos587/vless-sub-server
 https://github.com/xsmac/ClashX-V2Ray-TopFreeProxy
